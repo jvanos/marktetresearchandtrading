@@ -27,7 +27,7 @@ Open these in order before doing anything:
 - **Wrapper-enforced gates**: `scripts/alpaca.sh order` validates every BUY
   order in code before it reaches Alpaca — it refuses non-stock symbols,
   more than 6 resulting open positions, cost over 20% of equity or
-  available cash, more than 3 filled buys this week, cost over live
+  available cash, more than 8 filled buys this week, cost over live
   `buying_power`, and new buys while a daily-loss circuit breaker is
   tripped. These are not suggestions you need to self-police — the wrapper
   rejects the order outright (exit code 2, reason on stderr). Treat a
@@ -46,7 +46,7 @@ anything else.
 - NO OPTIONS — ever (also enforced in the wrapper).
 - Max 5-6 open positions (also enforced in the wrapper).
 - Max 20% per position (also enforced in the wrapper).
-- Max 3 new trades per week (also enforced in the wrapper).
+- Max 8 new trades per week (also enforced in the wrapper).
 - 75-85% capital deployed.
 - 10% trailing stop on every position as a real GTC order.
 - Cut losers at -7% manually.
