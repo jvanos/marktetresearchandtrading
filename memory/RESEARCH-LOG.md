@@ -218,3 +218,40 @@ market-open routine for live quotes and final call.
 HOLD — no new positions. MSFT is profitable and protected; let it run
 through ADP and Warsh. Reassess at market-open routine with live prices
 after macro data is out. Patience > activity.
+## 2026-07-01 — Pre-market Research
+*(routine fired 15:27 ET, near close; prices are intraday-live, not literal pre-open)*
+
+### Account
+- Equity: $100,776.59
+- Cash: $80,351.45
+- Buying power: $378,596.19 (margin)
+- Deployed: MSFT $20,425 (~20% of equity) — only position
+
+### Market Context
+- WTI / Brent: ~$68.3 / ~$72 — both down ~1.5-1.7%; falling on US-Iran peace / Hormuz reopening
+- S&P 500 futures: ~7,545 flat (-0.04%); Nasdaq +0.04%, Dow -0.17%
+- VIX: ~16.5-16.8 (low fear)
+- Today's catalysts: AI/chip rebound — AMD +7.7%, SNDK +10.9%, META +7%; memory/semis leading; US-Iran ceasefire easing oil
+- Earnings before open: GIS, FDS, MSM, UNF (not thesis-relevant)
+- Economic calendar: JOLTS (May) due ~7.3M openings. No CPI/PPI/FOMC today. CPI Jun = Jul 14, PPI = Jul 15. May CPI ran hot (4.2% YoY) — Fed hold-through-2026, possible Dec cut.
+- Sector momentum YTD: Energy +23.3%, Materials +17.4%, Staples +15.6%, Industrials +14.1% (leaders); Financials -6.9%, Cons. Disc. -3.8%, Info Tech -3.3%, Comm Svcs -1.2% (laggards). Rotation into hard-assets/cyclicals; tech lags on YTD despite May AI surge.
+
+### MSFT Position Check (held)
+- 53 sh @ $370.73; current $385.39, +3.95% unrealized (+$776.87); +3.3% today
+- Trailing stop GTC active, stop $349.95, HWM $388.83 (stop ID 529f2067) — protected
+- Thesis intact: MSFT +5.7% recent session on Azure/Copilot demand; Wedbush PT $575, TD Cowen Buy; EY $1B AI deal; Pershing Square stake. Earnings Jul 27. Consensus fair value ~$472 (~26% upside).
+- Risks: cloud gross margin 66% (down); EU antitrust; Zacks #3 Hold; hot inflation = multiple-compression risk on rate path
+
+### Trade Ideas
+1. MSFT (held) — HOLD. Winner, protected, thesis strong into Jul 27 earnings. Let it run; stop does the work.
+2. Semis/memory (AMD, SNDK) — chip rebound is today's momentum, but Info-Tech is a YTD laggard and this is a one-day pop late in session. Watch only; want confirmation before chasing into the close.
+3. Energy (XLE) — actual YTD leader, but oil falling on Iran peace = contra-signal. Not today.
+
+### Risk Factors
+- Chasing a one-day chip pop near the close = poor R:R; late-session entries lack overnight stop protection (trailing stops don't run overnight)
+- Tech lagging sector YTD; MSFT is a single-name fundamentals play, not a sector-momentum trade
+- Hot CPI backdrop keeps rate-path risk live for growth multiples
+- Q3 rebalancing could pressure Q2 winners early in the quarter
+
+### Decision
+HOLD — no new positions. MSFT profitable and protected; only 20% deployed but adding late in the session on a one-day chip pop is low-quality R:R. Reassess at next market-open routine with fresh macro (JOLTS) and pre-open prices. Patience > activity.
