@@ -158,3 +158,63 @@ NVDA but require price-action confirmation post-selloff before entry, and
 elevate MSFT as the more textbook "resilient AI-adjacent" candidate for a
 market-open look if spread tightens. Patience > activity — defer to
 market-open routine for live quotes and final call.
+
+## 2026-07-01 — Pre-market Research
+
+### Account
+- Equity: $100,475.55 | Cash: $80,351.45 | Buying power: $377,753
+- MSFT: 53 shares long @ $370.727 entry, pre-market $379.70 (+2.42%, +$475.56
+  unrealized) — trailing stop GTC active, HWM $374.15, stop $336.74
+
+### Market Context
+- WTI: ~$70/bbl (down ~1% from yesterday) | Brent: ~$72-73/bbl (down ~1%) —
+  oil drifting lower on continued Iran-resolution optimism
+- S&P 500 futures: ~7,520-7,545, flat to -0.3%; Dow -0.17%; Nasdaq +0.04%
+  — cautious Q3 open
+- VIX: ~17.08 pre-market (closed yesterday 16.45; briefly spiked to 19.45
+  Friday 6/27 before pulling back) — still <20 but edging up
+- **TWO MACRO EVENTS this morning are the key variables:**
+  1. ADP Employment (8:15 AM ET) — consensus 113K vs. May 122K; beat would
+     reinforce September rate-hike expectations
+  2. Fed Chair Kevin Warsh speech (9:30 AM ET) — markets now pricing a rate
+     HIKE as soon as September after Warsh signaled inflation focus at last
+     FOMC; hawkish tone = meaningful headwind for growth/tech multiples
+  3. ISM/S&P Global Manufacturing PMI final (9:45 AM) — informational
+- Earnings before open: GIS, FDS, MSM, UNF — consumer/industrial, not
+  relevant to thesis
+- **Sector rotation — important revision:** YTD sector leaders are Energy
+  (+16-23%), Materials (+12-17%), Consumer Staples (+11-15%), Industrials.
+  Information Technology is -3.3% YTD and classified "Lagging" in rotation
+  models. Tech surged in May-June (AI rally, XLK +16% in May) but Q1 losses
+  left the full-YTD negative. SPMO (+21-33% YTD) captures individual
+  momentum names across all sectors — the factor works; the tech sector
+  index as a whole does not.
+
+### MSFT Position Check (held)
+- Thesis intact: Azure +40%, AI $37B ARR (+123% YoY), next earnings July 27
+- 97 analysts Buy, avg target $589-592; lowest forward multiple since 2023
+- New risks since entry: EU antitrust preliminary findings; cloud gross margin
+  down to 66% in Q3; 18 of 25 analysts revised EPS estimates downward in
+  last 90 days; rate-hike pricing = multiple compression risk
+- Not a momentum stock — a recovery/value play with AI fundamentals; thesis
+  holds but Warsh speech is the main intraday risk to watch
+
+### Trade Ideas
+1. MSFT (held) — HOLD. Stop protecting downside. Watch Warsh at 9:30 for
+   thesis-break signal (aggressive hike language → reassess at midday).
+2. NVDA — watch only; chip-sector + rate-hike headwind = wrong day to add
+3. Energy (XLE) — actual momentum leaders YTD, but Iran resolution = falling
+   oil = contra-signal. Not today.
+
+### Risk Factors
+- Warsh speech is the biggest single risk; hawkish surprise could compress
+  tech multiples and drag MSFT regardless of fundamentals
+- ADP + Warsh double-signal on rate hikes could make new entries unwise
+- Tech is a lagging sector YTD — offset by MSFT fundamentals, but a risk
+- Q3 start = institutional rebalancing; selling of Q2 winners (AI/tech)
+  possible in first few days
+
+### Decision
+HOLD — no new positions. MSFT is profitable and protected; let it run
+through ADP and Warsh. Reassess at market-open routine with live prices
+after macro data is out. Patience > activity.
