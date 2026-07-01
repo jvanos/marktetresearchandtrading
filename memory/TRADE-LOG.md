@@ -11,6 +11,17 @@ No positions yet. Bot launches tomorrow.
 |---|---|---|---|---|---|---|---|---|
 | 2026-06-30 | MSFT | BUY | 53 | $370.73 | $333.91 trailing 10% GTC | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
 
+### Jul 01 — EOD Snapshot (Day 2, Wednesday)
+**Portfolio:** $100,676.95 | **Cash:** $80,351.45 (79.8%) | **Day P&L:** +$555.44 (+0.55%) | **Phase P&L:** +$676.95 (+0.68%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $383.50 | +2.81% | +$676.96 (+3.45%) | $349.95 (10% trail, HWM $388.83) |
+
+**Notes:** Market open today; no new trades executed. MSFT closed strong at $383.50 (+2.81%), lifting the portfolio to $100,676.95. Trailing stop updated to $349.95 with new HWM $388.83 (vs. $333.91 initial stop). Account remains heavily in cash at 79.8% — only 20.2% deployed, well below the 75-85% target — signaling need to add 2-3 positions. No sector failures; MSFT thesis intact. Note: Day 0 baseline corrected to $100,000 (paper trading default; initial trade-log entry of $10,000 was incorrect).
+
+---
+
 ## 2026-06-30 — Day 1 Trade
 
 - **15:05 ET** — Bought 53 MSFT @ $370.727 avg fill ($19,648.54 cost, 19.7% of equity)
