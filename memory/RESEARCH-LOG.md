@@ -255,3 +255,11 @@ after macro data is out. Patience > activity.
 
 ### Decision
 HOLD — no new positions. MSFT profitable and protected; only 20% deployed but adding late in the session on a one-day chip pop is low-quality R:R. Reassess at next market-open routine with fresh macro (JOLTS) and pre-open prices. Patience > activity.
+
+### 2026-07-01 — Midday Addendum (~15:37 ET)
+- MSFT: 53 sh @ $370.73 entry | current ~$385.34 (+3.94% unrealized, +$774) | trailing stop GTC $349.95 HWM $388.83
+- **Catalyst confirmed:** Snowflake Q1 blowout declared enterprise AI demand at "clear inflection point" — directly answers central MSFT thesis question (is $190B Azure AI spend justified?). Reverses SaaSpocalypse fear. Bullish for MSFT Azure/Copilot.
+- **Warsh speech:** non-event; no meaningful market impact recorded
+- **Additional MSFT positives:** EY $1B AI partnership, Pershing Square stake (Ackman), new in-house AI coding model announced; TD Cowen reiterated Buy
+- **No action taken:** no losers (-7% not triggered), no stop tightening (+3.94% < +15% threshold), no thesis break
+- Trailing stop doing its job; let it run into close
