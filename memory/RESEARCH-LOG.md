@@ -263,3 +263,39 @@ HOLD — no new positions. MSFT profitable and protected; only 20% deployed but 
 - **Additional MSFT positives:** EY $1B AI partnership, Pershing Square stake (Ackman), new in-house AI coding model announced; TD Cowen reiterated Buy
 - **No action taken:** no losers (-7% not triggered), no stop tightening (+3.94% < +15% threshold), no thesis break
 - Trailing stop doing its job; let it run into close
+
+## 2026-07-02 — Pre-market Research
+*(routine fired ~07:08 ET, pre-open; prices premarket/live)*
+
+### Account
+- Equity: $100,862.45 | Cash: $80,351.45 (79.7%) | Buying power: $378,836.60 (margin)
+- Deployed: MSFT $20,511 (~20.3% of equity) — only position. Still far below 75-85% target.
+
+### Market Context
+- WTI / Brent: ~$69.1 / ~$72 (WTI -0.6%, Brent -1.1%) — Brent at lowest since Feb 27; falling on US-Iran peace + Hormuz shipping recovery
+- S&P 500 futures: ~7,554 (+0.14%); Nasdaq-100 +0.40%; Dow flat
+- VIX: very low (~mid-teens) — complacent tape
+- **Today's big event: June Nonfarm Payrolls @ 8:30 ET.** Forecast ~110K (May 172K), unemployment 4.3%, AHE +0.3% m/m / 3.5% YoY. ADP already printed weak (98K). FOMC minutes later today.
+- **NYSE CLOSED tomorrow Fri Jul 3** (Independence Day). Today is last trading day of week → 3-day weekend gap.
+- Rate-hike regime is the theme: PCE hot 4.1%, ~77% odds of ≥1 hike by Dec (was <50% a month ago), 2yr yield >4%, Warsh hawkish. Headwind for growth/tech multiples.
+- Sector momentum YTD: Energy +23.3%, Materials +17.4%, Staples +15.6%, Industrials +14.1% lead; Info Tech -3.3%, Cons Disc -3.8%, Financials -6.9% lag. Rotation into hard assets/cyclicals persists.
+
+### MSFT Position Check (held)
+- 53 sh @ $370.73; current $387 (+4.39% unrealized, +$862.46); +0.7% today premarket
+- Trailing stop GTC active: stop $349.95, HWM $388.83, trail 10% (ID 529f2067) — protected
+- Thesis intact: Strong/Moderate Buy consensus (41 of 47 Buy), avg PT ~$560-589 (45-56% upside), fwd ~21-22x = lowest since 2023. Earnings Jul 27.
+- Risks (unverified research): AI capex ~$146B pressuring margins; Copilot monetization; OpenAI antitrust scrutiny; MSFT ~-17% YTD vs S&P +7% (single-name value/recovery play, not sector momentum)
+
+### Trade Ideas (for market-open reassessment, NOT pre-NFP)
+1. MSFT (held) — HOLD. Winner, protected, thesis strong into Jul 27 earnings. Stop does the work. No tighten (+4.4% < +15% threshold), no cut (well above -7%).
+2. Cyclicals over tech if deploying — Industrials (XLI) / Materials (XLM) are the real YTD momentum under a rate-hike regime. Prefer adding here vs chasing more tech. Watch for a clean setup post-NFP.
+3. Energy — YTD leader but oil falling on Iran peace = contra-signal. Avoid.
+
+### Risk Factors
+- **NFP @ 8:30 = binary macro day.** Hot wages → more hike pricing → tech multiple compression (hits MSFT). Very weak print → growth-scare selloff. Either way, entering pre-print is poor R:R.
+- **3-day weekend gap** (Jul 3 closed): new positions would sit unprotected — trailing stops don't run overnight/over the closure; gaps blow through them.
+- Rate-hike backdrop + Q3 rebalancing = pressure on Q2 tech/AI winners.
+- Under-deployed at 20% is a standing issue, but forcing capital in on a jobs-report + long-weekend day is the wrong catalyst timing.
+
+### Decision
+HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead of NFP into a 3-day weekend with no overnight stop coverage. Reassess at the market-open routine AFTER NFP prints; if the tape is constructive, begin closing the deployment gap into cyclicals (Industrials/Materials) rather than more tech. Patience > activity.
