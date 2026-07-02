@@ -9,7 +9,18 @@ No positions yet. Bot launches tomorrow.
 
 | Date | Ticker | Side | Shares | Entry | Stop | Target | R:R | Thesis |
 |---|---|---|---|---|---|---|---|---|
-| 2026-06-30 | MSFT | BUY | 53 | $370.73 | $333.91 trailing 10% GTC | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
+| 2026-06-30 | MSFT | BUY | 53 | $370.73 | $352.98 trailing 10% GTC (HWM $392.20) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
+
+### Jul 02 — EOD Snapshot (Day 3, Thursday)
+**Portfolio:** $101,000.25 | **Cash:** $80,351.45 (79.6%) | **Day P&L:** +$281.96 (+0.28%) | **Phase P&L:** +$1,000.25 (+1.00%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $389.60 | +1.38% | +$1,000.26 (+5.09%) | $352.98 (10% trail, HWM $392.20) |
+
+**Notes:** No new trades. MSFT rose to $389.60 (+1.38%), pushing portfolio past +$1,000 phase P&L (+1.00%). Trailing stop advanced to $352.98 (HWM $392.20). Still significantly under-deployed at 20.4% vs. 75-85% target — need 2-3 new positions. July 3 is observed Independence Day holiday; next market open is July 6. Pre-market July 6 should identify and enter 2-3 positions. Tighten trail to 7% when MSFT hits $426.34 (+15%).
+
+---
 
 ### Jul 01 — EOD Snapshot (Day 2, Wednesday)
 **Portfolio:** $100,676.95 | **Cash:** $80,351.45 (79.8%) | **Day P&L:** +$555.44 (+0.55%) | **Phase P&L:** +$676.95 (+0.68%)
