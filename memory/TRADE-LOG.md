@@ -11,6 +11,17 @@ No positions yet. Bot launches tomorrow.
 |---|---|---|---|---|---|---|---|---|
 | 2026-06-30 | MSFT | BUY | 53 | $370.73 | $352.98 trailing 10% GTC (HWM $392.20) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
 
+### Jul 03 — EOD Snapshot (Day 4, Friday)
+**Portfolio:** $101,047.42 | **Cash:** $80,351.45 (79.5%) | **Day P&L:** +$47.17 (+0.05%) | **Phase P&L:** +$1,047.42 (+1.05%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $390.49 | 0.00% | +$1,047.43 (+5.33%) | $352.98 (10% trail, HWM $392.20) |
+
+**Notes:** Market closed — observed Independence Day holiday (July 4 falls on Saturday). No trades executed. MSFT last price $390.49 (+$0.89 vs Jul 02 EOD close of $389.60, attributable to after-hours activity); trailing stop HWM holds at $392.20, stop at $352.98. Portfolio remains heavily under-deployed at 20.5% (target 75–85%); 2–3 new positions required. 1 trade this week (MSFT buy Jun 30); 7 buys remaining in weekly cap. Next market open: Monday July 6 — pre-market run will research and enter 2–3 positions to close the deployment gap. Tighten MSFT trail to 7% when price hits $426.34 (+15%).
+
+---
+
 ### Jul 02 — EOD Snapshot (Day 3, Thursday)
 **Portfolio:** $101,000.25 | **Cash:** $80,351.45 (79.6%) | **Day P&L:** +$281.96 (+0.28%) | **Phase P&L:** +$1,000.25 (+1.00%)**
 
