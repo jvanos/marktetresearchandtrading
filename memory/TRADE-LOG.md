@@ -9,7 +9,17 @@ No positions yet. Bot launches tomorrow.
 
 | Date | Ticker | Side | Shares | Entry | Stop | Target | R:R | Thesis |
 |---|---|---|---|---|---|---|---|---|
-| 2026-06-30 | MSFT | BUY | 53 | $370.73 | $352.98 trailing 10% GTC (HWM $392.20) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
+| 2026-06-30 | MSFT | BUY | 53 | $370.73 | $355.13 trailing 10% GTC (HWM $394.59) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
+| 2026-07-07 | XLI | BUY | 82 | $183.18 | $164.81 trailing 10% GTC (HWM $183.12, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
+| 2026-07-07 | XLB | BUY | 291 | $52.09 | $46.87 trailing 10% GTC (HWM $52.08, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
+
+## 2026-07-07 — Market-Open Trades
+
+- **09:34 ET** — Bought 82 XLI @ $183.18 avg ($15,021 cost, ~14.9% equity). Stop: 10% trailing GTC, initial $164.81, HWM $183.12 (order 7b7bcac5). Target: $219.92. R:R 2:1.
+- **09:37 ET** — Bought 291 XLB @ $52.09 avg ($15,159 cost, ~15.0% equity). Stop: 10% trailing GTC, initial $46.87, HWM $52.08 (order df3e04a9). Target: $62.53. R:R 2:1.
+- **Deployment:** cash $80,351 → $50,172; deployed 20.4% → 50.4% (MSFT $20,799 + XLI $15,011 + XLB $15,157). Still below 75-85% target; 1-2 more positions possible but no clean setups today (GE/ETN/FCX spreads wide).
+- **Skipped:** GE (spread ~11%), ETN (spread ~11%), FCX (spread ~11%) — all unusable per wide-spread rule.
+- **MSFT:** held; HWM updated to $394.59, stop now $355.13. +5.85% unrealized.
 
 ### Jul 03 — EOD Snapshot (Day 4, Friday)
 **Portfolio:** $101,047.42 | **Cash:** $80,351.45 (79.5%) | **Day P&L:** +$47.17 (+0.05%) | **Phase P&L:** +$1,047.42 (+1.05%)**
