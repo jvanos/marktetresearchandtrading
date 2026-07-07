@@ -354,3 +354,9 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - Futures unchanged: S&P -0.15% (7,580), Nasdaq -0.62% (29,757, chip drag persists), Dow +0.08% (record). Cyclical-rotation thesis intact.
 - No overnight surprise; FOMC minutes still 7 PM ET (after close) = overnight-gap risk for any same-day adds.
 - **Decision stands:** HOLD MSFT (protected); DEPLOY 1-2 cyclical starters (Industrials/Materials) at open on clean spreads + 2:1 R:R per morning ideas; avoid chips/energy/financials. Market-open routine executes.
+
+### 2026-07-07 — Midday Addendum (~13:02 ET)
+- **XLI/XLB pullback check (Perplexity):** No new negative catalyst. XLB on a 3-day technical decline (MACD turned negative Jun 29); XLI AI Score 8/10 (Buy) per Danelfin. Both moves are technical noise, not thesis breaks.
+- **MSFT:** $394.165 (+6.32%); trailing stop HWM now $395.55, stop $355.995. Far from -7% or +15% thresholds.
+- **Theses intact.** Cyclical rotation (Dow at record, chip weakness continuing) remains the core structural setup for XLI/XLB. No cuts, no stop tightening, no new buys. Monitor XLB MACD for sustained breakdown vs. mean reversion.
+- **FOMC minutes 7 PM ET tonight** — overnight-gap risk persists for any additions; current positions have GTC trail protection.
