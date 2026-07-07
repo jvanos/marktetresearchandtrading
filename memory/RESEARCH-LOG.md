@@ -308,3 +308,40 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **No losers to cut:** only position is MSFT at +5.06%.
 - **Thesis intact:** NFP miss reduces rate-hike pressure; MSFT +1.36% on the day. 3-day weekend (Jul 3 closed) → no new entries today per pre-market decision. Let the stop work over the long weekend.
 - **No action taken this scan.**
+
+## 2026-07-07 — Pre-market Research
+*(routine fired ~03:30 ET pre-open; market opens 09:30. Prices premarket/live.)*
+
+### Account
+- Equity: $100,992.30 | Cash: $80,351.45 (79.6%) | Buying power: $379,200.18 (margin)
+- Deployed: MSFT $20,640.85 (~20.4% of equity) — only position. Still far below 75-85% target.
+- 1 buy this week window (MSFT Jun 30); 7 buys remaining in weekly cap.
+
+### Market Context
+- WTI ~$68.5 / Brent ~$68-69 — soft, hovering below $70 (market a "coin flip" on touching $70 this week). Oil weak = contra-signal for Energy despite its YTD lead.
+- S&P 500 futures ~7,580 (-0.15%); **Nasdaq-100 -0.62%** on a **2nd day of chip selloff** (MU -5.5%, AMD -4.3%, INTC -5.3% prior session; SOX broke uptrend, Nasdaq below 50-DMA); **Dow at record high** (+0.08%). Rally is broadening OUT of tech/chips into cyclicals.
+- VIX ~16.1 (-2.65%) — low/complacent tape. VIX futures ~17.9 (slight updrift priced).
+- **Today's events:** May Trade Balance 8:30 ET (minor); NY Empire, weekly ADP, 3yr auction ~12:30; Consumer Inflation Expectations 3:30; **FOMC June minutes 7:00 PM ET (after close)** — overnight-gap risk since trailing stops don't run overnight.
+- **Earnings:** nothing noteworthy pre-open (Helen of Troy minor). PepsiCo Thu Jul 9. No held-ticker earnings until MSFT Jul 27.
+- **Next big macro:** CPI Jul 14, PPI Jul 15 (both next week). June NFP (57K vs 117K est, released Jul 3) = weak → dovish rate repricing supports broad market; chip weakness is valuation/profit-taking, not rate-driven.
+- Sector momentum YTD: Energy +23.3%, Materials +17.4%, Industrials +14.1% lead; Info Tech -3.3%, Financials -6.9% lag. Rotation into hard assets/cyclicals persists — this is the strategy's momentum edge.
+
+### MSFT Position Check (held)
+- 53 sh @ $370.73; current $389.45 (+5.05% unrealized, +$992); +0.70% today.
+- Trailing stop GTC active: stop $352.98, HWM $392.20, 10% trail (ID 529f2067) — protected.
+- Thesis intact: Strong Buy consensus, PT ~$560-665 (40-70% upside), fwd ~23-24x. Azure +40%, AI run-rate $37B (+123% YoY), Copilot 20M seats. Down ~20% YTD (single-name value/recovery, not sector momentum). Earnings Jul 27.
+
+### Trade Ideas
+1. **MSFT (held) — HOLD.** Winner, protected, thesis strong into Jul 27 earnings. No tighten (+5.05% < +15% $426.34 threshold), no cut (well above -7%). Stop does the work.
+2. **Industrials momentum — BUY candidate (deploy).** XLI or leader (e.g., GE / ETN electrical-power). Catalyst: AI-electricity/data-center capex, defense, Dow leadership; sector +14.1% YTD. Entry at open on confirmed tight spread; stop ~10% below entry (GTC trail); target 2:1. ~15-18% of equity.
+3. **Materials momentum — BUY candidate (deploy).** XLB or copper/infra name (e.g., FCX). Catalyst: data-center electrification + inflation exposure; sector +17.4% YTD. Same stop/target framework. ~15% of equity.
+- Avoid: chips/semis (2nd-day selloff, broken trend), Energy (YTD leader but oil soft = contra), Financials (worst sector).
+
+### Risk Factors
+- **Chronic under-deployment (20% vs 75-85%)** is now the standing risk — dragging on the mandate to beat SPX. Cyclical rotation gives a clean, rule-aligned way to close the gap.
+- **FOMC minutes 7 PM ET (after close):** any same-day entries sit into the minutes overnight without stop protection; minutes rarely gap hard but VIX-futures uptick shows some priced risk.
+- Chip contagion could broaden into a wider tech-led wobble; keep new adds in cyclicals, not tech.
+- Q3 rebalancing pressure on H1 winners early in quarter.
+
+### Decision
+**DEPLOY selectively at market-open** — begin closing the deployment gap with 1-2 cyclical starter positions (Industrials and/or Materials) per ideas above, ONLY on clean spreads and 2:1 R:R; each with a real 10% GTC trailing stop. Hold MSFT (protected, thesis intact). Avoid chips, energy, financials. If open tape is disorderly (chip contagion spreading to broad market), fall back to HOLD and reassess midday. Patience on quality, but the 20% deployment is no longer defensible without a setup reason — take clean cyclical momentum when offered.
