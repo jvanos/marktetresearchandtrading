@@ -21,3 +21,16 @@ Open positions:
 Week: 1/8 trades used (Mon-Thu)
 Tomorrow: Market CLOSED Jul 3 (observed Independence Day). Next open Jul 6.
   Jul 6 pre-market: target 2-3 new positions — only 20.4% deployed vs 75-85% goal.
+
+---
+## 2026-07-07 20:07 UTC (fallback — ClickUp 403)
+EOD Jul 07
+Portfolio: $100,731.40 (-0.12% day, +0.73% phase)
+Cash: $50,171.70 (49.8%)
+Trades today: XLI 82sh @ $183.18, XLB 291sh @ $52.09
+Open positions:
+  MSFT +0.53% (stop $355.995)
+  XLI -1.71% (stop $164.808)
+  XLB -0.85% (stop $46.872)
+Deployed: 50.2% (target 75-85%) — 2 trades this week, 6 remaining
+Tomorrow: Pre-market research for 1-2 new positions to close deployment gap

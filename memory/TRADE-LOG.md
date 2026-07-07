@@ -29,6 +29,19 @@ No positions yet. Bot launches tomorrow.
 - **XLB:** $51.51 (-1.12% from entry $52.09). Trailing stop $46.87 (HWM $52.08). XLB MACD turned negative Jun 29 (3-day technical pullback), no new fundamental negative catalyst. Thesis intact (AI capex/copper demand).
 - **Deployment:** ~50.4% — still below 75-85% target; no clean new setups at midday.
 
+### Jul 07 — EOD Snapshot (Day 6, Tuesday)
+**Portfolio:** $100,731.40 | **Cash:** $50,171.70 (49.8%) | **Day P&L:** -$117.27 (-0.12%) | **Phase P&L:** +$731.40 (+0.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $388.80 | +0.53% | +$957.86 (+4.88%) | $355.995 (10% trail, HWM $395.55) |
+| XLI | 82 | $183.18 | $182.38 | -1.71% | -$65.65 (-0.44%) | $164.808 (10% trail, HWM $183.12) |
+| XLB | 291 | $52.09 | $51.54 | -0.85% | -$160.80 (-1.06%) | $46.872 (10% trail, HWM $52.08) |
+
+**Notes:** First full deployment day with three positions. Entered XLI (82 sh @ $183.18) and XLB (291 sh @ $52.09) at the open to close the deployment gap (was 20.4% at Jul 03 EOD); portfolio now 50.2% deployed — still short of the 75–85% target, but no clean additional setups appeared (GE/ETN/FCX spreads remained wide). Day P&L -$117.27 (-0.12%) vs Alpaca last_equity of $100,848.67 (Jul 06 close; Jul 06 EOD snapshot was missed — day 5 gap). MSFT held its ground (+0.53%, +4.88% unrealized); XLI and XLB gave back small amounts on their first day, both theses intact and well clear of -7% cut threshold. Stops unchanged from entry (HWMs have not advanced). 2 trades this week (6 remaining). Need 1–2 more positions tomorrow to reach deployment target.
+
+---
+
 ### Jul 03 — EOD Snapshot (Day 4, Friday)
 **Portfolio:** $101,047.42 | **Cash:** $80,351.45 (79.5%) | **Day P&L:** +$47.17 (+0.05%) | **Phase P&L:** +$1,047.42 (+1.05%)**
 
