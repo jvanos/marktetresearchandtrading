@@ -345,3 +345,12 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **DEPLOY selectively at market-open** — begin closing the deployment gap with 1-2 cyclical starter positions (Industrials and/or Materials) per ideas above, ONLY on clean spreads and 2:1 R:R; each with a real 10% GTC trailing stop. Hold MSFT (protected, thesis intact). Avoid chips, energy, financials. If open tape is disorderly (chip contagion spreading to broad market), fall back to HOLD and reassess midday. Patience on quality, but the 20% deployment is no longer defensible without a setup reason — take clean cyclical momentum when offered.
+
+### 2026-07-07 — Pre-market Refresh (~07:08 ET, 2nd fire)
+- **Live state confirmed, nothing material changed since 03:30 entry.** No action.
+- Account: Equity $101,192.64 | Cash $80,351.45 (79.4%) | BP $379,761.13. Deployed ~20.6% (MSFT only) — gap unchanged.
+- MSFT: 53 sh @ $370.73 | current $393.25 (+6.08% unrealized, +$1,194); +1.68% premarket vs $386.74 prior close. Above old HWM $392.20 but stop tightens only in RTH.
+- Stop GTC $352.98, HWM $392.20, 10% trail (ID 529f2067) — active/protected. No tighten (+15% threshold $426.34 far off), no cut.
+- Futures unchanged: S&P -0.15% (7,580), Nasdaq -0.62% (29,757, chip drag persists), Dow +0.08% (record). Cyclical-rotation thesis intact.
+- No overnight surprise; FOMC minutes still 7 PM ET (after close) = overnight-gap risk for any same-day adds.
+- **Decision stands:** HOLD MSFT (protected); DEPLOY 1-2 cyclical starters (Industrials/Materials) at open on clean spreads + 2:1 R:R per morning ideas; avoid chips/energy/financials. Market-open routine executes.
