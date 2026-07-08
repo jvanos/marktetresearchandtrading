@@ -406,3 +406,11 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **XLB:** $50.285 (-2.38% today, -3.47% from entry). Broad risk-off the driver. Chemical overcapacity flagged as sector headwind. **Analysts downgraded XLB buy→hold** — no specific fundamental break but conviction risk noted. Structural copper/AI-infra/energy-transition demand still valid. Still well above stop ($46.872) and -7% cut threshold ($48.45). Monitor for continuation.
 - **Cyclical rotation thesis:** Under short-term stress from macro (recession + tariff fears), but structural drivers intact. Not a thesis break. If XLB sustains below $50 with fresh negative catalyst, will reassess.
 - **No action taken.** No cuts, no tightens, no new buys.
+
+### 2026-07-08 — Afternoon Update (~14:22 ET)
+- **MSFT workforce cut:** Announced -2.1% headcount (~4,800 jobs) pre-1PM today. Cost optimization during AI pivot; consistent with margin focus ahead of Jul 27 earnings. Does not break Azure/AI monetization thesis. Current $383.47 (+3.44% from entry, -1.38% today).
+- **Oil reversal:** WTI fell to <$70 (from ~$72.25 pre-market) after Trump ceasefire comments on Iran. Validates decision to NOT chase energy at the morning spike; geopolitical premium unwound as expected.
+- **FOMC Press Conference:** Scheduled ~14:00 ET today (Fed Chair Warsh). Source of afternoon vol; watch for hawkish tone that could extend risk-off into close.
+- **Prices vs 13:02 scan:** MSFT $383.47 (was $381.77, +$1.70), XLI $180.66 (was $180.23, +$0.43), XLB $50.28 (was $50.285, flat). Marginal stabilization — no deterioration.
+- **XLB flag maintained:** Still watching for fresh negative catalyst that would constitute thesis break. Below $50 with no bounce at close = reassess pre-market tomorrow.
+- **No action taken.** All stops in place; all theses intact; no -7% triggers; no tighten thresholds reached.
