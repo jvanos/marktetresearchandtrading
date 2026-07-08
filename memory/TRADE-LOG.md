@@ -38,6 +38,19 @@ No positions yet. Bot launches tomorrow.
 - **Deployment:** ~49.5% (MSFT $20,234 + XLI $14,779 + XLB $14,633 = $49,646 / ~$100,092 est. equity). Below 75-85% target; no clean setups in this risk-off tape.
 - **No new buys:** risk-off session, recession/tariff fears, XLB/XLI still breathing — patience.
 
+### Jul 08 — EOD Snapshot (Day 7, Wednesday)
+**Portfolio:** $99,882.28 | **Cash:** $50,171.69 (50.2%) | **Day P&L:** -$849.12 (-0.84%) | **Phase P&L:** -$117.72 (-0.12%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $382.81 | -1.55% | +$640.20 (+3.26%) | $355.995 (10% trail, HWM $395.55) |
+| XLI | 82 | $183.18 | $180.44 | -1.06% | -$224.65 (-1.50%) | $164.808 (10% trail, HWM $183.12) |
+| XLB | 291 | $52.09 | $50.26 | -2.43% | -$533.25 (-3.52%) | $46.872 (10% trail, HWM $52.08) |
+
+**Notes:** Broad risk-off session (recession fears, tariff headwinds) dragged all three positions lower. MSFT -1.55% today but still +3.26% unrealized; thesis intact (Azure AI, earnings Jul 27, 97% analyst buy consensus). XLI -1.06%, structural AI-datacenter/defense capex demand thesis intact. XLB -2.43% and flagged: analysts downgraded from buy→hold intraday; now -3.52% unrealized ($50.26 vs. $52.09 entry), still well above -7% cut floor ($48.45) and trailing stop ($46.87) — no action yet, but watching closely. Portfolio phase P&L turned slightly negative (-0.12%). No trades today. Deployment ~49.7% — tape too risk-off to add. 2 trades this week (6 remaining). Tomorrow: watch XLB vs. downgrade narrative and -7% floor; if tape stabilizes, target 1 position toward 75-85% deployment goal. HWMs unchanged (no new highs today).
+
+---
+
 ### Jul 07 — EOD Snapshot (Day 6, Tuesday)
 **Portfolio:** $100,731.40 | **Cash:** $50,171.70 (49.8%) | **Day P&L:** -$117.27 (-0.12%) | **Phase P&L:** +$731.40 (+0.73%)
 
