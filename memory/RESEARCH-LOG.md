@@ -360,3 +360,41 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **MSFT:** $394.165 (+6.32%); trailing stop HWM now $395.55, stop $355.995. Far from -7% or +15% thresholds.
 - **Theses intact.** Cyclical rotation (Dow at record, chip weakness continuing) remains the core structural setup for XLI/XLB. No cuts, no stop tightening, no new buys. Monitor XLB MACD for sustained breakdown vs. mean reversion.
 - **FOMC minutes 7 PM ET tonight** — overnight-gap risk persists for any additions; current positions have GTC trail protection.
+
+---
+
+## 2026-07-08 — Pre-market Research
+*(routine fired ~07:08 ET pre-open; market opens 09:30. Prices premarket/live.)*
+
+### Account
+- Equity: $100,092.87 | Cash: $50,171.69 (50.1%) | Buying power: $340,466.06 (margin)
+- Deployed: MSFT $20,352 + XLB $14,784 + XLI $14,785 = **$49,921 (~49.9% of equity)**. Deployment gap closing (was ~20% pre-Jul 7) but still below 75–85% target.
+- Weekly buys: XLI + XLB (Jul 7) = 2 this week; 6 remaining in cap. 3 open positions (room for 2–3 more).
+
+### Market Context
+- **WTI ~$72.25 / Brent n/a** — oil FIRMED from ~$68.7 (Jul 6) on Middle East escalation: reported US strikes on Iran + Treasury cancellation of Iranian-oil sale license. *(Geopolitical spike — treat as unverified, prone to reversal if tensions ease.)*
+- S&P futures ~7,580 (-0.15%); **Nasdaq -0.62%** (chip drag persists — MU/AMD/INTC weakness); **Dow +0.08% at record**; S&P Equal-Weight at fresh ATH. Rotation OUT of tech INTO cyclicals continues.
+- VIX ~15.9 (prev close 15.57) — low/complacent, drifting lower.
+- **Today's catalysts:** light. FOMC June minutes released last night (7PM ET Jul 7); Fed Chair Warsh "relative hawkishness" noted → Treasuries up. Rivian -18% (cash troubles); Costco June sales today.
+- **Earnings before open:** Helen of Troy, Simply Good Foods, WD-40 — none held. No held-ticker earnings until MSFT Jul 27.
+- **Economic calendar:** no CPI/PPI/FOMC today. Consumer Credit 3PM, EIA crude inventories, MBA mortgage apps, wholesale inventories. **CPI Jul 14, PPI Jul 15** (next week).
+- **Sector momentum YTD:** Energy +23.3%, Materials +17.4%, Consumer Staples +15.6%, Industrials +14.1% lead; Info Tech -3.3% lags. Cyclical/hard-asset rotation intact — aligned with XLB/XLI theses.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | $384.00 (**+3.58%**, +$703); -1.25% today. Stop $355.995, HWM $395.55, 10% trail (ID 529f2067). No cut (>>-7%), no tighten (+15% thresh $426.34 far off). Thesis intact: 97% Buy, PT ~$589 (+56%), fwd ~21-22x, down ~20% YTD.
+- **XLB** 291 @ $52.09 | $50.80 (**-2.47%**, -$375); -1.37% today. Stop $46.872, HWM $52.08, 10% trail. Thesis STRENGTHENING: 10-DMA>50-DMA (Jun 22), MACD positive (Jul 6), Barchart 100% Buy; copper/energy-transition/AI-infra demand. Day-2 red = noise, not thesis break.
+- **XLI** 82 @ $183.18 | $180.31 (**-1.57%**, -$235); -1.14% today. Stop $164.808, HWM $183.12, 10% trail. Sector +14.1% YTD, structural AI-datacenter/defense/electrification demand. Day-2 red = noise.
+
+### Trade Ideas
+1. **All 3 held — HOLD.** None near stop or tighten threshold; theses intact. Stops do the work.
+2. **Energy (XLE / leader) — WATCH, do NOT chase.** Now the #1 momentum sector (+23.3% YTD) AND oil firming (~$72). BUT today's oil strength is a geopolitical spike (Iran strikes) prone to sharp reversal — entering at the spike is chasing. Add only on confirmation + a pullback entry, not at open. Would close deployment gap in a rule-aligned momentum sector.
+3. **Consumer Staples (XLP) — secondary WATCH.** +15.6% YTD, defensive ballast if tech wobble broadens. Lower priority than Energy.
+
+### Risk Factors
+- **Middle East / oil geopolitics:** binary headline risk both ways — de-escalation crushes oil (hurts an Energy add), escalation spikes VIX. Favors patience over chasing today.
+- **Deployment still ~50% vs 75-85% target** — improving but the standing drag on the beat-SPX mandate. Close via clean cyclical/energy setups, not forced adds.
+- **Chip selloff could broaden** into a wider tech-led wobble; keep any adds in cyclicals/energy/staples, not tech.
+- XLB & XLI both day-2 red — normal, but a sustained cyclical rollover (vs. mean-reversion) would be the signal to reassess, not add.
+
+### Decision
+**HOLD all three.** No cuts, no tightens, no new buys at open. Let yesterday's XLB/XLI adds breathe on day 2; ~50% deployment is acceptable interim progress. Energy is the cleanest next add BUT today's oil pop is a geopolitical spike — do not chase into it. Market-open routine: hold; only consider an Energy/Staples starter if the tape is orderly AND offers a non-spike entry with 2:1 R:R and clean spread. Patience > activity.
