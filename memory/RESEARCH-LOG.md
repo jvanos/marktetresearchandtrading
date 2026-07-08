@@ -398,3 +398,11 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all three.** No cuts, no tightens, no new buys at open. Let yesterday's XLB/XLI adds breathe on day 2; ~50% deployment is acceptable interim progress. Energy is the cleanest next add BUT today's oil pop is a geopolitical spike — do not chase into it. Market-open routine: hold; only consider an Energy/Staples starter if the tape is orderly AND offers a non-spike entry with 2:1 R:R and clean spread. Patience > activity.
+
+### 2026-07-08 — Midday Addendum (~13:02 ET)
+- **Catalyst:** Broad risk-off session — recession fears + tariff warnings (multiple Fed officials). No position-specific catalyst. Broad decline across cyclicals AND tech.
+- **MSFT:** $381.77 (-1.82% today, +2.98% from entry). Thesis intact. Stop $355.995, HWM $395.55. No action.
+- **XLI:** $180.23 (-1.18% today, -1.61% from entry). Thesis intact. Structural AI-datacenter/defense/electrification demand unchanged. No action.
+- **XLB:** $50.285 (-2.38% today, -3.47% from entry). Broad risk-off the driver. Chemical overcapacity flagged as sector headwind. **Analysts downgraded XLB buy→hold** — no specific fundamental break but conviction risk noted. Structural copper/AI-infra/energy-transition demand still valid. Still well above stop ($46.872) and -7% cut threshold ($48.45). Monitor for continuation.
+- **Cyclical rotation thesis:** Under short-term stress from macro (recession + tariff fears), but structural drivers intact. Not a thesis break. If XLB sustains below $50 with fresh negative catalyst, will reassess.
+- **No action taken.** No cuts, no tightens, no new buys.

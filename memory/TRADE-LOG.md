@@ -29,6 +29,15 @@ No positions yet. Bot launches tomorrow.
 - **XLB:** $51.51 (-1.12% from entry $52.09). Trailing stop $46.87 (HWM $52.08). XLB MACD turned negative Jun 29 (3-day technical pullback), no new fundamental negative catalyst. Thesis intact (AI capex/copper demand).
 - **Deployment:** ~50.4% — still below 75-85% target; no clean new setups at midday.
 
+## 2026-07-08 — Midday Scan (~13:02 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%.
+- **MSFT:** $381.77 (+2.98% from entry $370.73). Trailing stop $355.995 (HWM $395.55). Down -1.82% today. Broad risk-off selling; thesis intact (97% Buy, earnings Jul 27, Azure AI).
+- **XLI:** $180.23 (-1.61% from entry $183.18). Trailing stop $164.808 (HWM $183.12). Down -1.18% today. Broad macro headwinds (recession fears + tariff concerns); structural AI-datacenter/defense thesis intact.
+- **XLB:** $50.285 (-3.47% from entry $52.09). Trailing stop $46.872 (HWM $52.08). Down -2.38% today. Broad risk-off (recession fears, tariff warnings, chemical overcapacity). Perplexity confirmed no specific XLB catalyst — broad sell. Structural demand (copper, AI infra, energy transition) intact. **Flag: analysts downgraded XLB from buy→hold intraday; monitoring closely.** Still well above -7% cut threshold ($48.45).
+- **Deployment:** ~49.5% (MSFT $20,234 + XLI $14,779 + XLB $14,633 = $49,646 / ~$100,092 est. equity). Below 75-85% target; no clean setups in this risk-off tape.
+- **No new buys:** risk-off session, recession/tariff fears, XLB/XLI still breathing — patience.
+
 ### Jul 07 — EOD Snapshot (Day 6, Tuesday)
 **Portfolio:** $100,731.40 | **Cash:** $50,171.70 (49.8%) | **Day P&L:** -$117.27 (-0.12%) | **Phase P&L:** +$731.40 (+0.73%)
 
