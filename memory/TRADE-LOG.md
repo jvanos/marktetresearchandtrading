@@ -107,3 +107,11 @@ No positions yet. Bot launches tomorrow.
   guidance ($16B vs. $17.2B est.). Sector momentum (SPMO +21-33% YTD) confirms AI/tech edge.
 - Stops to tighten: 7% trail at +15% ($426.34), 5% trail at +20% ($444.87)
 - NVDA/AVGO: both on watchlist, not entered today (chip-sector clarity needed before adding)
+## 2026-07-09 — Midday Scan (~13:05 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact.
+- **MSFT:** $379.69 (+2.42% unrealized, +$475.03). Day -0.95%. Stop $355.995 (HWM $395.55, 10% trail). Thesis intact (Azure AI, earnings Jul 27). No cut, no tighten.
+- **XLB:** $50.45 (-3.15% unrealized, -$477.99). Day +0.58%. Stop $46.872 (HWM $52.08, 10% trail). -7% cut floor = $48.45. Recovering above $50 support; prior buy→hold downgrade still flagged but no new negative catalyst. Perplexity: no new specific XLB catalyst — MACD positive, Aroon uptrend. Thesis intact.
+- **XLI:** $181.82 (-0.74% unrealized, -$111.57). Day +0.78%. Stop $164.808 (HWM $183.12, 10% trail). Thesis intact.
+- **Portfolio:** $99,878.55 equity | Cash $50,171.69 (50.2%) | Deployed ~49.8%. 2 trades this week (6 remaining).
+- **No new buys:** XLE still the logical next add (energy +23.3% YTD) but oil spike not orderly — pre-market patience rule holds. No forced adds into risk-off tape.

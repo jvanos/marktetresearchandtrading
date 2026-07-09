@@ -453,3 +453,10 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all three.** No cuts, no tightens, no new buys at open. Every position above its stop and -7% cut; theses intact. Energy is the cleanest next add BUT today's oil pop is the week's second geopolitical spike — do not chase. Market-open routine: hold; only consider an XLE/XLP starter if the tape is orderly AND offers a non-spike entry with clean spread and 2:1 R:R. Patience > activity.
+
+### 2026-07-09 — Midday Addendum (~13:05 ET)
+- **No action taken.** No losers at -7%; no winners at +15%/+20%.
+- **XLB Perplexity check:** No new negative catalyst beyond prior buy→hold downgrade (Jul 8). Mixed technicals: Strong Sell from MAs, but MACD positive (Jul 6) and Aroon uptrend fired today — structural thesis (copper/AI-infra/energy-transition demand) still intact. XLB recovering intraday (+0.58%, $50.45 vs. $50.16 close) — holding above $50 support. No thesis break.
+- **XLE/oil:** Could not confirm intraday pullback from pre-market spike via Perplexity real-time. Remaining patient — pre-market research still stands: add XLE only on orderly non-spike entry with clean spread.
+- **Positions:** MSFT $379.69 (+2.42% unrealized), XLB $50.45 (-3.15%), XLI $181.82 (-0.74%). All stops protected, all theses intact.
+- **Deployment:** ~49.8% ($49,714 / $99,879 equity). Below 75-85% target; no clean setup today.
