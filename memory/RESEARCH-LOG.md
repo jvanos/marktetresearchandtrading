@@ -414,3 +414,42 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **Prices vs 13:02 scan:** MSFT $383.47 (was $381.77, +$1.70), XLI $180.66 (was $180.23, +$0.43), XLB $50.28 (was $50.285, flat). Marginal stabilization — no deterioration.
 - **XLB flag maintained:** Still watching for fresh negative catalyst that would constitute thesis break. Below $50 with no bounce at close = reassess pre-market tomorrow.
 - **No action taken.** All stops in place; all theses intact; no -7% triggers; no tighten thresholds reached.
+
+---
+
+## 2026-07-09 — Pre-market Research
+*(routine fired ~07:08 ET pre-open; market opens 09:30. Prices premarket/live.)*
+
+### Account
+- Equity: $99,649.69 | Cash: $50,171.69 (50.4%) | Buying power: $339,225.16 (margin)
+- Deployed: MSFT $20,087 + XLB $14,597 + XLI $14,794 = **$49,478 (~49.7% of equity)**. Still below 75–85% target; gap flat vs Jul 8.
+- Weekly buys: XLI + XLB (Jul 7) = 2 this week; 6 remaining in cap. 3 open positions (room for 2–3 more).
+
+### Market Context
+- **WTI ~$73.2–73.7 / Brent ~$78** — oil FIRMED again from <$70 (Jul 8 pm) on renewed Iran/Middle East tensions (reported US strikes; Trump "ceasefire over"). *(Geopolitical premium — unverified, whipsawed twice this week; prone to reversal.)*
+- S&P futures **~7,552 (+0.31%)** → higher open pointed to after long weekend. Dow at record 52,900. S&P Equal-Weight rotation to cyclicals/hard assets intact.
+- **VIX 16.90** (prev close 16.13, +4.77%); intraday spike to **18.91** on Jul 8 before settling. Vol ticking up off the lows — less complacent than last week.
+- **Today's catalysts:** AI-semi profit-taking selloff (MU -5.5%, AMD -4.3%, INTC -5.3%) — chip drag persists. Renewed Iran/oil. Weak June jobs (NFP 57k vs 117k est) still feeding dovish-Fed hopes. NY Fed Williams speaks 9:00am; new Fed Chair Warsh giving no forward guidance.
+- **Earnings before open:** PepsiCo (PEP) is the key report (~$2.21 EPS est) — staples read-through; also SMPL, WDFC, AZZ, LEVI, PSMT, HELE. Delta (DAL) around today — airline sentiment (Iran/oil sensitive). **None held.** Next held-ticker earnings: MSFT Jul 27.
+- **Economic calendar:** Initial jobless claims 8:30am (est ~215k), Existing home sales 10am. **No CPI/PPI/FOMC today. CPI Jul 14, PPI Jul 15** (next week). Next FOMC Jul 29–30.
+- **Sector momentum YTD:** Energy **+23.3%**, Materials **+17.4%**, Industrials **+14.1%** lead; Info Tech **-3.3%** lags. Cyclical/hard-asset rotation intact — aligned with XLB/XLI theses.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | $379.00 (**+2.23%**, +$438); -1.13% premarket. Stop $355.995, HWM $395.55, 10% trail (ID 529f2067). No cut, no tighten (+15% thresh $426.34 far off). Thesis intact: analysts call undervalued (intrinsic ~$446), PEG ~16% below 10-yr avg, ~-15% YTD. AI-infra cost concern is the overhang, not a break. Earnings Jul 27.
+- **XLB** 291 @ $52.09 | $50.16 (**-3.71%**, -$562); flat premarket. Stop $46.872, HWM $52.08, 10% trail. -7% cut = $48.45 (well below current). Structural intact: MACD positive (Jul 6), 10-DMA>50-DMA, copper/energy-transition/AI-infra demand offsetting chemical overcapacity; Barron's flags materials as a tech-vol hedge. **Prior buy→hold downgrade (Jul 8) still flagged** — watch for sustained break below $50.
+- **XLI** 82 @ $183.18 | $180.42 (**-1.51%**, -$226); flat premarket. Stop $164.808, HWM $183.12, 10% trail. -7% cut = $170.36. Defense (27% wt), electrification, reshoring tailwinds; momentum positive. Thesis intact.
+
+### Trade Ideas
+1. **All 3 held — HOLD.** None near stop, -7% cut, or tighten threshold; theses intact. Stops do the work.
+2. **Energy (XLE) — WATCH, do NOT chase.** Still #1 momentum (+23.3% YTD) and oil firm (~$73). BUT this is the *second* Iran-driven oil spike this week (whipsawed <$70 → $73). Entering at the spike is chasing. Add only on an orderly, non-spike pullback entry with clean spread + 2:1 R:R. Would close deployment gap in a rule-aligned sector.
+3. **Consumer Staples (XLP) — secondary WATCH.** Defensive ballast if the AI-semi selloff broadens into a wider tech wobble. PEP earnings today is a staples read-through. Lower priority than Energy.
+
+### Risk Factors
+- **Iran/Middle East oil whipsaw:** binary headline risk both ways — twice reversed this week. De-escalation crushes an Energy add; escalation spikes VIX. Favors patience over chasing.
+- **AI-semiconductor selloff (MU/AMD/INTC) could broaden** into a tech-led wobble. Keep any adds in cyclicals/energy/staples, not chips. MSFT is the tech exception — idiosyncratic, in profit, stop-protected.
+- **VIX 16.9 with an 18.9 intraday spike** — vol off the lows; less room for complacency.
+- **Deployment ~50% vs 75–85% target** — standing drag on the beat-SPX mandate. Close via clean cyclical/energy setups, not forced adds.
+- **XLB day-red + prior buy→hold downgrade** — sustained break below $50 with fresh negative catalyst = reassess, not add.
+
+### Decision
+**HOLD all three.** No cuts, no tightens, no new buys at open. Every position above its stop and -7% cut; theses intact. Energy is the cleanest next add BUT today's oil pop is the week's second geopolitical spike — do not chase. Market-open routine: hold; only consider an XLE/XLP starter if the tape is orderly AND offers a non-spike entry with clean spread and 2:1 R:R. Patience > activity.
