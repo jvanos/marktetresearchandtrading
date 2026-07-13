@@ -115,3 +115,11 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $181.82 (-0.74% unrealized, -$111.57). Day +0.78%. Stop $164.808 (HWM $183.12, 10% trail). Thesis intact.
 - **Portfolio:** $99,878.55 equity | Cash $50,171.69 (50.2%) | Deployed ~49.8%. 2 trades this week (6 remaining).
 - **No new buys:** XLE still the logical next add (energy +23.3% YTD) but oil spike not orderly — pre-market patience rule holds. No forced adds into risk-off tape.
+## 2026-07-13 — Midday Scan (~13:02 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **MSFT:** $392.81 (+5.96% unrealized, +$1,170.39). Day +2.00%. Stop $355.995 (HWM $395.55, 10% trail). Thesis intact (Azure AI, earnings Jul 29). No cut, no tighten (+15% thresh $426.34 ~8.5% away).
+- **XLB:** $50.56 (-2.94% unrealized, -$445.98). Day -0.65%. Stop $46.872 (HWM $52.08, 10% trail). -7% cut floor = $48.45. Technically weak (below 50-DMA, MACD neg) but fundamentals intact; no new intraday negative catalyst. No cut.
+- **XLI:** $180.36 (-1.54% unrealized, -$231.29). Day -0.86%. Stop $164.808 (HWM $183.12, 10% trail). -7% cut floor = $170.36. Thesis intact (defense + electrification + AI-infra buildout). No cut.
+- **Portfolio:** ~$100,493 est. equity | Cash $50,171.69 (49.9%) | Deployed ~50.1%. 0 trades this week (8 remaining).
+- **No new buys:** CPI tomorrow (Jun data), FOMC minutes + PPI Wed, bank earnings (JPM/GS/C/BAC/WFC) Tue = binary-headline week. XLE remains logical next add but oil spike (3rd Iran/Hormuz pop in 2 weeks) — do not chase. Patience.
