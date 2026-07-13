@@ -460,3 +460,43 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **XLE/oil:** Could not confirm intraday pullback from pre-market spike via Perplexity real-time. Remaining patient — pre-market research still stands: add XLE only on orderly non-spike entry with clean spread.
 - **Positions:** MSFT $379.69 (+2.42% unrealized), XLB $50.45 (-3.15%), XLI $181.82 (-0.74%). All stops protected, all theses intact.
 - **Deployment:** ~49.8% ($49,714 / $99,879 equity). Below 75-85% target; no clean setup today.
+
+---
+
+## 2026-07-13 — Pre-market Research
+*(routine fired ~07:08 ET pre-open; market opens 09:30. Prices premarket/live.)*
+
+### Account
+- Equity: $100,392.69 | Cash: $50,171.69 (50.0%) | Buying power: $341,305.56 (margin)
+- Deployed: MSFT $20,495 + XLB $14,809 + XLI $14,917 = **$50,221 (~50.0% of equity)**. Still below 75–85% target; gap flat vs Jul 9.
+- Weekly buys: **0 this week** (XLI+XLB were Jul 7, prior week). 8 remaining in cap. 3 open positions (room for 2–3 more).
+
+### Market Context
+- **WTI ~$74 / Brent ~$79** — oil up ~4% again on renewed US-Iran / Strait of Hormuz tensions (ceasefire breakdown reported). *(Geopolitical premium — this is the 3rd Iran-driven oil spike in ~2 weeks; whipsawed repeatedly, prone to reversal.)*
+- **S&P futures ~7,588 (-0.42%)** → lower open pointed to after Fri chip-led rally (AVGO +6% on Apple $30B custom-silicon deal). Risk-off tilt premarket.
+- **VIX ~16.4 intraday** (15.03 Jul 10 close; VIX futures ~17.4). Vol ticking up off the lows.
+- **Today's catalysts:** Q2 earnings season kickoff week. Hawkish June FOMC minutes flagged (inflation hotter on tariffs + AI demand). Iran/oil risk premium. AI-semi rotation ongoing (AVGO/META strength; TSLA lagging).
+- **Earnings before open:** None noteworthy today (FAST only, not held). **Banks Tue Jul 14** (JPM, GS, C, BAC, WFC). NFLX/UNH later in week. **None held.** Next held-ticker earnings: **MSFT Jul 29** (updated from prior Jul 27 note).
+- **Economic calendar:** **CPI Tue Jul 14** (June data), **PPI Wed Jul 15**, **FOMC minutes Wed Jul 15** (no policy decision — next FOMC Jul 29–30). Light data today.
+- **Sector momentum YTD:** Energy **+16–23%**, Materials **+12–18%**, Industrials **+14%** lead; Info Tech **-3.3%** lags. Cyclical/hard-asset rotation intact — aligned with XLB/XLI theses.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | $386.69 (**+4.31%**, +$846). Stop $355.995, HWM $395.55, 10% trail (ID 529f2067). No cut, no tighten (+15% thresh $426.34 far off). Thesis intact: 97% analyst Buy, avg PT ~$589, down ~15% YTD seen as buying opp; Azure AI + Copilot monetization. Overhang = $80–146B FY26 AI capex vs FCF. Earnings Jul 29.
+- **XLB** 291 @ $52.09 | $50.89 (**-2.31%**, -$350). Stop $46.872, HWM $52.08, 10% trail. -7% cut = $48.45 (well below current). **Technical correction flagged:** below 50-DMA + MACD negative since Jul 8; momentum <0. BUT fundamentals intact (15–17% EPS growth, YTD +17.9%, reshoring/data-center/AI-infra demand). Watch for sustained break below $50 with fresh negative catalyst.
+- **XLI** 82 @ $183.18 | $181.92 (**-0.69%**, -$103). Stop $164.808, HWM $183.12, 10% trail. -7% cut = $170.36. Defense + electrification + AI-infra buildout tailwinds; sector momentum positive. Thesis intact.
+
+### Trade Ideas
+1. **All 3 held — HOLD.** None near stop, -7% cut, or tighten threshold; theses intact. Stops do the work.
+2. **Energy (XLE) — WATCH, do NOT chase.** Still #1 momentum YTD and oil firm (~$74). BUT today is the *third* Iran-driven oil spike in ~2 weeks — entering at the spike is chasing. Add only on an orderly, non-spike pullback with clean spread + 2:1 R:R. Would close deployment gap in a rule-aligned sector.
+3. **Deployment gap vs event-heavy week.** ~50% deployed vs 75–85% target is a drag, BUT CPI (Tue), PPI + hawkish FOMC minutes (Wed), and bank earnings (Tue) make this a binary-headline week. Favor patience — add on clean cyclical/energy setups, not forced adds into a red premarket ahead of CPI.
+
+### Risk Factors
+- **CPI Tue Jul 14 + hawkish June FOMC minutes Wed:** a hot June CPI print could trigger hawkish repricing / risk-off. Biggest event risk of the week.
+- **Iran/Middle East oil whipsaw:** binary both ways; reversed multiple times. De-escalation crushes an Energy add; escalation spikes VIX.
+- **AI-semi rotation continues** — keep any adds in cyclicals/energy, not chips. MSFT is the idiosyncratic tech exception, in profit, stop-protected.
+- **VIX ticking up + SPX futures red** — less complacent tape into CPI.
+- **XLB technical breakdown** (below 50-DMA, MACD neg) — watch for sustained sub-$50 break; above -7% cut, fundamentals intact.
+- **Deployment ~50% vs 75–85% target** — standing drag on beat-SPX mandate. Close via clean setups, not forced adds.
+
+### Decision
+**HOLD all three.** No cuts, no tightens, no new buys at open. Every position above its stop and -7% cut; theses intact. Energy is the cleanest next add BUT today's oil pop is the week's third geopolitical spike — do not chase. CPI (Tue) + FOMC minutes (Wed) + bank earnings make patience the right posture into a binary week. Market-open routine: hold; only consider an XLE starter if the tape is orderly AND offers a non-spike entry with clean spread and 2:1 R:R. Patience > activity.
