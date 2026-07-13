@@ -115,6 +115,19 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $181.82 (-0.74% unrealized, -$111.57). Day +0.78%. Stop $164.808 (HWM $183.12, 10% trail). Thesis intact.
 - **Portfolio:** $99,878.55 equity | Cash $50,171.69 (50.2%) | Deployed ~49.8%. 2 trades this week (6 remaining).
 - **No new buys:** XLE still the logical next add (energy +23.3% YTD) but oil spike not orderly — pre-market patience rule holds. No forced adds into risk-off tape.
+### Jul 13 — EOD Snapshot (Day 10, Monday)
+**Portfolio:** $100,406.99 | **Cash:** $50,171.69 (50.0%) | **Day P&L:** +$98.57 (+0.10%) | **Phase P&L:** +$406.99 (+0.41%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $391.06 | +1.55% | +$1,077.64 (+5.49%) | $355.995 (10% trail, HWM $395.55) |
+| XLB | 291 | $52.09 | $50.58 | -0.61% | -$440.16 (-2.90%) | $46.872 (10% trail, HWM $52.08) |
+| XLI | 82 | $183.18 | $180.37 | -0.85% | -$230.47 (-1.53%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Market open — mixed session. MSFT led with +1.55% (MSFT close $391.06, now +5.49% unrealized), partially offsetting XLI -0.85% and XLB -0.61%. Day P&L +$98.57 vs Alpaca last_equity (Fri Jul 10 close $100,308.42) — no EOD commits were made for Jul 09 (Day 8) or Jul 10 (Day 9), so this snapshot covers a 3-day window. Phase P&L +$406.99 (+0.41%) vs $100,000 Day 0 baseline. No trades today; 0 trades this week (8 remaining). Deployment ~50% — below 75-85% target, but high-volatility macro week (bank earnings Tue-Thu, FOMC minutes Wed) argues for patience over forced adds. All stops active, no HWM advances today (prices below recent HWMs). Tomorrow: bank earnings (JPM/GS) pre-market — watch for sector rotation signals; XLE remains logical next add on any oil normalization.
+
+---
+
 ## 2026-07-13 — Midday Scan (~13:02 ET)
 
 - **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
