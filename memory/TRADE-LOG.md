@@ -12,6 +12,7 @@ No positions yet. Bot launches tomorrow.
 | 2026-06-30 | MSFT | BUY | 53 | $370.73 | $355.995 trailing 10% GTC (HWM $395.55) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
 | 2026-07-07 | XLI | BUY | 82 | $183.18 | $164.81 trailing 10% GTC (HWM $183.12, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
 | 2026-07-07 | XLB | BUY | 291 | $52.09 | $46.87 trailing 10% GTC (HWM $52.08, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
+| 2026-07-14 | XLE | BUY | 354 | $56.56 | $50.893 trailing 10% GTC (HWM $56.548, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
 
 ## 2026-07-07 — Market-Open Trades
 
@@ -136,3 +137,12 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $180.36 (-1.54% unrealized, -$231.29). Day -0.86%. Stop $164.808 (HWM $183.12, 10% trail). -7% cut floor = $170.36. Thesis intact (defense + electrification + AI-infra buildout). No cut.
 - **Portfolio:** ~$100,493 est. equity | Cash $50,171.69 (49.9%) | Deployed ~50.1%. 0 trades this week (8 remaining).
 - **No new buys:** CPI tomorrow (Jun data), FOMC minutes + PPI Wed, bank earnings (JPM/GS/C/BAC/WFC) Tue = binary-headline week. XLE remains logical next add but oil spike (3rd Iran/Hormuz pop in 2 weeks) — do not chase. Patience.
+
+## 2026-07-14 — Midday Scan (~13:06 ET)
+
+- **NEW BUY: XLE** — 354 shares @ $56.56 avg ($20,022 cost, ~20.0% equity). Stop: 10% trailing GTC, initial $50.893, HWM $56.548 (order 31e547ca). Target: $67.87 (+20%). R:R 2:1.
+  - Thesis: June CPI 3.5% YoY (beat 3.9% consensus — dovish surprise, removes headline risk from pre-market plan). XLE spread $0.01 (0.02%) — clean. Oil in orderly de-escalation off Iran spike (3rd pop in 2 weeks, now normalizing). Energy #1 momentum sector YTD. Closes deployment gap from 50% to ~70% deployed.
+- **MSFT:** $387.62 (+4.57% unrealized, +$895). Stop $355.995 (HWM $395.55, 10% trail). Day -0.86%. No cut, no tighten (+15% thresh $426.34).
+- **XLB:** $50.595 (-2.88% unrealized, -$436). Stop $46.872 (HWM $52.08, 10% trail). Day +0.03%. Above -7% floor ($48.45). Thesis intact.
+- **XLI:** $179.96 (-1.76% unrealized, -$264). Stop $164.808 (HWM $183.12, 10% trail). Day -0.22%. Above -7% floor ($170.36). Thesis intact.
+- **Portfolio:** $100,180 equity | Cash $30,149 (30.1%) | Deployed ~69.9% (MSFT $20,544 + XLB $14,723 + XLI $14,757 + XLE $20,021). 1 trade this week (7 remaining).

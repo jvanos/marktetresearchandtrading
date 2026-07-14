@@ -540,3 +540,13 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all three.** No cuts, no tightens, no new buys at open. Every position above its stop and -7% cut; theses intact and cyclical rotation still favors XLB/XLI. XLE is the cleanest next add and oil's orderly pullback is finally the setup we wanted — but entering the morning of a CPI print + bank earnings + Warsh testimony is exactly the forced timing the strategy warns against. Let the 08:30 CPI clear; market-open/midday routine evaluates XLE only on an orderly post-CPI tape with clean spread and 2:1 R:R. Patience > activity.
+
+### Afternoon Addendum (~13:06 ET) — Midday scan executed
+
+**CPI Actual (Jun 2026):** Headline 3.5% YoY (vs 3.9% consensus, down from 4.2% May) — dovish surprise. Core CPI ~2.8% YoY (consensus, prev 2.9%). Gasoline -10% MoM drove headline beat. Risk-on signal.
+
+**Action taken:** Bought 354 XLE @ $56.56 avg ($20,022, ~20.0% equity). 10% trailing stop GTC placed (order 31e547ca, stop $50.893, HWM $56.548). Target $67.87 (+20%), R:R 2:1.
+
+**Gate check passed:** Spread $0.01 (0.02%) ✓ | Post-CPI orderly tape ✓ | Energy #1 momentum YTD ✓ | Oil normalizing off Iran spike ✓ | 2:1 R:R ✓
+
+**Deployment:** 50.0% → 69.9% (MSFT $20,544 + XLB $14,723 + XLI $14,757 + XLE $20,021 = $70,045 / $100,180). Still below 75-85% target but a meaningful step; 1 position slot remaining. 1 trade this week (7 remaining).
