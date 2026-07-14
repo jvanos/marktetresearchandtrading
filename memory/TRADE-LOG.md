@@ -146,3 +146,12 @@ No positions yet. Bot launches tomorrow.
 - **XLB:** $50.595 (-2.88% unrealized, -$436). Stop $46.872 (HWM $52.08, 10% trail). Day +0.03%. Above -7% floor ($48.45). Thesis intact.
 - **XLI:** $179.96 (-1.76% unrealized, -$264). Stop $164.808 (HWM $183.12, 10% trail). Day -0.22%. Above -7% floor ($170.36). Thesis intact.
 - **Portfolio:** $100,180 equity | Cash $30,149 (30.1%) | Deployed ~69.9% (MSFT $20,544 + XLB $14,723 + XLI $14,757 + XLE $20,021). 1 trade this week (7 remaining).
+
+## 2026-07-14 — Afternoon Update (~15:09 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **MSFT:** $385.24 (+3.92% unrealized, +$769). Day -1.47%. Stop $355.995 (HWM $395.55, 10% trail). Broad market pressure despite dovish CPI — bank earnings (JPM/GS/C) driving rotation. Thesis intact. No cut, no tighten (+15% thresh $426.34).
+- **XLB:** $50.68 (-2.71% unrealized, -$411). Day +0.20%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45. Recovering intraday. Thesis intact. No cut.
+- **XLE:** $56.83 (+0.48% unrealized, +$96). Day +0.16%. Stop $51.1695 (HWM $56.855, 10% trail). **HWM advanced from $56.548→$56.855; stop advanced from $50.893→$51.1695** since this morning's entry. Post-CPI energy thesis intact. No cut, no tighten (+15% thresh ~$65.04).
+- **XLI:** $180.39 (-1.52% unrealized, -$229). Day +0.01%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
+- **Portfolio:** ~$100,225 est. equity | Cash ~$30,149 (30.1%) | Deployed ~69.9%. 1 trade this week (7 remaining). Phase P&L +$225 (+0.23%).
