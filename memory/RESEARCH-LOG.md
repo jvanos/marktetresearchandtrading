@@ -500,3 +500,43 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all three.** No cuts, no tightens, no new buys at open. Every position above its stop and -7% cut; theses intact. Energy is the cleanest next add BUT today's oil pop is the week's third geopolitical spike — do not chase. CPI (Tue) + FOMC minutes (Wed) + bank earnings make patience the right posture into a binary week. Market-open routine: hold; only consider an XLE starter if the tape is orderly AND offers a non-spike entry with clean spread and 2:1 R:R. Patience > activity.
+
+---
+
+## 2026-07-14 — Pre-market Research
+*(routine fired ~07:08 ET pre-open; market opens 09:30. CPI 08:30 ET — not yet out. Prices premarket/live, thin.)*
+
+### Account
+- Equity: $99,922.65 | Cash: $50,171.69 (50.2%) | Buying power: $339,989.45 (margin)
+- Deployed: MSFT $20,251 + XLB $14,672 + XLI $14,790 = **$49,751 (~49.8% of equity)**. Still below 75–85% target; gap flat.
+- Weekly buys: **0 this week**. 8 remaining in cap. 3 open positions (room for 2–3 more).
+- vs last_equity (Jul 13 close $100,403.28): **-$480.63 (-0.48%)** on premarket marks (thin).
+
+### Market Context
+- **WTI ~$73.6 (Jul 13 close) → softening intraday toward ~$71–72** (-1% to -1.5%). Oil finally coming **off** the geopolitical spike — first orderly de-escalation move after 3 Iran-driven pops in 2 weeks. This is the non-spike setup the log wanted for XLE — but see Decision.
+- **S&P futures ~7,554 (-0.25% to -0.87%)** → risk-off tilt premarket ahead of CPI.
+- **VIX 16.39 (Jul 13 close, +9%); opened 16.32 Jul 14.** Vol ticking up into the print.
+- **Today's catalysts (binary-event morning):** (1) **June CPI @ 08:30 ET**; (2) **Bank earnings BMO** — JPM/GS/C/BAC/WFC; (3) **Fed Chair Warsh testimony @ 10:00 ET** — dual macro-shock window.
+- **CPI June consensus:** headline **MoM -0.1%** (10% gasoline drop), **YoY ~3.8–3.9%** (down from 4.2%); **core sticky ~2.9% YoY / +0.2% MoM**. Fed "higher-for-longer," no cuts priced; NY Fed 1yr expectations 3.7% (highest since Sep '23). Hot core = hawkish risk-off tail.
+- **Earnings before open:** JPM (est $5.67), GS (est $10.88, IB fees +32% YoY), C (est $2.08). **None held.** Finance sector Q2 +12.5%. Next held-ticker earnings: **MSFT Jul 29**.
+- **Sector momentum YTD:** Energy leads (+16–36%), **Materials +11–17%, Industrials +11.5–14%**, Tech -3.3 to -10% (lags). Cyclical rotation intact — aligned with XLB/XLI theses.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | $382.10 (**+3.07%**, +$603). Premarket -2.27% vs $390.99 close (thin mark). Stop $355.995, HWM $395.55, 10% trail (ID 529f2067). No cut, no tighten (+15% thresh $426.34 far off). Thesis intact: Azure +40% YoY, AI run-rate >$37B, Strong Buy consensus ~$552 PT. Overhang $190B AI capex + 4.8k job cuts; trades below key EMAs ~$386. Earnings Jul 29.
+- **XLB** 291 @ $52.09 | $50.42 (**-3.21%**, -$487). Stop $46.872, HWM $52.08, 10% trail. -7% cut = $48.45 (below current). Fundamentals bullish: ISM Mfg 54.0 (4yr high), IIJA peak-construction demand, reshoring/data-center; Mideast copper/aluminum supply risk = upside. Watch July PMI / sub-$50 break with fresh catalyst.
+- **XLI** 82 @ $183.18 | $180.37 (**-1.53%**, -$230). Stop $164.808, HWM $183.12, 10% trail. -7% cut = $170.36. Rotation score 66 (near "Strong" 70). Tailwinds: defense + electrification + AI data-center capex overriding 10yr yield 4.49% drag. Thesis intact.
+
+### Trade Ideas
+1. **All 3 held — HOLD.** None near stop, -7% cut, or tighten threshold; theses intact. Stops do the work.
+2. **Energy (XLE) — WATCH, closest it's been to actionable.** Oil is finally pulling back in an *orderly* way off the spike (de-escalation), which is the non-spike entry the log has waited for. Energy is #1 momentum YTD and would close the deployment gap in a rule-aligned sector. BUT do not enter *pre-CPI* — let the 08:30 print + Warsh clear first. Re-evaluate at market-open/midday on a clean spread + 2:1 R:R if the tape is orderly post-CPI.
+3. **Deployment gap (~50% vs 75–85%) is a standing drag** — but CPI + bank earnings + Warsh make this the single most binary-headline window of the week. Adds belong *after* the print, in cyclicals/energy, not into a red pre-CPI premarket.
+
+### Risk Factors
+- **CPI @ 08:30 + Warsh @ 10:00 = dual macro-shock window.** Sticky core (~2.9%) or a hawkish Warsh could trigger risk-off repricing; hot print is the biggest tail risk today.
+- **Bank earnings set the tape.** JPM/GS misses/NII-guidance cuts would pressure cyclicals broadly (XLI/XLB read-through), though none held directly.
+- **Oil de-escalation cuts both ways:** relieves headline CPI (bullish breadth) but caps any XLE energy add thesis if it keeps falling — reason to wait, not chase.
+- **VIX ticking up + SPX futures red into CPI** — less complacent tape; premarket marks thin.
+- **MSFT premarket -2.27%** on a thin mark — still +3% and well above stop; monitor at open, no action.
+
+### Decision
+**HOLD all three.** No cuts, no tightens, no new buys at open. Every position above its stop and -7% cut; theses intact and cyclical rotation still favors XLB/XLI. XLE is the cleanest next add and oil's orderly pullback is finally the setup we wanted — but entering the morning of a CPI print + bank earnings + Warsh testimony is exactly the forced timing the strategy warns against. Let the 08:30 CPI clear; market-open/midday routine evaluates XLE only on an orderly post-CPI tape with clean spread and 2:1 R:R. Patience > activity.
