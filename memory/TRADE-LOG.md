@@ -12,7 +12,7 @@ No positions yet. Bot launches tomorrow.
 | 2026-06-30 | MSFT | BUY | 53 | $370.73 | $355.995 trailing 10% GTC (HWM $395.55) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
 | 2026-07-07 | XLI | BUY | 82 | $183.18 | $164.81 trailing 10% GTC (HWM $183.12, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
 | 2026-07-07 | XLB | BUY | 291 | $52.09 | $46.87 trailing 10% GTC (HWM $52.08, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
-| 2026-07-14 | XLE | BUY | 354 | $56.56 | $50.893 trailing 10% GTC (HWM $56.548, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
+| 2026-07-14 | XLE | BUY | 354 | $56.56 | $51.291 trailing 10% GTC (HWM $56.99, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
 
 ## 2026-07-07 — Market-Open Trades
 
@@ -146,6 +146,21 @@ No positions yet. Bot launches tomorrow.
 - **XLB:** $50.595 (-2.88% unrealized, -$436). Stop $46.872 (HWM $52.08, 10% trail). Day +0.03%. Above -7% floor ($48.45). Thesis intact.
 - **XLI:** $179.96 (-1.76% unrealized, -$264). Stop $164.808 (HWM $183.12, 10% trail). Day -0.22%. Above -7% floor ($170.36). Thesis intact.
 - **Portfolio:** $100,180 equity | Cash $30,149 (30.1%) | Deployed ~69.9% (MSFT $20,544 + XLB $14,723 + XLI $14,757 + XLE $20,021). 1 trade this week (7 remaining).
+
+### Jul 14 — EOD Snapshot (Day 11, Tuesday)
+**Portfolio:** $100,240.21 | **Cash:** $30,149.45 (30.1%) | **Day P&L:** -$166.78 (-0.17%) | **Phase P&L:** +$240.21 (+0.24%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $385.18 | -1.49% | +$765.99 (+3.90%) | $355.995 (10% trail, HWM $395.55) |
+| XLB | 291 | $52.09 | $50.64 | +0.12% | -$422.70 (-2.79%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $56.90 | +0.28% | +$120.36 (+0.60%) | $51.291 (10% trail, HWM $56.99) |
+| XLI | 82 | $183.18 | $180.45 | +0.04% | -$223.91 (-1.49%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Notable deployment day — added XLE (354sh @ $56.56), pushing from ~50% to ~70% deployed. June CPI 3.5% beat (vs. 3.9% est.) cleared headline risk and supported an orderly energy entry (XLE spread $0.01). Day P&L -$166.78 (-0.17%) primarily driven by MSFT -1.49% on bank-earnings rotation (JPM/GS/C). XLB +0.12%, XLI +0.04% essentially flat. XLE ended +0.28%, HWM advanced to $56.99, stop to $51.291 — first day in the green. Phase P&L +$240.21 (+0.24%). Portfolio 70% deployed, 4 open positions, $30,149 cash. 1 trade this week (7 remaining). Tomorrow: FOMC minutes + PPI data — hold current 4 positions, no forced adds; watch for sector rotation from bank earnings.
+
+---
+
 
 ## 2026-07-14 — Afternoon Update (~15:09 ET)
 

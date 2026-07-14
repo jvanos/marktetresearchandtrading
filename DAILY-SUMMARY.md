@@ -47,3 +47,17 @@ Open positions:
   XLB:  -2.43% today | -$533 (-3.52% unrlzd) | stop $46.87 ⚠️ analyst buy→hold downgrade
 Broad risk-off (recession fears + tariffs). All theses intact; XLB above -7% floor ($48.45).
 Tomorrow: watch XLB closely; add 1 position if tape stabilizes (target 75-85% deployed)
+
+---
+## 2026-07-14 20:06 UTC (fallback — ClickUp 403)
+EOD Jul 14
+Portfolio: $100,240 (-0.17% day, +0.24% phase)
+Cash: $30,149 (30.1%) | Deployed: ~70%
+Trades today: XLE buy 354sh @ $56.56
+Open positions:
+  MSFT $385.18 -1.49% day | +3.90% unrlzd | stop $355.995
+  XLB  $50.64  +0.12% day | -2.79% unrlzd | stop $46.872
+  XLE  $56.90  +0.28% day | +0.60% unrlzd | stop $51.291
+  XLI  $180.45 +0.04% day | -1.49% unrlzd | stop $164.808
+Week: 1 trade (7 remaining) | Phase: +$240 from $100k baseline
+Tomorrow: FOMC min + PPI data — hold 4 positions, no forced adds; watch bank-earnings rotation
