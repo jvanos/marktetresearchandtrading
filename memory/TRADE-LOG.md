@@ -170,3 +170,15 @@ No positions yet. Bot launches tomorrow.
 - **XLE:** $56.83 (+0.48% unrealized, +$96). Day +0.16%. Stop $51.1695 (HWM $56.855, 10% trail). **HWM advanced from $56.548→$56.855; stop advanced from $50.893→$51.1695** since this morning's entry. Post-CPI energy thesis intact. No cut, no tighten (+15% thresh ~$65.04).
 - **XLI:** $180.39 (-1.52% unrealized, -$229). Day +0.01%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
 - **Portfolio:** ~$100,225 est. equity | Cash ~$30,149 (30.1%) | Deployed ~69.9%. 1 trade this week (7 remaining). Phase P&L +$225 (+0.23%).
+
+---
+
+## 2026-07-15 — Midday Scan (~13:02 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All stops active.
+- **MSFT:** $394.60 (+6.44% unrealized, +$1,265). Day +2.51%. Stop $359.064 (HWM **$398.96** auto-advanced by Alpaca from $395.55; stop auto-advanced from $355.995). +15% tighten thresh $426.34 (~8% off). Azure AI thesis intact. No cut, no tighten.
+- **XLB:** $50.285 (-3.47% unrealized, -$526). Day -0.70%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45. Weak but above floor. Thesis intact. No cut.
+- **XLE:** $56.075 (-0.86% unrealized, -$172). Day -1.54%. Stop $51.291 (HWM $56.99, 10% trail). -7% floor $52.60. **Note:** XLE underperforming crude despite oil re-spike — hawkish rate drag on integrated majors (XOM/CVX hedge positions limit spot upside; higher rates compress equity valuations). Thesis weakened but not broken; stop does the work. No cut.
+- **XLI:** $178.71 (-2.44% unrealized, -$367). Day -0.96%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Defense/electrification/AI-infra thesis intact. No cut.
+- **Portfolio:** ~$100,201 equity | Cash $30,149 (30.1%) | Deployed ~69.9%. 1 trade this week (7 remaining). Day P&L -$43 (-0.04%). Phase P&L +$201 (+0.20%).
+- **XLF watch continued.** Pre-market binary risk was the June FOMC minutes — confirmed already released/priced Jul 10 (hawkish hold: half members projecting rate hikes). No new minutes today. Morgan Stanley earnings today not yet in; tape mixed; hawkish Fed medium-term headwind for financials. No buy; patience.
