@@ -550,3 +550,42 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 **Gate check passed:** Spread $0.01 (0.02%) ✓ | Post-CPI orderly tape ✓ | Energy #1 momentum YTD ✓ | Oil normalizing off Iran spike ✓ | 2:1 R:R ✓
 
 **Deployment:** 50.0% → 69.9% (MSFT $20,544 + XLB $14,723 + XLI $14,757 + XLE $20,021 = $70,045 / $100,180). Still below 75-85% target but a meaningful step; 1 position slot remaining. 1 trade this week (7 remaining).
+
+---
+
+## 2026-07-15 — Pre-market Research
+*(routine fired ~07:08 ET pre-open; market opens 09:30. Non-CPI day — CPI was yesterday. Premarket/stale marks, thin.)*
+
+### Account
+- Equity: $100,263.74 | Cash: $30,149.44 (30.1%) | Buying power: $316,917.80 (4x margin)
+- Deployed: MSFT $20,442 + XLB $14,736 + XLE $20,139 + XLI $14,797 = **$70,114 (~69.9%)**. Below 75–85% target; 1 position slot open (4 of max 5–6).
+- Weekly buys: **1 this week** (XLE). 7 remaining in cap.
+- vs last_equity (Jul 14 close $100,244.17): **+$19.57 (+0.02%)** — flat overnight.
+
+### Market Context
+- **WTI ~$79.7–79.9 (+2.7% on day); Brent ~$85–86.** Oil **RE-SPIKED** overnight. Research cites fresh US–Iran hostilities (US strikes on Iranian targets + naval blockade on Iranian ports) driving supply-disruption fears. NOTE conflicting narratives in research (some sources still reference a prior "ceasefire" behind the June-CPI gasoline drop) — treat the geopolitical claim as **unverified**; the verifiable signal is price: oil is UP ~2.7%, reversing Monday's orderly pullback. Bullish for held XLE; also a broad risk-off tail if it runs.
+- **S&P futures ~7,606 (+0.19%)** — mildly green, constructive.
+- **VIX ~16.4–16.9** — benign, low-vol regime holds despite oil.
+- **Today's events:** (1) **June FOMC minutes** released today — hawkish-tilt tail risk (some forecasts flag a possible hike before YE'26); (2) **Fed Chair Warsh testimony**; (3) **Morgan Stanley earnings** (PMO, not held). No major data release today.
+- **Bank earnings strong:** Citi Q2 rev +11%, JPM EPS +41%/rev +28%; eSLR deregulation tailwind. Financials firm (not held).
+- **Sector momentum YTD:** Energy leads (+15–33%), Materials (+11–17%), Industrials (+12–14%), Tech divergent. Portfolio is squarely aligned with the value/cyclical + energy leadership.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | $385.70 (**+4.04%**, +$794). Stop $355.995, HWM $395.55, 10% trail (ID 529f2067). Wells Fargo PT raised to $600 (Azure AI); offset by job-cut/legal headlines. +15% tighten thresh $426.34 (~10% off). Earnings Jul 29. No cut, no tighten.
+- **XLB** 291 @ $52.09 | $50.64 (**-2.79%**, -$423). Stop $46.872, HWM $52.08. -7% floor $48.45 (below). Materials rotation intact. No cut.
+- **XLE** 354 @ $56.56 | $56.89 (**+0.58%**, +$117). Stop $51.291, HWM $56.99, 10% trail (ID 31e547ca). Oil re-spike = tailwind; stop already advanced to $51.291. No cut, no tighten (+15% ~$65.04).
+- **XLI** 82 @ $183.18 | $180.45 (**-1.49%**, -$224). Stop $164.808, HWM $183.12. -7% floor $170.36 (below). Defense/electrification/AI-infra thesis intact. No cut.
+
+### Trade Ideas
+1. **All 4 held — HOLD.** None near stop, -7% cut, or tighten threshold; theses intact. Stops do the work.
+2. **XLF (Financials) — WATCH, new candidate for the open 5th slot.** Catalyst: strong bank Q2 beats (Citi +11% rev, JPM +41% EPS) + eSLR deregulation unlocking capital. Value-rotation aligned. Entry/stop/target only on an orderly tape at market-open/midday — NOT pre-FOMC-minutes. Suggested: entry near open, 10% trailing GTC stop, +20% target (2:1 R:R). Watch, don't chase.
+3. **Do NOT add to energy into the spike.** XLE already ~20% equity and benefiting; strategy explicitly warns against chasing a geopolitical oil pop. Hold, let the trailing stop capture upside.
+
+### Risk Factors
+- **June FOMC minutes today** = binary hawkish tail; a hawkish read could pressure rate-sensitive cyclicals (XLI/XLB) and cap MSFT.
+- **Oil spike cuts both ways:** helps XLE but a runaway geopolitical move is broad risk-off; the spike itself is the "don't chase" signal for new energy adds.
+- **US–Iran escalation is unverified single-thread research** — monitor, do not trade the headline directly.
+- **Deployment gap (~70% vs 75–85%)** is a standing drag, but FOMC-minutes + oil-spike day is poor timing to force the 5th add.
+
+### Decision
+**HOLD all four. No pre-market buys.** Every position above its stop and -7% floor; theses intact; portfolio aligned with energy + value/cyclical leadership. XLE benefits from the oil re-spike but do not chase energy further. XLF is the cleanest candidate for the open 5th slot on bank-earnings strength — but adding into a FOMC-minutes + geopolitical-oil-spike morning is exactly the forced timing the strategy warns against. Let the minutes and Warsh clear; market-open/midday routine evaluates XLF only on an orderly tape with clean spread and 2:1 R:R. Patience > activity.
