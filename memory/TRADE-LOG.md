@@ -182,3 +182,17 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $178.71 (-2.44% unrealized, -$367). Day -0.96%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Defense/electrification/AI-infra thesis intact. No cut.
 - **Portfolio:** ~$100,201 equity | Cash $30,149 (30.1%) | Deployed ~69.9%. 1 trade this week (7 remaining). Day P&L -$43 (-0.04%). Phase P&L +$201 (+0.20%).
 - **XLF watch continued.** Pre-market binary risk was the June FOMC minutes — confirmed already released/priced Jul 10 (hawkish hold: half members projecting rate hikes). No new minutes today. Morgan Stanley earnings today not yet in; tape mixed; hawkish Fed medium-term headwind for financials. No buy; patience.
+
+### Jul 15 — EOD Snapshot (Day 12, Wednesday)
+**Portfolio:** $100,636.29 | **Cash:** $30,149.44 (30.0%) | **Day P&L:** +$392.12 (+0.39%) | **Phase P&L:** +$636.29 (+0.64%)**
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $395.59 | +2.77% | +$1,317.73 (+6.71%) | $359.064 (10% trail, HWM $398.96 ↑ auto-advanced) |
+| XLB | 291 | $52.09 | $50.65 | +0.02% | -$419.79 (-2.77%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $56.54 | -0.72% | -$6.55 (-0.03%) | $51.291 (10% trail, HWM $56.99) |
+| XLI | 82 | $183.18 | $180.07 | -0.21% | -$255.07 (-1.70%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** MSFT carried the day — up +2.77% to $395.59, approaching the psychological $400 level; Alpaca auto-advanced HWM to $398.96 and stop to $359.064 (was $355.995). The +15% tighten threshold of $426.34 remains ~7.8% away. XLB and XLI gave back minimal amounts (-0.02% and -0.21%); both well above -7% cut floors. XLE slipped -0.72% to $56.54 — nearly flat vs. $56.56 entry (unrealized -$6.55); hawkish Fed rate drag confirmed (XLE underperforming oil rally again today; thesis weakened but stop does the work). No trades today; 1 trade this week (XLE buy Jul 14, 7 remaining). Portfolio 70% deployed, 4 positions, $30,149 cash — just below 75-85% target. Morgan Stanley earnings out today (results post-market); tomorrow watch for any bank-sector signal for XLF thesis. Next potential add: XLF if MS print confirms sector momentum and deployment gap demands action.
+
+---
