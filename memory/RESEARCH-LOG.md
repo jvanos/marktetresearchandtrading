@@ -595,3 +595,41 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **XLE/crude disconnect:** XLE -1.54% today despite oil up pre-market. Cause: (1) integrated majors (XOM/CVX) have hedging programs limiting spot upside; (2) hawkish rate environment compresses equity valuations; (3) geopolitical supply-shock (US-Iran) ≠ demand recovery — refined product demand not following crude. XLE thesis entered on de-escalation/orderly pullback; now in re-escalation. Thesis weakened but not broken — stop active at $51.291, -7% floor $52.60, both well below $56.075 current. Hold.
 - **XLF:** Short-term bullish (JPM/GS/Citi Q2 beats, eSLR deregulation). Morgan Stanley earnings today pending. Medium-term risk: hawkish Fed limits NII expansion if hike arrives; credit costs could rise. Watch for clean entry on orderly tape; mixed session today (MSFT +2.51%, XLB/XLE/XLI -0.70/-1.54/-0.96%) — not orderly enough to force the 5th add. No buy.
 - **Midday decision: No trades.** All 4 positions intact, stops protecting, phase P&L +$201 (+0.20%).
+
+
+## 2026-07-16 — Pre-market Research
+*(routine fired ~07:09 ET pre-open; market opens 09:30. Premarket/thin marks. June PPI + heavy earnings ahead.)*
+
+### Account
+- Equity: $100,683.73 | Cash: $30,149.44 (29.9%) | Buying power: $318,093.77 (4x margin)
+- Deployed: MSFT $21,255 + XLB $14,605 + XLE $19,909 + XLI $14,765 = **$70,534 (~70.1%)**. Below 75–85% target; 1 position slot open (4 of max 5–6).
+- Weekly buys: **1 this week** (XLE Jul 14). 7 remaining in cap.
+- vs last_equity (Jul 15 close $100,579.25): **+$104.48 (+0.10%)** — modest overnight gain, MSFT-led.
+
+### Market Context
+- **WTI ~$79.5 (roughly flat, +0.3%); Brent ~$84–85** (sources conflict $71.86 vs $84.53 — benchmark/timing noise). Oil **holding, not re-spiking** — orderly vs. last week's Iran pops. Neutral for XLE.
+- **S&P futures ~7,607–7,618 (+0.21%)** — mildly green, constructive.
+- **VIX** — not confirmed in feed; no stress signals in futures/spreads. Benign regime assumed.
+- **Today's events:** (1) **June PPI at 8:30 ET** (after this run) — the binary of the day; some sources predict a HOT +1.1% MoM (vs 0% prior) but that is an unverified pre-release forecast, treat with caution. Hot PPI = hawkish, pressures rate-sensitive cyclicals (XLB/XLI) + caps MSFT. (2) **Heavy earnings pre-open:** TSM (AI bellwether), UNH, JNJ, **GE Aerospace** (industrials — reads directly on XLI thesis), Morgan Stanley, Travelers, regional banks. NFLX/ISRG after close.
+- **Fed:** Chair Warsh (hawk); market-implied ~77% chance of a rate hike by Dec 2026. Next FOMC **Jul 28**. Hawkish baseline intact.
+- **Sector momentum YTD:** Energy leads (+24–33%), Materials (+12–18%), Industrials (+12–14%), Tech mixed/divergent, **Financials LAGGING (-2.3% to -6.9%, worst sector)**. Portfolio squarely aligned with value/cyclical + energy leadership.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | ~$401.04 premkt (**+8.18%**, +$1,607). **Crossed $400.** Stop $359.064, HWM $398.96, 10% trail (ID 529f2067). +15% tighten thresh **$426.34** (~6% off — the position to watch; tighten to 7% trail if hit intraday). Bullish: Frontier AI launch, 3M partnership, M365 price hikes; consensus PT $559. Earnings **Jul 29** = event risk. No cut, no tighten yet.
+- **XLB** 291 @ $52.09 | $50.19 (**-3.65%**, -$554). Stop $46.872, HWM $52.08. -7% floor $48.45 (below current). Materials rotation intact; hot-PPI risk. No cut.
+- **XLE** 354 @ $56.56 | $56.24 (**-0.57%**, -$113). Stop $51.291, HWM $56.99, 10% trail (ID 31e547ca). Oil holding, orderly. No cut, no tighten (+15% ~$65.04).
+- **XLI** 82 @ $183.18 | $180.06 (**-1.70%**, -$256). Stop $164.808, HWM $183.12. -7% floor $170.36 (below). **GE Aerospace earnings today = direct XLI catalyst.** Defense/electrification/AI-infra thesis intact. No cut.
+
+### Trade Ideas
+1. **All 4 held — HOLD.** None near stop, -7% cut, or (except MSFT approaching) tighten threshold; theses intact. Stops do the work.
+2. **MSFT — watch for +15% tighten.** Thresh $426.34 (~6% above premkt $401). If hit at open/midday, tighten trail 10%→7% per rule 6. Pre-market cannot move stops; market-hours routines handle it.
+3. **XLF 5th-slot idea — DOWNGRADE.** Prior days flagged XLF on bank-earnings beats, but momentum data now shows **Financials the WORST sector YTD (-2.3% to -6.9%)**. Rule 9 (follow sector momentum) argues against buying a lagging sector on a one-off earnings pop. No buy; better 5th-slot candidates sit in leading sectors (Materials/Industrials already held; Energy at ~20% cap; Tech mixed).
+
+### Risk Factors
+- **June PPI at 8:30 ET = today's binary.** A hot print (forecasts flag +1.1% MoM) would be hawkish — pressures XLB/XLI and caps MSFT. Wait for the actual number; do not pre-position.
+- **Earnings gauntlet:** TSM (AI-trade read), GE Aerospace (XLI read) can swing held sectors. GE miss/weak guide = XLI headwind; TSM weak = broad AI/tech risk-off spillover.
+- **Hawkish Fed baseline** (Warsh, ~77% Dec-hike odds) is a standing headwind for rate-sensitive cyclicals.
+- **Deployment gap (~70% vs 75–85%)** persists, but a PPI + heavy-earnings morning is poor timing to force the 5th add.
+
+### Decision
+**HOLD all four. No pre-market buys.** Every position above its stop and -7% floor; theses intact; portfolio aligned with energy + value/cyclical leadership. MSFT is the standout (+8.2%, through $400) — watch $426.34 for a market-hours trail tighten. XLF 5th-slot thesis downgraded on weak sector momentum. Let PPI (8:30) and the earnings slate clear; market-open/midday routines evaluate any add only on an orderly post-PPI tape with clean spread and 2:1 R:R. Patience > activity.
