@@ -196,3 +196,13 @@ No positions yet. Bot launches tomorrow.
 **Notes:** MSFT carried the day — up +2.77% to $395.59, approaching the psychological $400 level; Alpaca auto-advanced HWM to $398.96 and stop to $359.064 (was $355.995). The +15% tighten threshold of $426.34 remains ~7.8% away. XLB and XLI gave back minimal amounts (-0.02% and -0.21%); both well above -7% cut floors. XLE slipped -0.72% to $56.54 — nearly flat vs. $56.56 entry (unrealized -$6.55); hawkish Fed rate drag confirmed (XLE underperforming oil rally again today; thesis weakened but stop does the work). No trades today; 1 trade this week (XLE buy Jul 14, 7 remaining). Portfolio 70% deployed, 4 positions, $30,149 cash — just below 75-85% target. Morgan Stanley earnings out today (results post-market); tomorrow watch for any bank-sector signal for XLF thesis. Next potential add: XLF if MS print confirms sector momentum and deployment gap demands action.
 
 ---
+
+## 2026-07-16 — Midday Scan (~13:02 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active and auto-advancing.
+- **MSFT:** $402.58 (+8.59% unrealized, +$1,688). Day +1.76%. Stop $364.032 (HWM **$404.48** auto-advanced by Alpaca from $398.96). +15% tighten thresh $426.34 (~5.9% away — the position to watch; approaching). Azure AI thesis intact, Frontier launch bullish, earnings Jul 29. No cut, no tighten.
+- **XLB:** $50.72 (-2.635% unrealized, -$399). Day +0.44%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45. Recovering. Thesis intact. No cut.
+- **XLE:** $56.97 (+0.725% unrealized, +$145). Day +0.83%. Stop $51.57 (HWM **$57.30** auto-advanced by Alpaca from $56.99). Oil orderly, energy leadership intact. No cut, no tighten (+15% thresh ~$65.04).
+- **XLI:** $179.67 (-1.916% unrealized, -$288). Day -0.22%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. GE Aerospace earnings today — XLI only -0.22% intraday, no shock. Thesis intact. No cut.
+- **Portfolio:** $101,170.33 equity | Cash $30,149.44 (29.8%) | Deployed ~70.2%. Day P&L +$534.04 (+0.53%). Phase P&L +$1,170.33 (+1.17%). 1 trade this week (7 remaining).
+- **No new buys:** 4 open positions, 1 slot open. No compelling 5th-slot candidate — XLF downgraded (worst sector YTD), energy already at 20% cap. Deployment 70% vs 75–85% target; June PPI data cleared without XLB/XLI breakdown. Patience over forced add.
