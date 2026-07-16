@@ -216,3 +216,15 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $179.36 (-2.09% unrealized, -$313). Day -0.39%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. GE Aerospace (XLI read) absorbed without breakdown. Defense/electrification/AI-infra thesis intact. No cut.
 - **Portfolio:** ~$101,268 est. equity | Cash $30,149.44 (29.8%) | Deployed ~70.2%. Day P&L +$632 (+0.63%). Phase P&L +$1,268 (+1.27%). 1 trade this week (7 remaining).
 - **No new buys:** All same rationale as midday — no compelling 5th-slot candidate, deployment gap secondary to quality. 70 min to close; no late-session forced adds.
+
+### Jul 16 — EOD Snapshot (Day 13, Thursday)
+**Portfolio:** $101,211.25 | **Cash:** $30,149.44 (29.8%) | **Day P&L:** +$574.96 (+0.57%) | **Phase P&L:** +$1,211.25 (+1.21%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $401.90 | +1.59% | +$1,652.16 (+8.41%) | $365.391 (10% trail, HWM $405.99 ↑ auto-advanced) |
+| XLB | 291 | $52.09 | $50.87 | +0.73% | -$355.77 (-2.35%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $57.01 | +0.90% | +$159.30 (+0.80%) | $51.57 (10% trail, HWM $57.30) |
+| XLI | 82 | $183.18 | $180.20 | +0.08% | -$244.41 (-1.63%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Positive close across all four positions. MSFT broke $400 intraday (HWM $405.99), ending at $401.90 (+1.59% today, +8.41% unrealized); trailing stop auto-advanced to $365.391. The +15% tighten threshold ($426.34) is now ~6.1% away — the primary watch trigger. XLB recovered +0.73% (still -2.35% unrealized, well above -7% floor $48.45); XLE +0.90% to $57.01, stop holding at $51.57 (HWM $57.30); XLI essentially flat +0.08%, thesis intact. No trades today; 1 trade this week (XLE buy Jul 14, 7 remaining). Portfolio $71,062 long / 70.2% deployed, $30,149 cash — below 75-85% target but no compelling 5th-slot candidate (XLF worst sector YTD, energy at 20% cap). Phase P&L +$1,211.25 (+1.21%) vs S&P benchmark — on track. Tomorrow: no scheduled major catalysts; watch MSFT vs $426.34 tighten level; hold course on all positions.

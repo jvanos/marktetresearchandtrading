@@ -61,3 +61,18 @@ Open positions:
   XLI  $180.45 +0.04% day | -1.49% unrlzd | stop $164.808
 Week: 1 trade (7 remaining) | Phase: +$240 from $100k baseline
 Tomorrow: FOMC min + PPI data — hold 4 positions, no forced adds; watch bank-earnings rotation
+
+---
+## 2026-07-16 20:07 UTC (fallback — ClickUp egress blocked)
+EOD Jul 16
+Portfolio: $101,211 (+0.57% day, +1.21% phase)
+Cash: $30,149 (29.8%)
+Trades today: none | Week: 1/8 (7 remaining)
+Open positions:
+  MSFT +1.59% close $401.90 (stop $365.39, HWM $405.99 ↑)  unrealized +8.41%
+  XLB  +0.73% close $50.87  (stop $46.87, HWM $52.08)      unrealized -2.35%
+  XLE  +0.90% close $57.01  (stop $51.57, HWM $57.30)      unrealized +0.80%
+  XLI  +0.08% close $180.20 (stop $164.81, HWM $183.12)    unrealized -1.63%
+Deployed: 70.2% ($71,062 long)
+Tomorrow: no catalysts; MSFT ~6% from +15% tighten level ($426.34) — key watch; no forced 5th add
+[NOTE: ClickUp delivery failed — api.clickup.com blocked by egress policy]
