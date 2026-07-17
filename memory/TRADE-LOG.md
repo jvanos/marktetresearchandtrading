@@ -228,3 +228,15 @@ No positions yet. Bot launches tomorrow.
 | XLI | 82 | $183.18 | $180.20 | +0.08% | -$244.41 (-1.63%) | $164.808 (10% trail, HWM $183.12) |
 
 **Notes:** Positive close across all four positions. MSFT broke $400 intraday (HWM $405.99), ending at $401.90 (+1.59% today, +8.41% unrealized); trailing stop auto-advanced to $365.391. The +15% tighten threshold ($426.34) is now ~6.1% away — the primary watch trigger. XLB recovered +0.73% (still -2.35% unrealized, well above -7% floor $48.45); XLE +0.90% to $57.01, stop holding at $51.57 (HWM $57.30); XLI essentially flat +0.08%, thesis intact. No trades today; 1 trade this week (XLE buy Jul 14, 7 remaining). Portfolio $71,062 long / 70.2% deployed, $30,149 cash — below 75-85% target but no compelling 5th-slot candidate (XLF worst sector YTD, energy at 20% cap). Phase P&L +$1,211.25 (+1.21%) vs S&P benchmark — on track. Tomorrow: no scheduled major catalysts; watch MSFT vs $426.34 tighten level; hold course on all positions.
+
+---
+
+## 2026-07-17 — Midday Scan (~13:03 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active and auto-advancing.
+- **MSFT:** $394.625 (+6.45% unrealized, +$1,267). Day -1.61%. Stop $365.391 (HWM $405.99, 10% trail). +15% tighten thresh $426.34 (~8.0% away). Risk-off across NASDAQ on Iran/Hormuz escalation (NASDAQ -1.66% premkt; now intraday pullback). Azure AI thesis intact; earnings Jul 29. No cut, no tighten.
+- **XLB:** $50.64 (-2.79% unrealized, -$423). Day -0.49%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.44. Thesis intact. No cut.
+- **XLE:** $57.42 (+1.52% unrealized, +$304). Day +0.70%. Stop $52.3035 (HWM **$58.115** — auto-advanced from $57.30 since yesterday EOD). Iran/Hormuz oil spike = direct tailwind; HWM advancing. +15% thresh ~$65.04. Thesis intact. No cut, no tighten.
+- **XLI:** $180.22 (-1.62% unrealized, -$243). Day +0.04%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
+- **Portfolio:** ~$100,906 est. equity | Cash $30,149.44 (29.9%) | Deployed ~70.1% ($70,756 long mkt value). Phase P&L +$906 (+0.91%). 1 trade this week (7 remaining).
+- **No new buys:** VIX ~18, risk-off tape (Iran/Hormuz), NASDAQ under pressure. 70% deployed vs. 75-85% target; no compelling 5th-slot candidate. Patience > forced adds.
