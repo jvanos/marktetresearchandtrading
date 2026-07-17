@@ -76,3 +76,17 @@ Open positions:
 Deployed: 70.2% ($71,062 long)
 Tomorrow: no catalysts; MSFT ~6% from +15% tighten level ($426.34) — key watch; no forced 5th add
 [NOTE: ClickUp delivery failed — api.clickup.com blocked by egress policy]
+
+---
+## 2026-07-17 16:09 UTC (fallback — ClickUp unreachable: proxy policy blocks api.clickup.com)
+EOD Jul 17
+Portfolio: $100,843 (-0.36% day, +0.84% phase)
+Cash: $30,149 (29.9%)
+Trades today: none | Week: 1 (XLE Jul 14, 7 remaining)
+Open positions (4):
+  MSFT +6.1% (stop $365.39, HWM $405.99)
+  XLE  +2.1% (stop $52.30, HWM $58.12 ↑)
+  XLI  -2.1% (stop $164.81)
+  XLB  -3.0% (stop $46.87)
+Market: closed (Fri after-hours) | No HALT
+Monday: Iran/Hormuz watch; hold all 4; MSFT vs $426.34 tighten level (~8.4% away); no forced 5th slot
