@@ -240,3 +240,13 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $180.22 (-1.62% unrealized, -$243). Day +0.04%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
 - **Portfolio:** ~$100,906 est. equity | Cash $30,149.44 (29.9%) | Deployed ~70.1% ($70,756 long mkt value). Phase P&L +$906 (+0.91%). 1 trade this week (7 remaining).
 - **No new buys:** VIX ~18, risk-off tape (Iran/Hormuz), NASDAQ under pressure. 70% deployed vs. 75-85% target; no compelling 5th-slot candidate. Patience > forced adds.
+
+## 2026-07-17 — Afternoon Update (~14:52 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active and auto-advancing.
+- **MSFT:** $394.915 (+6.52% unrealized, +$1,282). Day -1.54%. Stop $365.391 (HWM $405.99, 10% trail — unchanged from midday). Iran/Hormuz risk-off overhang persists, NASDAQ down. Azure AI thesis intact; earnings Jul 29. No cut, no tighten (+15% thresh $426.34 ~7.9% away).
+- **XLB:** $50.46 (-3.13% unrealized, -$475). Day -0.85%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45. Drifted slightly lower since midday ($50.64 → $50.46). Thesis intact. No cut.
+- **XLE:** $57.575 (+1.80% unrealized, +$359). Day +0.97%. Stop $52.3035 (HWM $58.115, 10% trail — HWM unchanged from midday). Oil holding on Hormuz. Best positioned today. No cut, no tighten (+15% thresh ~$65.04).
+- **XLI:** $179.525 (-2.00% unrealized, -$300). Day -0.35%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Slipped slightly from midday ($180.22 → $179.525). Thesis intact. No cut.
+- **Portfolio:** ~$100,866 est. equity | Cash $30,149.44 (29.9%) | Deployed ~70.1% ($70,717 long mkt value). Day P&L est. -$345 (-0.34%) vs Jul 16 EOD. Phase P&L +$866 (+0.87%). 1 trade this week (7 remaining).
+- **No new buys:** Risk-off tape persisting into the afternoon (Iran/Hormuz, VIX ~18). No thresholds crossed; all positions breathing normally.
