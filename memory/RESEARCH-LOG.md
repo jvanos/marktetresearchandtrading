@@ -633,3 +633,42 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all four. No pre-market buys.** Every position above its stop and -7% floor; theses intact; portfolio aligned with energy + value/cyclical leadership. MSFT is the standout (+8.2%, through $400) — watch $426.34 for a market-hours trail tighten. XLF 5th-slot thesis downgraded on weak sector momentum. Let PPI (8:30) and the earnings slate clear; market-open/midday routines evaluate any add only on an orderly post-PPI tape with clean spread and 2:1 R:R. Patience > activity.
+
+
+## 2026-07-17 — Pre-market Research
+*(routine fired ~07:09 ET pre-open; market opens 09:30. Premarket/thin marks. Risk-off tape on Iran/Hormuz escalation.)*
+
+### Account
+- Equity: $100,818.32 | Cash: $30,149.44 (29.9%) | Buying power: $318,470.62 (4x margin)
+- Deployed: long mkt value **$70,668.88 (~70.1%)**. Below 75–85% target; 1–2 slots open (4 of max 5–6).
+- vs last_equity (Jul 16 close $101,174.11): **-$355.79 (-0.35%)** overnight — MSFT/XLI premarket softness on risk-off.
+- Weekly buys: **1 this week** (XLE Jul 14). 7 remaining. Phase P&L +$818 (+0.82%, premarket mark).
+
+### Market Context — RISK-OFF
+- **US-Iran conflict escalating; Strait of Hormuz closure threat** = the day's dominant driver. Oil re-spiking.
+- **WTI ~$79.6–80, Brent ~$84.9–85.3** — biggest weekly crude gain in months. **Bullish XLE.**
+- **S&P futures ~7,509 (-0.90%); NASDAQ futures -1.66%** — tech-led selloff (AI/semis pullback). Prev SPX close 7,614.75.
+- **VIX ~18.0 (+7.35%)** — volatility spike from ~15.7. Regime shifted from benign to cautious.
+- **Today's data:** Import/Export Prices + Industrial Production (9:15 ET); **UMich Consumer Sentiment prelim 10:00 ET (cons. 51.0 vs prior 49.5)**. NOTE: a Perplexity result claiming "FOMC decision today 2pm" is WRONG — next FOMC is Jul 28 (Friday today; no meeting). Disregard.
+- **Earnings pre-open (minor for us):** DRI, TD SYNNEX (SNX, big beat), Acuity Brands (AYI — small XLI read), Commercial Metals (CMC steel — small XLB read), WGO; Travelers/FITB/RF (financials). None a direct mover for held sectors.
+- **Sector momentum YTD:** Energy leader (+24–26%), Industrials (+14–20%, strongest recent M/M +7.3% June), Materials (+10–17%), **Tech laggard (-3%)**, **Financials worst (-7.5%)**. Portfolio aligned with leaders; MSFT is the divergent tech bet.
+
+### Position Check (all held, all protected, all above -7% floor)
+- **MSFT** 53 @ $370.73 | ~$393.98 premkt (**+6.27%**, +$1,232). Down ~1.8% premkt on NASDAQ -1.66% risk-off. Stop $365.391, HWM $405.99, 10% trail (ID 529f2067) — **~7.3% above stop**. +15% tighten thresh **$426.34** (retreated to ~8.2% off). Earnings **Jul 29** = event risk; AI-spend jitters (IBM weak, Xbox cuts) + tech risk-off headwind, but held up as "safest earnings play," consensus Strong Buy PT ~$552. No action; stop does the work.
+- **XLB** 291 @ $52.09 | $50.90 (**-2.29%**, -$347). Stop $46.872, HWM $52.08. -7% floor $48.45. Materials momentum positive; CMC steel beat a small tailwind. Thesis intact. No cut.
+- **XLE** 354 @ $56.56 | $57.58 (**+1.80%**, +$361). **New premkt high above HWM $57.30 → stop auto-advances at open** (from $51.57). Oil surge on Hormuz = direct tailwind; energy YTD leader. +15% thresh ~$65.04 (far). Best-positioned holding today. No add (already ~20% cap). Let it run.
+- **XLI** 82 @ $183.18 | $177.96 (**-2.85%**, -$428). Stop $164.808, HWM $183.12. -7% floor $170.36 (above). Weakest holding but industrials strongest recent momentum; AYI report a small read. Thesis intact; stop does the work. No cut.
+
+### Trade Ideas
+1. **HOLD all four.** Risk-off open (SPX -0.9%, NASDAQ -1.66%, VIX 18, geopolitical whipsaw) = poor timing for new buys. All positions above stop and -7% floor; theses intact.
+2. **XLE — let it run / confirm stop advance.** Oil re-spiking on Strait of Hormuz threat; premarket new high. Market-open routine should verify the 10% trailing stop auto-advances above $51.57. No add — energy at ~20% cap (wrapper would reject).
+3. **5th-slot add — HOLD.** Deployment ~70% vs 75–85% target, but a VIX-spiking, headline-driven risk-off tape is exactly when NOT to force a 5th position. Financials remain worst-sector-YTD (no). Add only on an orderly tape in a leading sector with clean 2:1 R:R. Patience > activity.
+
+### Risk Factors
+- **Iran/Hormuz escalation = the binary of the day.** Oil spike helps XLE but risk-off (VIX 18) pressures MSFT (tech) and cyclicals; headline whipsaw both ways.
+- **MSFT tech-specific downside:** NASDAQ -1.66%, AI-spend jitters, Xbox cuts, Jul 29 earnings. Largest position (~$20.9k, ~20.7% of equity).
+- **Oil double-edged:** bullish XLE, but a sustained crude/inflation spike is hawkish → headwind for rate-sensitive XLB/XLI/MSFT and raises rate-hike odds.
+- **UMich sentiment 10:00 ET:** a miss adds to risk-off; a beat (>51) could stabilize the tape.
+
+### Decision
+**HOLD all four. No pre-market buys.** Risk-off regime (Iran/Hormuz, VIX ~18, futures down ~1%) argues for defense, not forced adds. Every position above its stop and -7% floor; theses intact. XLE is today's standout (oil surge, new premkt high — stop advances at open). MSFT softest into the open on tech risk-off but +6.3% and ~7% above stop; earnings Jul 29 the key event. Let UMich (10:00) and the geopolitical headlines clear; market-open/midday routines evaluate any tighten/cut only on real intraday levels. Patience > activity.
