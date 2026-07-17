@@ -90,3 +90,15 @@ Open positions (4):
   XLB  -3.0% (stop $46.87)
 Market: closed (Fri after-hours) | No HALT
 Monday: Iran/Hormuz watch; hold all 4; MSFT vs $426.34 tighten level (~8.4% away); no forced 5th slot
+
+---
+## 2026-07-17 21:11 UTC (weekly review fallback — ClickUp proxy blocked)
+Week ending Jul 17
+Portfolio: $100,878 (+0.57% week, +0.88% phase)
+vs S&P 500: +2.17% (S&P -1.60%)
+Trades: 1 (W:0 / L:0 / open:4)
+Best: XLE +2.19% unrealized | Worst: XLB -3.13% unrealized
+Positions: MSFT +6.29% | XLB -3.13% | XLE +2.19% | XLI -2.14%
+Takeaway: Beat index by 2.17% in down week; XLE Hormuz tailwind offset MSFT/NASDAQ risk-off; XLB flagged for voluntary exit next week if no catalyst
+Grade: B
+[NOTE: ClickUp API blocked by proxy — logged to fallback]

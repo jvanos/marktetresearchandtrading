@@ -45,6 +45,68 @@ here for human review; do not edit TRADING-STRATEGY.md directly.)
 
 ---
 
+## Week ending 2026-07-17
+
+*Note: Market open all 5 days (Jul 13–17). No HALT file. Normal operations throughout. Market closed 4:07 PM ET when this review ran.*
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,308.42 |
+| Ending portfolio | $100,877.94 |
+| Week return | +$569.52 (+0.57%) |
+| S&P 500 week | -1.60% |
+| Bot vs S&P | +2.17% |
+| Trades | 1 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLE +2.19% unrealized |
+| Worst trade | XLB -3.13% unrealized |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MSFT | $370.73 | $394.04 | +$1,235.58 (+6.29%) | $365.391 (10% trail, HWM $405.99) |
+| XLB | $52.09 | $50.46 | -$475.08 (-3.13%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | $56.56 | $57.80 | +$438.96 (+2.19%) | $52.3035 (10% trail, HWM $58.115) |
+| XLI | $183.18 | $179.26 | -$321.49 (-2.14%) | $164.808 (10% trail, HWM $183.12) |
+
+### What Worked
+- XLE entry thesis timed well — June CPI beat (3.5% vs 3.9% est.) cleared binary risk; Iran/Hormuz oil spike became a direct tailwind, pushing HWM and trailing stop higher through the week
+- MSFT broke $400 intraday Thursday; stop auto-advanced to $365.39; Azure AI + Frontier launch thesis intact into Jul 29 earnings
+- Sector diversification paid off: energy (XLE +2.19%) offset tech/industrial risk-off drag on Friday's Hormuz sell-down
+- Patience on XLF (worst sector YTD) — correctly avoided a fundamentally weak 5th slot
+- Bot outperformed S&P 500 by +2.17% in a losing week for the index; risk management working
+
+### What Didn't Work
+- Deployment still 70% vs 75-85% mandate — no compelling 5th-slot candidate found for the 4th consecutive week
+- XLB persistent drag: buy→hold downgrade Jul 8 + technical weakness (below 50-DMA, MACD neg) with no recovery catalyst; -3.13% unrealized, HWM frozen at entry ($52.08)
+- XLI underperforming since entry: -2.14% unrealized, no HWM advance, trailing stop unmoved (HWM still $183.12 from entry Jul 7)
+- MSFT risk-off Friday (-1.93%) erased most of Thursday's $400 breakout; Hormuz/Iran overhang weighing on NASDAQ names
+- Missing EOD snapshots (Jul 9, Jul 10) created tracking gaps; week starting equity estimated from Alpaca last_equity rather than confirmed snapshot
+
+### Key Lessons
+- Iran/Hormuz as a recurrent risk factor creates consistent sector divergence — XLE wins, MSFT/NASDAQ loses; holding energy as a hedge against geopolitical spikes is sound
+- Sector diversification proved its value this week: 4-position portfolio returned +0.57% vs S&P -1.60% with no single position dominating
+- XLB at 9 days post-downgrade with no recovery is approaching the threshold for voluntary exit; waiting for the trailing stop alone may not be optimal when fundamentals have clearly deteriorated
+- Commit daily EOD snapshots — gaps cost accuracy in weekly accounting and make it harder to compute true daily attribution
+
+### Adjustments for Next Week
+- XLB watch: if no positive catalyst or HWM advance by Jul 21-22 midday, consider voluntary exit before -7% floor ($48.45); fundamentals (analyst downgrade) + technicals (below 50-DMA) justify discretionary cut
+- 5th slot: if XLB exits, replace with a momentum name (GOOGL pre-earnings Jul 29, or individual Industrials vs. broad ETF)
+- MSFT tighten alert: $426.34 threshold ~8.3% away; if Jul 29 earnings delivers, trail tightens to 7% — pre-plan the GTC stop modification
+- XLE: let stop work; HWM auto-advancing; no action unless +15% tighten threshold ($65.04) is hit
+- Capture EOD snapshots daily — do not skip even in low-activity sessions
+
+### Overall Grade: B
+
+---
+
 ## Week ending 2026-07-03
 
 *Note: Market closed Fri Jul 3 (Independence Day observed; Jul 4 falls on Saturday). Last trading day was Thu Jul 2. Effective trading week: Jun 30–Jul 2 (3 trading days).*
