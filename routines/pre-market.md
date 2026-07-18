@@ -45,6 +45,8 @@ STEP 2 — Pull live account state:
 
 STEP 3 — Research market context via Perplexity. Run
 bash scripts/perplexity.sh "<query>" for each:
+- "TIPS Breakeven today"
+- "Bond market yield curve today"
 - "WTI and Brent oil price right now"
 - "S&P 500 futures premarket today"
 - "VIX level today"
