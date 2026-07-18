@@ -11,6 +11,8 @@ Format each entry:
 - Buying power: $X
 
 ### Market Context
+- TIPS Breakeven:
+- Bond market yield curve:
 - WTI / Brent:
 - S&P 500 futures:
 - VIX:
