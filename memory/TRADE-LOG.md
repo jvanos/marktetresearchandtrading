@@ -272,3 +272,15 @@ No positions yet. Bot launches tomorrow.
 | XLI | 82 | $183.18 | $179.41 | -0.41% | -$309.19 (-2.06%) | $164.808 (10% trail, HWM $183.12) |
 
 **Notes:** Risk-off Friday close — Iran/Hormuz overhang hit NASDAQ, dragging MSFT -1.93% to $393.37 (still +6.11% unrealized; HWM $405.99, stop $365.391 unchanged). XLE was the standout at +1.23% to $57.72; HWM auto-advanced to $58.115, stop to $52.3035 — oil/Hormuz spike a direct tailwind for energy. XLB -0.71% and XLI -0.41%, both theses intact and well above -7% cut floors ($48.45 and $170.36 respectively). Day P&L -$368.18 (-0.36%) — modest pullback on Iran risk. Phase P&L +$843.07 (+0.84%) vs $100,000 baseline. No trades today; 1 trade this week (XLE buy Jul 14, 7 remaining). Portfolio 70.1% deployed, 4 positions, $30,149 cash — below 75-85% target but no compelling 5th-slot candidate emerged this week (XLF worst sector YTD, energy at 20% cap). Next open: Monday Jul 20. Watch MSFT vs. $426.34 tighten level (~8.4% away); hold course on all 4 positions into the weekend.
+
+---
+
+## 2026-07-20 — Midday Scan (~13:03 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active and auto-advancing.
+- **MSFT:** $400.75 (+8.10% unrealized, +$1,591). Day +1.76%. Stop $365.391 (HWM $405.99, 10% trail — current price below HWM; no new advance yet). +15% tighten thresh $426.34 (~6.4% away). Big Tech earnings week; MSFT earnings Jul 29. Thesis intact. No cut, no tighten.
+- **XLB:** $50.185 (-3.66% unrealized, -$555). Day -0.68%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.44. Materials soft today. Thesis intact. No cut.
+- **XLE:** $58.285 (+3.05% unrealized, +$611). Day +1.05%. Stop $52.484 (HWM $58.3159, 10% trail — auto-advanced from $58.115 since market-open). Oil/Hormuz tailwind persists (Brent ~$90). Thesis weakened (XLE underperforming crude = integrated-majors hedge/rate-drag pattern); stop doing the work. No cut, no tighten (+15% thresh ~$65.04).
+- **XLI:** $178.69 (-2.45% unrealized, -$368). Day -0.40%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
+- **Portfolio:** ~$101,279 est. equity | Cash $30,149.44 (29.8%) | Deployed ~70.2% ($71,129 long mkt value). Day P&L +$422 (+0.42%). Phase P&L +$1,279 (+1.28%). 0 trades this week (8 remaining).
+- **No new buys:** Deployment 70.2% vs 75–85% target — gap persists. No compelling 5th-slot candidate: Energy at ~20% cap (XLE wrapper would reject); Big Tech earnings week binary risk; no leading sector available. Patience > activity.
