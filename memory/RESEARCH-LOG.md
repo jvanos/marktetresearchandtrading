@@ -674,3 +674,42 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all four. No pre-market buys.** Risk-off regime (Iran/Hormuz, VIX ~18, futures down ~1%) argues for defense, not forced adds. Every position above its stop and -7% floor; theses intact. XLE is today's standout (oil surge, new premkt high — stop advances at open). MSFT softest into the open on tech risk-off but +6.3% and ~7% above stop; earnings Jul 29 the key event. Let UMich (10:00) and the geopolitical headlines clear; market-open/midday routines evaluate any tighten/cut only on real intraday levels. Patience > activity.
+
+
+## 2026-07-20 — Pre-market Research
+*(routine fired ~07:11 ET pre-open; market opens 09:30. Premarket/thin marks. Cautious tape on weekend US-Iran escalation; quiet macro day — no releases.)*
+
+### Account
+- Equity: $100,852.14 | Cash: $30,149.44 (29.9%) | Buying power: $318,565.32 (4x margin)
+- Deployed: long mkt value **$70,702.70 (~70.1%)**. Below 75–85% target; 1–2 slots open (4 of max 5–6).
+- vs last_equity ($100,856.47): **-$4.33 (~flat)** overnight. Phase P&L **+$852.14 (+0.85%)** vs $100k baseline.
+- Weekly buys: **1 this week** (XLE Jul 14). 7 remaining.
+
+### Market Context — CAUTIOUS / RISK-OFF LEAN
+- **US-Iran escalation over the weekend (fresh US strikes) = the day's dominant driver.** Oil bid; broad indices near short-term MAs; countervailing "peace-talks/Hormuz ceasefire" headlines add whipsaw risk.
+- **S&P futures ~7,496–7,499 (~+0.02%, flat)** vs Fri close 7,497.75. Some feeds show -1.0% — noisy premarket; net flat-to-slightly-up. Support 7,490 / resistance 7,505.
+- **VIX ~18.2–18.8** — elevated but below ~19.5 "panic." Still a cautious regime, unchanged from Friday.
+- **Oil: WTI ~$83.5–84.4** on Iran strikes (bullish XLE). Brent feeds noisy ($71.86 print looks like a data error — Brent trades above WTI; ignore).
+- **Macro calendar: QUIET.** No CPI/PPI/FOMC/jobs today (CPI was Jul 14 @ 3.5% YoY, PPI Jul 15). June FOMC minutes awaited later this week; some desks flag a possible rate hike before year-end.
+- **Earnings pre-open:** JNJ (healthcare) — not a held sector, not a direct mover. Q2 season starting (PepsiCo, Delta this week). No read for our holdings.
+- **Sector momentum YTD:** Energy leader (+20–33%), Materials & Industrials strong secondary (+11–17%), Tech divergent (+23% or -3–6% by source — rotation to value/cyclicals). Portfolio aligned with leaders; MSFT the divergent tech bet.
+
+### Position Check (all held, all protected, all above -7% floor)
+- **MSFT** 53 @ $370.73 | $390.97 premkt (**+5.46%**, +$1,073). Day ~-0.72%. Stop **$365.391**, HWM $405.99, 10% trail (ID 529f2067) — ~7.0% above stop. +15% tighten thresh **$426.34** (~9.1% away). Earnings **Jul 29** = the key event risk. AI-spend anxieties a NASDAQ headwind. No action; stop does the work.
+- **XLB** 291 @ $52.09 | $50.51 (**-3.04%**, -$461). Stop **$46.872**, HWM $52.08. -7% floor $48.44 (above). Materials momentum positive. Thesis intact. No cut.
+- **XLE** 354 @ $56.56 | $57.74 (**+2.09%**, +$419). Stop **$52.3035**, HWM $58.115, 10% trail. Iran strikes = direct oil tailwind; energy YTD leader. +15% thresh ~$65.04 (far). At ~20% cap — no add. Best-positioned holding. Let it run.
+- **XLI** 82 @ $183.18 | $181.00 (**-1.19%**, -$179). Stop **$164.808**, HWM $183.12. -7% floor $170.36 (above). Industrials strong momentum. Thesis intact. No cut.
+
+### Trade Ideas
+1. **HOLD all four.** Weekend Iran/Hormuz escalation + VIX ~18 + AI-spend jitters = cautious tape, poor timing for forced adds. All positions above stop and -7% floor; theses intact.
+2. **XLE — let it run.** Oil bid on fresh US strikes; energy YTD leader. Catalyst: Hormuz supply risk. Already at ~20% cap → no add (wrapper would reject). Watch stop auto-advance if it prints a new high >$58.115.
+3. **5th-slot add — HOLD (conditional).** Deployment ~70% vs 75–85% target. Add only on an *orderly* tape in a leading sector (Industrials/Materials) with clean spread and 2:1 R:R — e.g. an XLI/XLB-adjacent momentum name on a green, low-VIX open. Do NOT force a 5th on a geopolitically-driven, VIX-18 tape. Financials remain worst-YTD (no). Patience > activity.
+
+### Risk Factors
+- **Iran/Hormuz = the binary of the day.** Oil spike helps XLE but pressures tech/cyclicals; peace-talk headlines can reverse both ways intraday.
+- **MSFT tech-specific downside:** AI-spend anxieties, NASDAQ leadership, Jul 29 earnings. Largest position (~$20.7k, ~20.5% of equity).
+- **Oil double-edged:** bullish XLE, but a sustained crude spike is inflationary → hawkish risk for rate-sensitive XLB/XLI/MSFT (June FOMC minutes this week; rate-hike chatter).
+- **Thin premarket / noisy feeds:** conflicting futures & Brent prints — trust real intraday levels at open.
+
+### Decision
+**HOLD all four. No pre-market buys.** Cautious regime (weekend Iran escalation, VIX ~18, flat-to-soft futures) argues for defense, not forced adds. Every position above its stop and -7% floor; theses intact. XLE is today's standout (oil tailwind — watch for stop auto-advance). MSFT softest into a tech-cautious open but +5.5% and ~7% above stop; Jul 29 earnings the key event. Quiet macro day — let market-open/midday routines evaluate any tighten/cut or a 5th-slot add only on real intraday levels and an orderly tape. Patience > activity.
