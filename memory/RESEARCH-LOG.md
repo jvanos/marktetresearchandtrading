@@ -674,3 +674,41 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all four. No pre-market buys.** Risk-off regime (Iran/Hormuz, VIX ~18, futures down ~1%) argues for defense, not forced adds. Every position above its stop and -7% floor; theses intact. XLE is today's standout (oil surge, new premkt high — stop advances at open). MSFT softest into the open on tech risk-off but +6.3% and ~7% above stop; earnings Jul 29 the key event. Let UMich (10:00) and the geopolitical headlines clear; market-open/midday routines evaluate any tighten/cut only on real intraday levels. Patience > activity.
+
+---
+
+## 2026-07-20 — Pre-market Research
+*(ran inline at market-open; no pre-market routine fired. Market open confirmed 09:30 ET.)*
+
+### Account
+- Equity: $100,716.56 | Cash: $30,149.44 (29.9%) | Buying power: $318,185.68 (4x margin)
+- Deployed: MSFT $20,729 + XLB $14,681 + XLE $20,366 + XLI $14,792 = **$70,568 (~70.1%)**. Below 75–85% target; 1 slot open (4 of max 5–6).
+- Weekly buys: **0 this week** (new week). 8 remaining.
+- vs last_equity (Jul 17 close $100,856.47): **-$139.91 (-0.14%)** — mild overnight loss.
+
+### Market Context
+- **WTI ~$84 (+1.79%); Brent ~$90 (+3.08%)** — oil spiked hard on US-Iran conflict (9th day of US strikes, Strait of Hormuz closure threat). Highest Brent reading since June.
+- **S&P 500 futures ~7,497 (+0.02%–+0.3%); NASDAQ +0.13%–+0.4%; Dow -0.11%** — modestly constructive despite geopolitical risk.
+- **VIX:** Not explicitly confirmed intraday; geopolitical risk elevated (9-day US-Iran war); assume cautious regime.
+- **10-yr yield ~4.5%** (slightly softer post-CPI; marginal easing of borrowing-cost headwind).
+- **Today's catalysts:** Big Tech earnings week (GOOG, TSLA, INTC, IBM reporting this week; MSFT earnings Jul 29). US-Iran conflict driving oil spike. No major economic data today (pending home sales -5.4% Jun, 30-yr mortgage 6.55% — housing-specific).
+- **Sector momentum YTD (updated):** Energy ~+26%, Industrials/Capital Goods ~+29%, Tech +29% (AI rally reflation recent), Materials +10–17%. Energy #1 in relative strength per SSGA Sector Scorecard (Jul 19). Capital outflows from Tech into Energy/defensive cyclicals.
+
+### Position Check (all held, all protected)
+- **MSFT** 53 @ $370.73 | $391.11 (**+5.50%**, +$1,080). Stop $365.391, HWM $405.99, 10% trail (ID 529f2067). Today -0.69%. Big Tech earnings week + MSFT earnings Jul 29 = event risk. No cut (>>$344.78), no tighten (+15% thresh $426.34 ~9% off). Thesis intact: 97% Buy, PT ~$552–589, Azure AI, Copilot. Earnings Jul 29.
+- **XLB** 291 @ $52.09 | $50.45 (**-3.15%**, -$478). Stop $46.872, HWM $52.08. -7% floor $48.44. Day -0.16%. Fundamentals intact (materials rotation, data-center demand). No cut.
+- **XLE** 354 @ $56.56 | $57.53 (**+1.72%**, +$343). Stop $52.3035, HWM $58.115. -7% floor $52.60. Day -0.26%. Oil at $90 Brent but XLE underperforming crude (same integrated-majors hedge/hawkish-rate-drag pattern noted since Jul 15). Thesis weakened but stop protects. No cut, no tighten (+15% ~$65.04).
+- **XLI** 82 @ $183.18 | $180.39 (**-1.52%**, -$229). Stop $164.808, HWM $183.12. -7% floor $170.36. Day +0.55%. Defense/electrification/AI-infra thesis intact. No cut.
+
+### Trade Ideas
+1. **All 4 held — HOLD.** None near stop, -7% cut, or tighten threshold; theses intact. Stops do the work.
+2. **5th slot — PASS today.** Deployment ~70% vs 75–85% = standing drag. Energy (#1 momentum) already at ~20% cap (wrapper would reject). No clean new sector: Financials worst YTD, Healthcare "Weakening" in momentum maps, Utilities "Improving" but lags. Tech binary this week (GOOG/TSLA/INTC/IBM earnings). Consumer Staples defensive/laggard vs. energy leadership. No compelling 2:1 R:R entry exists in a leading sector today.
+
+### Risk Factors
+- **US-Iran conflict (9 days):** Strait of Hormuz closure = broad commodity/inflation shock; oil to $90 Brent is the driver. Helps XLE on paper but XLE underperforming crude = thesis strain.
+- **Big Tech earnings week:** GOOG/TSLA/INTC/IBM this week; MSFT Jul 29. Binary events could spike/crush VIX intraday. Adding into earnings-week binary risk = poor timing.
+- **XLE underperformance vs crude:** Integrated-majors hedge programs + hawkish-rate-drag confirmed pattern. Thesis weakened; stop doing the work.
+- **Hawkish Fed baseline:** ~53% Sept hike odds; headwind for rate-sensitive cyclicals (XLB/XLI) and growth multiples (MSFT).
+
+### Decision
+**HOLD all four.** No new positions. All theses intact, all stops active. Deployment gap (70% vs 75–85%) persists — no clean 5th-slot candidate given Big Tech earnings-week binary risk, Energy at cap, and no leading sector left to add. Patience > activity.

@@ -251,6 +251,16 @@ No positions yet. Bot launches tomorrow.
 - **Portfolio:** ~$100,866 est. equity | Cash $30,149.44 (29.9%) | Deployed ~70.1% ($70,717 long mkt value). Day P&L est. -$345 (-0.34%) vs Jul 16 EOD. Phase P&L +$866 (+0.87%). 1 trade this week (7 remaining).
 - **No new buys:** Risk-off tape persisting into the afternoon (Iran/Hormuz, VIX ~18). No thresholds crossed; all positions breathing normally.
 
+## 2026-07-20 — Market-Open Scan (~09:34 ET)
+
+- **No trades.** No losers at -7%; no winners at +15%/+20%. All stops active, all theses intact.
+- **MSFT:** $391.11 (+5.50% unrealized, +$1,080). Day -0.69%. Stop $365.391 (HWM $405.99, 10% trail). Big Tech earnings week + MSFT earnings Jul 29 = key event risk. +15% thresh $426.34 (~9% off). No cut, no tighten.
+- **XLB:** $50.45 (-3.15% unrealized, -$478). Day -0.16%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.44. Fundamentals intact. No cut.
+- **XLE:** $57.53 (+1.72% unrealized, +$343). Day -0.26%. Stop $52.3035 (HWM $58.115, 10% trail). -7% floor $52.60. Oil $90 Brent / $84 WTI on US-Iran conflict (9th day). XLE underperforming crude — same integrated-majors hedge / rate-drag pattern. Thesis weakened; stop doing the work. No cut.
+- **XLI:** $180.39 (-1.52% unrealized, -$229). Day +0.55%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
+- **5th slot:** Deployment 70.1% vs 75–85% target — standing gap. Energy at ~20% cap. No clean add: financials/healthcare/utilities weaker sectors; Big Tech earnings week rules out tech. No buy.
+- **Portfolio:** ~$100,717 equity | Cash $30,149 (29.9%) | Deployed ~70.1%. 0 trades this week (8 remaining). Phase P&L +$717 (+0.72%).
+
 ### Jul 17 — EOD Snapshot (Day 14, Friday)
 **Portfolio:** $100,843.07 | **Cash:** $30,149.44 (29.9%) | **Day P&L:** -$368.18 (-0.36%) | **Phase P&L:** +$843.07 (+0.84%)
 
