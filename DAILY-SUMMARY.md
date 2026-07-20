@@ -102,3 +102,16 @@ Positions: MSFT +6.29% | XLB -3.13% | XLE +2.19% | XLI -2.14%
 Takeaway: Beat index by 2.17% in down week; XLE Hormuz tailwind offset MSFT/NASDAQ risk-off; XLB flagged for voluntary exit next week if no catalyst
 Grade: B
 [NOTE: ClickUp API blocked by proxy — logged to fallback]
+
+---
+## 2026-07-20 16:04 UTC (fallback — ClickUp proxy blocked)
+EOD Jul 20
+Portfolio: $101,141.26 (+0.28% day, +1.14% phase)
+Cash: $30,149.44 (29.8%)
+Trades today: none (0 this week, 8 remaining)
+Open positions (4):
+  MSFT $402.25 +2.14% | unrealized +8.50% | stop $365.39 (HWM $405.99)
+  XLE  $57.96  +0.49% | unrealized +2.48% | stop $52.55 (HWM $58.39 ↑)
+  XLB  $50.03  -0.99% | unrealized -3.96% | stop $46.87 (HWM $52.08)
+  XLI  $178.00 -0.79% | unrealized -2.83% | stop $164.81 (HWM $183.12)
+Tomorrow: hold course; watch MSFT vs $426.34 tighten (~6% off, earnings Jul 29)

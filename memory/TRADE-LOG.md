@@ -284,3 +284,17 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $178.69 (-2.45% unrealized, -$368). Day -0.40%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
 - **Portfolio:** ~$101,279 est. equity | Cash $30,149.44 (29.8%) | Deployed ~70.2% ($71,129 long mkt value). Day P&L +$422 (+0.42%). Phase P&L +$1,279 (+1.28%). 0 trades this week (8 remaining).
 - **No new buys:** Deployment 70.2% vs 75–85% target — gap persists. No compelling 5th-slot candidate: Energy at ~20% cap (XLE wrapper would reject); Big Tech earnings week binary risk; no leading sector available. Patience > activity.
+
+### Jul 20 — EOD Snapshot (Day 15, Monday)
+**Portfolio:** $101,141.26 | **Cash:** $30,149.44 (29.8%) | **Day P&L:** +$284.79 (+0.28%) | **Phase P&L:** +$1,141.26 (+1.14%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $402.25 | +2.14% | +$1,670.71 (+8.50%) | $365.391 (10% trail, HWM $405.99) |
+| XLB | 291 | $52.09 | $50.03 | -0.99% | -$600.21 (-3.96%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $57.96 | +0.49% | +$495.60 (+2.48%) | $52.547 (10% trail, HWM $58.385 ↑) |
+| XLI | 82 | $183.18 | $178.00 | -0.79% | -$424.81 (-2.83%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Positive Monday close led by MSFT +2.14% to $402.25 (+8.50% unrealized; HWM $405.99, stop $365.391 unchanged — price below HWM). XLE +0.49% to $57.96; trailing stop HWM auto-advanced to $58.385 (stop $52.547) since last log. XLB -0.99% to $50.03 — now -3.96% unrealized, approaching the $50 psychological level but still well above -7% cut floor ($48.45) and trailing stop ($46.872). XLI -0.79% to $178.00 — -2.83% unrealized, well above -7% floor ($170.36). Day P&L +$284.79 (+0.28%) vs Alpaca last_equity $100,856.47 (Jul 17 close). Phase P&L +$1,141.26 (+1.14%) vs $100,000 Day 0 baseline. No trades today; market-open and midday scans both no-action. 0 trades this week (8 remaining). Portfolio 70.1% deployed — gap vs 75-85% target persists; no compelling 5th-slot candidate (Big Tech earnings week binary risk, energy at 20% cap). Tomorrow: hold course; watch MSFT vs $426.34 tighten threshold (~6.0% away); MSFT earnings Jul 29 now 7 trading days out.
+
+---
