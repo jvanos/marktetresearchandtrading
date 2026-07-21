@@ -712,3 +712,42 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all four.** No new positions. All theses intact, all stops active. Deployment gap (70% vs 75–85%) persists — no clean 5th-slot candidate given Big Tech earnings-week binary risk, Energy at cap, and no leading sector left to add. Patience > activity.
+
+---
+
+## 2026-07-21 — Market-Open Research (inline; no pre-market entry found)
+*(market-open routine fired 09:33 ET. Inline research run. A 5th position — SPMO — was found already in the portfolio without a trade-log entry or stop order.)*
+
+### Account
+- Equity: $101,149.74 | Cash: $24,214.24 (23.9%) | Buying power: $312,276.36 (4x margin)
+- Deployed: MSFT $21,105 + SPMO $5,912 + XLB $14,653 + XLE $20,597 + XLI $14,654 = **$76,921 (~76.1%)**. **Within 75–85% target.**
+- Weekly buys: 1 this week (SPMO — source: prior routine, logged retroactively). 7 remaining. 5 open positions.
+
+### Market Context
+- **WTI ~$84 / Brent >$89** — oil spiking further on US strikes on Iran + Houthi naval blockade of Saudi Arabia (9th-day of conflict). Direct tailwind for held XLE.
+- **S&P 500: 7,443.28 (-0.2% yesterday)**. VIX 18.65 (cautious; elevated vs prior benign regime). 10yr yield 4.594% (+5bps).
+- **MAJOR REVERSAL — Fed rate-cut odds:** >72% probability of a **25bp rate CUT at Jul 28 FOMC** (prior narrative had been Warsh hawkish and >50% hike odds). If confirmed, this is bullish for all held positions, especially MSFT and SPMO (momentum factor outperforms in rate-cut cycles).
+- **Earnings:** GOOG and TSLA already reported. MSFT Jul 29. UBS raised S&P year-end target to 8,100.
+- **Sector:** Communication Services +0.7% only sector up yesterday. XLB -0.9%, XLI -0.8% yesterday.
+
+### SPMO Position — Anomaly
+- Found 40 sh SPMO @ $148.38 in Alpaca with **no stop and no trade-log entry**. Source: most likely a prior routine (pre-market Jul 21) that placed the order but failed to commit/push memory files.
+- **Stop placed this session:** 10% trailing GTC, stop $133.101, HWM $147.89 (order a42e1074).
+- SPMO is the momentum-factor ETF. Rate-cut + broad-market-leadership setup is consistent with prior research context. 5.9% of equity — well within 20% cap.
+
+### Position Check (live quotes — all spreads tight)
+- **MSFT** 53 @ $370.73 | $398.21 (**+7.41%**, +$1,457). Bid $397.80/ask $400 (0.55% spread ✓). Stop $365.391, HWM $405.99, 10% trail. +15% thresh $426.34 (~7.0% off). No cut, no tighten. Earnings Jul 29.
+- **SPMO** 40 @ $148.38 | $147.80 (**-0.39%**, -$23). Bid $147.72/ask $147.84 (0.08% spread ✓). Stop NOW $133.101 trailing 10% GTC (order a42e1074, HWM $147.89). -7% floor $137.99. No cut.
+- **XLB** 291 @ $52.09 | $50.355 (**-3.34%**, -$506). Bid $50.41/ask $50.43 (0.04% spread ✓). Stop $46.872, HWM $52.08. -7% floor $48.45. Thesis intact. No cut.
+- **XLE** 354 @ $56.56 | $58.185 (**+2.87%**, +$575). Bid $58.23/ask $58.24 (0.02% spread ✓). Stop $52.5465, HWM $58.385, 10% trail. No cut, no tighten (+15% thresh ~$65.04).
+- **XLI** 82 @ $183.18 | $178.71 (**-2.44%**, -$367). Bid $178.77/ask $178.84 (0.04% spread ✓). Stop $164.808, HWM $183.12. -7% floor $170.36. Thesis intact. No cut.
+
+### Risk Factors
+- **MSFT earnings Jul 29** — 8 days out; binary event risk; do not add more tech exposure.
+- **VIX 18.65** — above prior benign regime; geopolitical vol persists.
+- **Rate-cut reversal (>72%)** — if hawkish surprise at Jul 28 FOMC, this unwinds fast.
+- **XLB below 50-DMA, -3.3% unrealized** — technically weak but fundamental thesis (AI-infra demand, reshoring) intact; above -7% floor.
+- **XLE underperforming crude** — hawkish-rate-drag on integrated majors pattern; now rate-cut odds rising may ease this.
+
+### Decision
+**HOLD all five. No new buys.** Deployment 76.1% — finally within 75–85% target with SPMO as 5th position. All stops active. No tighten/cut thresholds crossed. Patience > activity.

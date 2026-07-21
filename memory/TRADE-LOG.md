@@ -13,6 +13,7 @@ No positions yet. Bot launches tomorrow.
 | 2026-07-07 | XLI | BUY | 82 | $183.18 | $164.81 trailing 10% GTC (HWM $183.12, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
 | 2026-07-07 | XLB | BUY | 291 | $52.09 | $46.87 trailing 10% GTC (HWM $52.08, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
 | 2026-07-14 | XLE | BUY | 354 | $56.56 | $51.291 trailing 10% GTC (HWM $56.99, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
+| 2026-07-21 | SPMO | BUY | 40 | $148.38 | $133.101 trailing 10% GTC (HWM $147.89, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; rate-cut odds >72% (Jul 28 FOMC) bullish for momentum factor; 5th slot; ⚠️ purchased by prior routine — no research-log entry at time of buy; stop placed retroactively by market-open routine |
 
 ## 2026-07-07 — Market-Open Trades
 
@@ -250,6 +251,19 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $179.525 (-2.00% unrealized, -$300). Day -0.35%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Slipped slightly from midday ($180.22 → $179.525). Thesis intact. No cut.
 - **Portfolio:** ~$100,866 est. equity | Cash $30,149.44 (29.9%) | Deployed ~70.1% ($70,717 long mkt value). Day P&L est. -$345 (-0.34%) vs Jul 16 EOD. Phase P&L +$866 (+0.87%). 1 trade this week (7 remaining).
 - **No new buys:** Risk-off tape persisting into the afternoon (Iran/Hormuz, VIX ~18). No thresholds crossed; all positions breathing normally.
+
+## 2026-07-21 — Market-Open Scan (~09:33 ET)
+
+- **SPMO stop placed.** Found 40 sh SPMO @ $148.38 in account with NO trailing stop and NO trade-log entry (purchased by prior routine that failed to commit). Placed 10% trailing stop GTC immediately: stop $133.101, HWM $147.89 (order a42e1074). No other positions in this risk state.
+- **No new buys.** Deployment 76.1% — within 75–85% target for the first time. All 5 positions above -7% floor, no tighten thresholds reached.
+- **MSFT:** $398.21 (+7.41% unr.). Stop $365.391 (HWM $405.99, 10% trail). Earnings Jul 29. No action.
+- **SPMO:** $147.80 (-0.39% unr.). Stop NOW active $133.101 (HWM $147.89, 10% trail). No action.
+- **XLB:** $50.355 (-3.34% unr.). Stop $46.872 (HWM $52.08). Above -7% floor $48.45. No action.
+- **XLE:** $58.185 (+2.87% unr.). Stop $52.5465 (HWM $58.385). No action.
+- **XLI:** $178.71 (-2.44% unr.). Stop $164.808 (HWM $183.12). Above -7% floor $170.36. No action.
+- **Portfolio:** $101,150 equity | Cash $24,214 | Deployed ~76.1%. 1 trade this week (SPMO, prior routine). Phase P&L +$1,150 (+1.15%).
+
+---
 
 ## 2026-07-20 — Market-Open Scan (~09:34 ET)
 
