@@ -263,6 +263,17 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $178.71 (-2.44% unr.). Stop $164.808 (HWM $183.12). Above -7% floor $170.36. No action.
 - **Portfolio:** $101,150 equity | Cash $24,214 | Deployed ~76.1%. 1 trade this week (SPMO, prior routine). Phase P&L +$1,150 (+1.15%).
 
+## 2026-07-21 — Midday Scan (~13:05 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **MSFT:** $398.26 (+7.43% unr., +$1,459). Day -1.00%. Stop $365.391 (HWM $405.99, 10% trail). +15% thresh $426.34 (~7.1% off). Earnings Jul 29. No cut, no tighten.
+- **SPMO:** $150.09 (+1.15% unr., +$68). Day **+3.85%** (rate-cut catalyst — >72% odds Jul 28 FOMC cut). Stop $135.108 (HWM **$150.12** — auto-advanced from $133.101/$147.89 since market-open). -7% floor $137.99. Momentum thesis intact. No cut, no tighten (+15% thresh $170.64).
+- **XLB:** $50.415 (-3.22% unr., -$488). Day +0.77%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45. Recovering intraday; thesis intact. No cut.
+- **XLE:** $58.21 (+2.92% unr., +$584). Day +0.47%. Stop $52.56 (HWM **$58.40** — auto-advanced from $52.547/$58.385 since market-open). Thesis weakened (XLE underperforming crude); rate-cut odds rising may ease rate drag. Stop doing the work. No cut, no tighten (+15% thresh $65.04).
+- **XLI:** $179.68 (-1.91% unr., -$287). Day +0.88%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Defense/electrification/AI-infra thesis intact. No cut.
+- **Portfolio:** ~$101,336 est. equity | Cash $24,214 (23.9%) | Deployed ~76.1% ($77,122 long mkt value). Phase P&L +$1,336 (+1.34%). 1 trade this week (7 remaining).
+- **SPMO move noted.** +3.85% daily gain on momentum ETF fully explained by rate-cut catalyst (>72% FOMC Jul 28 cut odds per morning research); no Perplexity query needed.
+
 ---
 
 ## 2026-07-20 — Market-Open Scan (~09:34 ET)
