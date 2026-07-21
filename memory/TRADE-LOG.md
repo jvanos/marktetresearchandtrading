@@ -323,3 +323,18 @@ No positions yet. Bot launches tomorrow.
 **Notes:** Positive Monday close led by MSFT +2.14% to $402.25 (+8.50% unrealized; HWM $405.99, stop $365.391 unchanged — price below HWM). XLE +0.49% to $57.96; trailing stop HWM auto-advanced to $58.385 (stop $52.547) since last log. XLB -0.99% to $50.03 — now -3.96% unrealized, approaching the $50 psychological level but still well above -7% cut floor ($48.45) and trailing stop ($46.872). XLI -0.79% to $178.00 — -2.83% unrealized, well above -7% floor ($170.36). Day P&L +$284.79 (+0.28%) vs Alpaca last_equity $100,856.47 (Jul 17 close). Phase P&L +$1,141.26 (+1.14%) vs $100,000 Day 0 baseline. No trades today; market-open and midday scans both no-action. 0 trades this week (8 remaining). Portfolio 70.1% deployed — gap vs 75-85% target persists; no compelling 5th-slot candidate (Big Tech earnings week binary risk, energy at 20% cap). Tomorrow: hold course; watch MSFT vs $426.34 tighten threshold (~6.0% away); MSFT earnings Jul 29 now 7 trading days out.
 
 ---
+
+### Jul 21 — EOD Snapshot (Day 16, Tuesday)
+**Portfolio:** $101,241.58 | **Cash:** $24,214.24 (23.9%) | **Day P&L:** +$95.44 (+0.09%) | **Phase P&L:** +$1,241.58 (+1.24%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $397.60 | -1.17% | +$1,424.26 (+7.25%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | 40 | $148.38 | $149.70 | +3.58% | +$52.80 (+0.89%) | $135.131 (10% trail, HWM $150.145 ↑) |
+| XLB | 291 | $52.09 | $50.10 | +0.14% | -$579.84 (-3.83%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $58.58 | +1.11% | +$715.08 (+3.57%) | $52.677 (10% trail, HWM $58.53 ↑) |
+| XLI | 82 | $183.18 | $178.66 | +0.30% | -$370.69 (-2.47%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Mixed close — MSFT pulled back -1.17% to $397.60 (still +7.25% unrealized; HWM $405.99, stop $365.391 unchanged; earnings Jul 29 now 6 trading days out). SPMO continued rate-cut momentum, up +3.58% to $149.70 (+0.89% unrealized); trailing stop HWM auto-advanced to $150.145 (stop $135.131); >72% FOMC Jul 28 cut odds remain catalyst. XLE +1.11% to $58.58 — HWM auto-advanced to $58.53 (stop $52.677); Hormuz/oil tailwind persisting. XLB +0.14% and XLI +0.30%, both flat; theses intact and above -7% cut floors ($48.45 and $170.36). Day P&L +$95.44 (+0.09%) — near-flat as MSFT weakness offset by SPMO and XLE strength. Phase P&L +$1,241.58 (+1.24%) vs $100,000 baseline. No new trades today; trailing stop placed for SPMO (prior-routine purchase now fully documented). 1 trade this week (SPMO, 7 remaining). Portfolio 76.1% deployed (5 positions, $77,027 long) — within 75-85% target; no 6th slot warranted. Tomorrow: watch SPMO vs FOMC Jul 28 rate-cut odds; MSFT earnings Jul 29; hold all 5 unless stops triggered.
+
+---

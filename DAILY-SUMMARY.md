@@ -115,3 +115,17 @@ Open positions (4):
   XLB  $50.03  -0.99% | unrealized -3.96% | stop $46.87 (HWM $52.08)
   XLI  $178.00 -0.79% | unrealized -2.83% | stop $164.81 (HWM $183.12)
 Tomorrow: hold course; watch MSFT vs $426.34 tighten (~6% off, earnings Jul 29)
+
+---
+## 2026-07-21 18:05 UTC (EOD summary — ClickUp 403 fallback)
+EOD Jul 21
+Portfolio: $101,241.58 (+0.09% day, +1.24% phase)
+Cash: $24,214 (23.9%) | Deployed: 76.1% (5 positions)
+Trades today: none (stop placed for prior-routine SPMO position)
+Open positions:
+  MSFT $397.60 -1.17% (stop $365.39, HWM $405.99)
+  SPMO $149.70 +3.58% (stop $135.13, HWM $150.15 ↑)
+  XLB $50.10 +0.14% (stop $46.87, HWM $52.08)
+  XLE $58.58 +1.11% (stop $52.68, HWM $58.53 ↑)
+  XLI $178.66 +0.30% (stop $164.81, HWM $183.12)
+Tomorrow: hold all 5; watch SPMO vs FOMC Jul 28 cut odds; MSFT earnings Jul 29 (6 days)
