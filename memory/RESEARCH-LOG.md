@@ -712,3 +712,48 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all four.** No new positions. All theses intact, all stops active. Deployment gap (70% vs 75–85%) persists — no clean 5th-slot candidate given Big Tech earnings-week binary risk, Energy at cap, and no leading sector left to add. Patience > activity.
+
+## 2026-07-21 — Pre-market Research
+
+### ⚠️ ANOMALY — Undocumented pending SPMO buy (external order)
+- **Pending order:** BUY 40 SPMO, market, DAY, status `new`, submitted 08:00 ET today — **fills at open (~9:30 ET)**.
+- **Not in any trade log or research decision.** Jul 20 EOD log = "0 trades this week." Order created 23:40 ET Jul 20 (overnight, no routine runs then).
+- **`source: null`** — all our wrapper-placed stops show `source: access_key`. This order came from **outside the bot** (likely human via Alpaca dashboard/API). **Did NOT cancel** — do not override a human order.
+- **Fill size:** ~40 × $140 (premkt bid $140.03; ask 0 = thin premkt) ≈ **$5,600 (~5.5% equity)**. Would be the **5th position**, lifting deployment ~70%→~75.5% (into 75-85% target). SPMO = Invesco S&P 500 Momentum ETF (equity/ETF → allowed; overlaps tech/AI momentum leaders).
+- **ACTION FOR MARKET-OPEN ROUTINE:** if SPMO fills, immediately place a **10% GTC trailing stop** (strategy rule 4 — every position needs one). Confirm human intent when possible.
+
+### Account
+- Equity: **$101,003.86** | Cash: **$30,149.44 (29.85%)** | Buying power: $313,088.13 (4x)
+- last_equity (Jul 20 close $101,146.14): **-$142.28 (-0.14%)** overnight.
+- Phase P&L: **+$1,003.86 (+1.00%)** vs $100k Day 0. Long mkt value $70,854 (**~70.2% deployed**, 4 positions).
+- Weekly buys: **0 via wrapper** this week (8 remaining). SPMO order is external, not a wrapper buy.
+
+### Market Context
+- **S&P 500 futures +0.56% (~7,526)**; NASDAQ 100 +1.3%; Dow +0.43%. **Risk-ON tilt** on renewed Iran-ceasefire mediation hopes (reversal of last week's risk-off).
+- **VIX 18.65 (-0.64%)** — containment, not crisis.
+- **Oil easing:** Brent **$88.87 (-0.4%)**, WTI **$82.47 (flat)** on mediation hopes offsetting strikes/Houthi threats. Mild headwind vs XLE thesis; crude off its highs.
+- **Premkt movers (unverified):** NVDA +6.2%, AVGO +7.8% (AI/data-center capex); TSLA +3.2% (Panasonic battery deal); LLY -4.1% (GLP-1 trial setback); SHOP +3.7% (AI restructuring).
+- **Calendar correction (prior logs assumed GOOG/TSLA earnings this week — WRONG):** GOOGL & TSLA report **Jul 28-29**, colliding with **FOMC Jul 28-29**. **June FOMC minutes Wed Jul 22.** No major econ data today. MSFT earnings **Jul 29**.
+- **Sector momentum YTD:** Energy leader (+19-33%), Industrials (+11-16%), Materials (+9-17%), Tech strong-but-stalled/lagging quadrant. Value>Growth rotation intact. Portfolio aligned with leaders.
+
+### Position Check (all held, all protected, all above -7% floor)
+- **MSFT** 53 @ $370.73 | $398.45 (-0.96% today) | **+$1,469 (+7.48%)**. Stop $365.391, HWM $405.99 (~7.6% above stop). +15% tighten thresh $426.34 (~7% off). Earnings Jul 29. No cut, no tighten.
+- **XLB** 291 @ $52.09 | $50.03 (flat) | **-$600 (-3.96%)**. Stop $46.872, HWM $52.08. -7% floor $48.45 (well above). Materials momentum positive. No cut.
+- **XLE** 354 @ $56.56 | $57.93 | **+$485 (+2.42%)**. Stop $52.5465, HWM $58.385, 10% trail. Oil easing on ceasefire hopes = mild thesis softness; stop does the work. No cut, no tighten (+15% ~$65.04).
+- **XLI** 82 @ $183.18 | $178.91 (+0.44%) | **-$350 (-2.33%)**. Stop $164.808, HWM $183.12. -7% floor $170.36 (above). Industrials strong momentum; thesis intact. No cut.
+
+### Trade Ideas
+1. **HOLD all four.** None near stop, -7% cut, or tighten threshold; theses intact. Stops do the work.
+2. **SPMO (incoming, external order).** Fills at open as 5th position — do NOT initiate a duplicate; ensure a 10% GTC trailing stop is attached at open. Fits momentum-leader tilt but overlaps existing tech exposure (MSFT). Watch human intent.
+3. **No new wrapper buys.** With SPMO filling, deployment reaches ~75.5% (in target); position count 5 of 5-6. Energy at ~20% cap. No compelling additional 2:1 R:R entry into an FOMC+mega-cap-earnings week (Jul 28-29). Patience > activity.
+
+### Risk Factors
+- **Iran de-escalation reversal:** ceasefire hopes lift risk assets but SOFTEN oil/XLE; headline whipsaw both ways remains the daily binary.
+- **Jul 28-29 double event:** FOMC decision + GOOGL/TSLA earnings (MSFT Jul 29) = concentrated binary risk 5-6 sessions out. Poor window to force new risk.
+- **AI/semis melt-up (NVDA/AVGO premkt):** momentum tailwind for SPMO/MSFT but valuation-stretched; reversal risk into earnings.
+- **June FOMC minutes Wed Jul 22:** hawkish tone (Warsh) could pressure rate-sensitive XLB/XLI and growth multiples.
+
+### Decision
+**HOLD all four. No new wrapper buys.** An **undocumented external SPMO buy will fill at open** — flagged urgently to the human; not canceled (respecting a likely human decision), but the market-open routine MUST attach a 10% GTC trailing stop and confirm intent. Tape is risk-on (Iran ceasefire hopes, VIX 18.6, futures +0.56%); oil easing trims XLE's edge. All positions above stop and -7% floor. With SPMO, portfolio moves into target deployment (~75.5%) at 5 positions. Patience > activity into the Jul 28-29 FOMC/earnings cluster.
+
+---
