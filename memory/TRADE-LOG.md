@@ -350,3 +350,16 @@ No positions yet. Bot launches tomorrow.
 **Notes:** Mixed close — MSFT pulled back -1.17% to $397.60 (still +7.25% unrealized; HWM $405.99, stop $365.391 unchanged; earnings Jul 29 now 6 trading days out). SPMO continued rate-cut momentum, up +3.58% to $149.70 (+0.89% unrealized); trailing stop HWM auto-advanced to $150.145 (stop $135.131); >72% FOMC Jul 28 cut odds remain catalyst. XLE +1.11% to $58.58 — HWM auto-advanced to $58.53 (stop $52.677); Hormuz/oil tailwind persisting. XLB +0.14% and XLI +0.30%, both flat; theses intact and above -7% cut floors ($48.45 and $170.36). Day P&L +$95.44 (+0.09%) — near-flat as MSFT weakness offset by SPMO and XLE strength. Phase P&L +$1,241.58 (+1.24%) vs $100,000 baseline. No new trades today; trailing stop placed for SPMO (prior-routine purchase now fully documented). 1 trade this week (SPMO, 7 remaining). Portfolio 76.1% deployed (5 positions, $77,027 long) — within 75-85% target; no 6th slot warranted. Tomorrow: watch SPMO vs FOMC Jul 28 rate-cut odds; MSFT earnings Jul 29; hold all 5 unless stops triggered.
 
 ---
+
+## 2026-07-22 — Midday Scan (~13:02 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **MSFT:** $388.98 (+4.92% unr., +$967). Day **-2.2%** (intraday tech-sector pressure; Big Tech earnings week caution — TSLA reports after close today). Stop $365.391 (HWM $405.99, 10% trail). -7% floor $344.78. +15% thresh $426.34 (~9.6% off). Earnings Jul 29 — thesis intact, no cut.
+- **SPMO:** $151.08 (+1.82% unr., +$108). Day +0.92%. Stop $136.125 (HWM $151.25 — auto-advanced since yesterday). -7% floor $137.99. FOMC Jul 28 rate-cut thesis intact. No cut, no tighten (+15% thresh $170.64).
+- **XLB:** $50.825 (-2.43% unr., -$369). Day +1.45% (recovering). Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.44. Materials/reshoring thesis intact. No cut.
+- **XLE:** $59.215 (+4.69% unr., +$940). Day +1.22%. Stop $53.568 (HWM $59.52 — auto-advanced since yesterday). Oil still elevated. +15% thresh $65.04. No tighten.
+- **XLI:** $179.32 (-2.11% unr., -$317). Day +0.37%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Defense/electrification thesis intact. No cut.
+- **Portfolio:** ~$101,330 est. equity | Cash $24,214.23 (23.9%) | Deployed ~76.1% ($77,116 long mkt value). Phase P&L +$1,330 (+1.33%). 1 trade this week (SPMO; 7 remaining).
+- **No Perplexity query:** MSFT -2.2% intraday has obvious cause (Big Tech earnings-week caution + TSLA report tonight). No sharp move without explanation warranting research.
+
+---
