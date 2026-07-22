@@ -12,7 +12,7 @@ No positions yet. Bot launches tomorrow.
 | 2026-06-30 | MSFT | BUY | 53 | $370.73 | $355.995 trailing 10% GTC (HWM $395.55) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
 | 2026-07-07 | XLI | BUY | 82 | $183.18 | $164.81 trailing 10% GTC (HWM $183.12, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
 | 2026-07-07 | XLB | BUY | 291 | $52.09 | $46.87 trailing 10% GTC (HWM $52.08, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
-| 2026-07-14 | XLE | BUY | 354 | $56.56 | $51.291 trailing 10% GTC (HWM $56.99, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
+| 2026-07-14 | XLE | BUY | 354 | $56.56 | $53.469 trailing 10% GTC (HWM $59.41, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
 | 2026-07-21 | SPMO | BUY | 40 | $148.38 | $133.101 trailing 10% GTC (HWM $147.89, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; rate-cut odds >72% (Jul 28 FOMC) bullish for momentum factor; 5th slot; ⚠️ purchased by prior routine — no research-log entry at time of buy; stop placed retroactively by market-open routine |
 
 ## 2026-07-07 — Market-Open Trades
@@ -251,6 +251,18 @@ No positions yet. Bot launches tomorrow.
 - **XLI:** $179.525 (-2.00% unrealized, -$300). Day -0.35%. Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Slipped slightly from midday ($180.22 → $179.525). Thesis intact. No cut.
 - **Portfolio:** ~$100,866 est. equity | Cash $30,149.44 (29.9%) | Deployed ~70.1% ($70,717 long mkt value). Day P&L est. -$345 (-0.34%) vs Jul 16 EOD. Phase P&L +$866 (+0.87%). 1 trade this week (7 remaining).
 - **No new buys:** Risk-off tape persisting into the afternoon (Iran/Hormuz, VIX ~18). No thresholds crossed; all positions breathing normally.
+
+## 2026-07-22 — Market-Open Scan (~09:33 ET)
+
+- **No trades.** Research plan was HOLD all five; no cut/tighten thresholds reached. All stops confirmed active.
+- **MSFT** 53 @ $370.73 | $394.565 (**+6.43%**, +$1,263). Stop $365.391, HWM $405.99 (unchanged — price below HWM). +15% tighten thresh $426.34 (~8.1% off). Earnings Jul 29. No cut, no tighten.
+- **SPMO** 40 @ $148.38 | $148.89 (**+0.34%**, +$20). Stop $135.13, HWM $150.145 (price below HWM, no advance today). -7% floor $137.99. Thesis (momentum + FOMC Jul 28 rate-cut catalyst) intact.
+- **XLB** 291 @ $52.09 | $50.685 (**-2.70%**, -$410). Stop $46.872, HWM $52.08. -7% floor $48.45 (above current). Materials/reshoring/AI-infra thesis intact.
+- **XLE** 354 @ $56.56 | $59.24 (**+4.74%**, +$949). Stop **$53.469** (auto-advanced), HWM **$59.41** (auto-advanced from $58.53 since Jul 21 EOD). -7% floor $52.60. +15% thresh $65.04. Energy #1 momentum YTD. No tighten.
+- **XLI** 82 @ $183.18 | $178.82 (**-2.38%**, -$358). Stop $164.808, HWM $183.12. -7% floor $170.36 (above current). Defense/electrification/AI-infra thesis intact.
+- **Portfolio:** $101,452.96 equity | Cash $24,214.23 (23.9%) | Deployed ~76.1% ($77,239 long mkt value). Phase P&L +$1,453 (+1.45%). 1 trade this week (SPMO; 7 remaining).
+
+---
 
 ## 2026-07-21 — Market-Open Scan (~09:33 ET)
 
