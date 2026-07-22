@@ -751,3 +751,44 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all five. No new buys.** Deployment 76.1% — finally within 75–85% target with SPMO as 5th position. All stops active. No tighten/cut thresholds crossed. Patience > activity.
+
+## 2026-07-22 — Pre-Market Research (~07:10 ET, Day 17 Wed)
+
+### Account
+- Equity: $101,541.64 | Cash: $24,214.23 (23.9%) | Buying power: $313,373.67 (4x)
+- Deployed: MSFT $21,147 + SPMO $5,947 + XLB $14,732 + XLE $20,925 + XLI $14,577 = **$77,327 (~76.2%)** — within 75–85% target.
+- Weekly buys: 1 (SPMO). 7 remaining. 5 open positions, all with active GTC 10% trailing stops.
+- **XLE now 20.6% of equity** (via appreciation, not a new buy — allowed; but energy adds are wrapper-blocked at the 20% cap).
+
+### Market Context (premarket)
+- **S&P 500 futures ~7,520, -0.34%** — cautious ahead of Big Tech earnings.
+- **VIX ~17.0–17.6** — calmer than last week's 18.6; geopolitical premium easing.
+- **10yr Treasury ~4.60–4.63%** | 10yr TIPS breakeven 2.26% — inflation expectations well-anchored.
+- **Oil elevated but data noisy:** WTI ~$88 (one feed) vs ~$69 (another); Brent ~$72–88. Direction still firm/elevated; supports XLE thesis.
+- **Sector momentum YTD:** Energy **+30.6%** (leader) > Industrials **+16.4%** > Materials **+9.4%**; **Tech in lagging quadrant** (momentum slowed vs energy, valuations stretched). Held XLE/XLI/XLB sit in the Leading quadrant.
+- **Catalysts today:** Tesla Q2 after close (5:30pm ET call); AMD AI event; semiconductor rebound (Micron/Sandisk) supporting risk appetite. Alphabet already reported (Jul 21).
+- **Macro calendar:** No CPI/PPI/FOMC today. Initial jobless claims + Chicago Fed NAI only. Next FOMC **Jul 28** (rate-cut narrative still the swing factor for SPMO/MSFT).
+
+### Position Check (premarket quotes)
+- **MSFT** 53 @ $370.73 | $399.00 (**+7.63%**, +$1,498). Stop $365.391, HWM $405.99. +15% tighten thresh $426.34 (~6.4% off). **Earnings Jul 29** (5 trading days out — binary). No cut/tighten.
+- **SPMO** 40 @ $148.38 | $148.67 (**+0.20%**). Stop $135.13, HWM $150.145. Momentum-factor ETF; FOMC Jul 28 catalyst. No action.
+- **XLB** 291 @ $52.09 | $50.62 (**-2.82%**). Stop $46.872, -7% floor $48.45. Thesis (reshoring/AI-infra materials) intact. No cut.
+- **XLE** 354 @ $56.56 | $59.11 (**+4.51%**, +$903). Stop $52.677, HWM $58.53 — price above HWM, stop will auto-advance at open (~$53.20). +15% thresh $65.04. #1 sector YTD. No tighten.
+- **XLI** 82 @ $183.18 | $177.77 (**-2.95%**). Stop $164.808, -7% floor $170.36. Thesis (capex/defense/electrification) intact. No cut.
+
+### Trade Ideas (catalyst / entry / stop / target)
+1. **XLE add — BLOCKED / PASS.** Energy is #1 momentum (+30.6% YTD) with firm oil, but position already at 20.6% cap; wrapper rejects any add. No action.
+2. **6th slot in a leading sector — PASS.** The only Leading-quadrant sectors are Energy (at cap), Industrials & Materials (already held). Adding more XLI/XLB just concentrates cyclicals below their entries. No fresh leading sector to rotate into.
+3. **Trim/hedge tech ahead of MSFT print — WATCH, not today.** MSFT +7.63% cushion, stop $365.39 well below. Earnings Jul 29 is binary; if it runs to +15% ($426.34) before then, tighten trail to 7%. No pre-emptive trim — let the stop work.
+
+### Risk Factors
+- **MSFT earnings Jul 29** (5 sessions out) — binary; do not add tech.
+- **Big Tech earnings week** — TSLA after close today; sentiment swings possible.
+- **Oil data conflicting** — if the ~$69 WTI print is the true level (not ~$88), XLE tailwind is weaker than it appears; stop protects.
+- **FOMC Jul 28** — rate-cut narrative is priced; hawkish surprise unwinds SPMO/MSFT fast.
+- **Cyclical drag** — XLB & XLI both red vs entry; a growth-scare rotation pressures both, but stops are the backstop.
+
+### Decision
+**HOLD all five. No new buys.** Deployment 76.2% (in-target), 5 positions, all stops active, no cut/tighten/stop thresholds crossed. No clean 6th-slot candidate (leading sectors are at cap or already held; tech lagging + earnings-week binary). Patience > activity.
+
+---
