@@ -129,3 +129,18 @@ Open positions:
   XLE $58.58 +1.11% (stop $52.68, HWM $58.53 ↑)
   XLI $178.66 +0.30% (stop $164.81, HWM $183.12)
 Tomorrow: hold all 5; watch SPMO vs FOMC Jul 28 cut odds; MSFT earnings Jul 29 (6 days)
+
+---
+## 2026-07-22 16:05 UTC (EOD — ClickUp unavailable: proxy blocks api.clickup.com)
+**EOD Jul 22**
+Portfolio: $101,296.59 (+0.05% day, +1.30% phase)
+Cash: $24,214.23 (23.9%)
+Trades today: none
+Open positions:
+  MSFT -1.93% close $390.06 (stop $365.39)
+  SPMO +0.15% close $149.93 (stop $136.13)
+  XLB  +1.44% close $50.82  (stop $46.87)
+  XLE  +1.18% close $59.19  (stop $53.57)
+  XLI  +0.11% close $178.85 (stop $164.81)
+1 trade this week (SPMO, 7 cap remaining)
+Tomorrow: FOMC week caution; hold all 5; watch MSFT vs $426.34 tighten threshold

@@ -363,3 +363,18 @@ No positions yet. Bot launches tomorrow.
 - **No Perplexity query:** MSFT -2.2% intraday has obvious cause (Big Tech earnings-week caution + TSLA report tonight). No sharp move without explanation warranting research.
 
 ---
+
+### Jul 22 — EOD Snapshot (Day 17, Wednesday)
+**Portfolio:** $101,296.59 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$55.01 (+0.05%) | **Phase P&L:** +$1,296.59 (+1.30%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $390.06 | -1.93% | +$1,024.64 (+5.22%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | 40 | $148.38 | $149.93 | +0.15% | +$62.00 (+1.04%) | $136.125 (10% trail, HWM $151.25) |
+| XLB | 291 | $52.09 | $50.82 | +1.44% | -$370.32 (-2.44%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $59.19 | +1.18% | +$931.02 (+4.65%) | $53.568 (10% trail, HWM $59.52) |
+| XLI | 82 | $183.18 | $178.85 | +0.11% | -$355.11 (-2.36%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Near-flat Wednesday close. MSFT extended its pullback -1.93% to $390.06 (still +5.22% unrealized; HWM $405.99, stop $365.391 — price $15+ below HWM, no stop advancement). TSLA reported after Tuesday's close; Big Tech earnings-week caution continues into MSFT earnings Jul 29. XLE +1.18% to $59.19 with oil elevated; trailing stop HWM $59.52 (stop $53.568) — no new advancement today. XLB recovered +1.44% to $50.82 (-2.44% unrealized), further from -7% floor ($48.44). SPMO +0.15% to $149.93 (+1.04% unrealized); FOMC Jul 28 rate-cut thesis intact (>72% cut odds), 6 days out. XLI barely moved +0.11%. All 5 trailing stops active and correct. Day P&L +$55.01 (+0.05%) — effectively flat, MSFT drag offset by XLE/XLB gains. Phase P&L +$1,296.59 (+1.30%) vs $100,000 baseline. No trades today; 1 trade this week (SPMO, 7 remaining). Portfolio 76.1% deployed, 5 positions — within target. Tomorrow: FOMC week caution; watch MSFT vs $426.34 tighten threshold; hold course unless stops triggered.
+
+---
