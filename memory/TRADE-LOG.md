@@ -377,6 +377,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jul 23 — EOD Snapshot (Day 18, Thursday)
+**Portfolio:** $100,990.28 | **Cash:** $24,214.23 (24.0%) | **Day P&L:** -$306.31 (-0.30%) | **Phase P&L:** +$990.28 (+0.99%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $380.45 | -2.53% | +$515.31 (+2.62%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | 40 | $148.38 | $150.56 | +0.33% | +$87.20 (+1.47%) | $136.125 (10% trail, HWM $151.25) |
+| XLB | 291 | $52.09 | $50.32 | -0.98% | -$515.82 (-3.40%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $59.40 | +0.34% | +$1,005.36 (+5.02%) | $54.339 (10% trail, HWM $60.377 ↑ auto-advanced) |
+| XLI | 82 | $183.18 | $181.94 | +1.73% | -$101.73 (-0.68%) | $164.808 (10% trail, HWM $183.12) |
+
+**Notes:** Mixed session dominated by AI-capex scare — Alphabet announced 2026 capex of $180-190B, stoking investor fears about Big Tech ROI ahead of MSFT earnings Jul 29. MSFT fell -2.53% to $380.45 (+2.62% unrealized); stop at $365.391 is now ~4.0% below current price, the narrowest buffer since purchase, but still inside the 10% trail and 4 sessions to earnings (FOMC Jul 28 is the prior session binary). XLE was the standout: +0.34% to $59.40, HWM auto-advanced to $60.377 during intraday high (~$60.38), stop to $54.339 (up from $53.568 yesterday — a net advance of $0.77); oil elevated (WTI ~$86, Brent ~$93). XLI recovered +1.73% ($181.94), now approaching its HWM ($183.12) — defense/AI-infra tailwind from Iran missile-replenishment demand. SPMO +0.33% to $150.56 (+1.47% unrealized), FOMC Jul 28 rate-cut catalyst 5 days out. XLB -0.98% to $50.32 (-3.40% unrealized), now $1.87 above -7% cut floor ($48.45) — watching; HWM stuck at $52.08 (no price recovery since entry). No trades today; 1 trade this week (SPMO, 7 remaining). Portfolio 76.0% deployed, 5 positions, $24,214 cash — within target. Phase P&L +$990.28 (+0.99%), pulling back from +$1,296 yesterday. Tomorrow (Fri Jul 24, last session before FOMC week): hold all 5, no new buys (FOMC/MSFT-earnings binary risk); watch MSFT vs $426.34 tighten threshold (~12.1% away).
+
+---
+
 ### Jul 22 — EOD Snapshot (Day 17, Wednesday)
 **Portfolio:** $101,296.59 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$55.01 (+0.05%) | **Phase P&L:** +$1,296.59 (+1.30%)
 

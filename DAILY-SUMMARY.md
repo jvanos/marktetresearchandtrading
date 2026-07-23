@@ -144,3 +144,18 @@ Open positions:
   XLI  +0.11% close $178.85 (stop $164.81)
 1 trade this week (SPMO, 7 cap remaining)
 Tomorrow: FOMC week caution; hold all 5; watch MSFT vs $426.34 tighten threshold
+
+---
+## 2026-07-23 20:07 UTC (fallback — ClickUp blocked by proxy)
+EOD Jul 23
+Portfolio: $100,990 (-0.30% day, +0.99% phase)
+Cash: $24,214 (24.0%) | Deployed: 76.0%
+Trades today: none | This week: 1 (SPMO)
+Open positions:
+  MSFT  -2.53% today | +2.62% unr. (+$515) | stop $365.39 (HWM $405.99) ⚠️ 4.0% buffer
+  SPMO  +0.33% today | +1.47% unr. (+$87)  | stop $136.13 (HWM $151.25)
+  XLB   -0.98% today | -3.40% unr. (-$516)  | stop $46.87  (HWM $52.08)  watch
+  XLE   +0.34% today | +5.02% unr. (+$1005) | stop $54.34  (HWM $60.38 up)
+  XLI   +1.73% today | -0.68% unr. (-$102)  | stop $164.81 (HWM $183.12)
+AI-capex scare (Alphabet $180-190B) hit MSFT pre-earnings. XLE HWM advanced. XLI recovering.
+Tomorrow: Hold all 5. No new buys. Binary: FOMC Jul 28 + MSFT earnings Jul 29.
