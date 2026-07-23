@@ -792,3 +792,45 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 **HOLD all five. No new buys.** Deployment 76.2% (in-target), 5 positions, all stops active, no cut/tighten/stop thresholds crossed. No clean 6th-slot candidate (leading sectors are at cap or already held; tech lagging + earnings-week binary). Patience > activity.
 
 ---
+
+## 2026-07-23 — Pre-Market Research (~07:15 ET, Day 18 Thu)
+
+### Account
+- Equity: $101,526.41 | Cash: $24,214.23 (23.9%) | Buying power: $24,214.23
+- Deployed: MSFT $20,633 + SPMO $6,013 + XLB $14,754 + XLE $21,247 + XLI $14,666 = **$77,312 (~76.2%)** — within 75–85% target.
+- Weekly buys: 1 (SPMO). 7 remaining. 5 open positions, all with active GTC 10% trailing stops.
+- **XLE now 20.9% of equity** (via appreciation, not a new buy — allowed; energy adds wrapper-blocked at 20% cap).
+
+### Market Context (premarket)
+- **S&P 500 futures 7,510, -0.40%** | Nasdaq 100 fut -0.46% — risk-off on renewed AI-capex worries.
+- **AI-spending scare is today's driver:** Alphabet raised 2026 capex to $180–190B; combined AMZN/GOOGL/META/MSFT 2026 capex now ~$725B. Investors questioning near-term ROI → Big Tech/semis pressure. (Reuters: "Big Tech results revive AI spending worries.")
+- **VIX 17.05** (prev close 18.65, -8.6%) — still calm despite futures dip.
+- **Oil jumped:** WTI ~$86.55, Brent ~$93.45 — firm/elevated; supports XLE thesis. Iran-conflict geopolitics is the driver (also missile-replenishment tailwind for defense/LMT/RTX → XLI).
+- **10yr Treasury ~4.65%** (2Y 3.74% / 10Y 4.65% / 30Y 5.14%) | TIPS 10yr breakeven 2.28% — inflation expectations anchored.
+- **Sector momentum YTD:** Energy (leader, ~+22–27%) > Materials (~+13–17%) > Industrials (~+11–14%); **Tech lagging (~-3 to -4% YTD)**. Held XLE/XLB/XLI in leadership group.
+- **Macro calendar:** Light — initial jobless claims + Chicago Fed NAI at 7:30am. No CPI/PPI/FOMC today. Next **FOMC Jul 28** (rate-cut narrative = swing factor for SPMO/MSFT).
+
+### Position Check (live quotes)
+- **MSFT** 53 @ $370.73 | $389.30 (**+5.01%**, +$984). Premarket ~$387 (**-2.65%**) on AI-capex sector caution + analyst PT cut + pre-earnings jitters. Stop $365.391, HWM $405.99. -7% floor $344.78. +15% thresh $426.34 (~9.5% off). **Earnings Jul 29** (4 sessions out — binary). No cut/tighten; stop far below.
+- **SPMO** 40 @ $148.38 | $150.32 (**+1.31%**, +$78). Stop $136.125, HWM $151.25. -7% floor $137.99. FOMC Jul 28 catalyst. No action.
+- **XLB** 291 @ $52.09 | $50.70 (**-2.67%**, -$405). Stop $46.872, HWM $52.08. -7% floor $48.45. Reshoring/materials thesis intact. No cut.
+- **XLE** 354 @ $56.56 | $60.02 (**+6.12%**, +$1,225). Price above HWM $59.52 — stop auto-advances at open (~$54.02). Stop $53.568. +15% thresh $65.04 (~8.4% off). #1 sector YTD, oil jumping. No tighten.
+- **XLI** 82 @ $183.18 | $178.85 (**-2.36%**, -$355). Stop $164.808, HWM $183.12. -7% floor $170.36. Defense/capex thesis strengthened by Iran-conflict missile-replenishment demand. No cut.
+
+### Trade Ideas (catalyst / entry / stop / target)
+1. **XLE add — BLOCKED / PASS.** #1 momentum, oil jumping, but already 20.9% of equity; wrapper rejects any add. Let the runner run (stop trails up).
+2. **Defense/Industrials — HOLD, no add.** Iran missile-replenishment demand is a real XLI tailwind, but XLI is red vs entry and adding just concentrates cyclicals. Thesis reinforcement is a reason to hold, not to buy more.
+3. **Tech into MSFT print — WATCH, no trim.** AI-capex scare + PT cut have MSFT -2.65% premarket. +5% cushion, stop $365.39 well below. Earnings Jul 29 binary — do NOT add tech; no pre-emptive trim, let the stop work. If it runs to +15% ($426.34) before then, tighten trail to 7%.
+4. **6th slot — PASS.** No fresh leading sector: Energy at cap, Materials/Industrials already held, Tech lagging + risk-off today. No clean candidate.
+
+### Risk Factors
+- **AI-capex ROI scare** — the day's swing factor; pressures Nasdaq/Big Tech, MSFT premarket -2.65%.
+- **MSFT earnings Jul 29** (4 sessions out) — binary; capex/component-cost narrative could cut either way. Stop is the backstop.
+- **FOMC Jul 28** — rate-cut narrative priced; hawkish surprise unwinds SPMO/MSFT fast.
+- **Oil rally is geopolitics-driven** (Iran) — helps XLE but reversible on de-escalation; trailing stop protects the gain.
+- **Cyclical drag** — XLB & XLI both red vs entry; a growth-scare rotation pressures both, stops are the backstop.
+
+### Decision
+**HOLD all five. No new buys.** Deployment 76.2% (in-target), 5 positions, all stops active, no cut/tighten/stop thresholds crossed. Risk-off AI-capex tape argues for patience, not adds. Energy at cap; no clean 6th-slot candidate. Patience > activity.
+
+---
