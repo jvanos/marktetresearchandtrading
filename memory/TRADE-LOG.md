@@ -364,6 +364,19 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-07-23 — Midday Scan (~13:03 ET)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **MSFT:** $381.53 (+2.91% unr., +$573). Day **-2.26%** (AI-capex scare — Alphabet raised 2026 capex to $180-190B; investors questioning near-term Big Tech ROI; pre-earnings caution). Stop $365.391 (HWM $405.99, 10% trail). -7% floor $344.78. +15% thresh $426.34 (~11.7% off). Earnings Jul 29 (4 sessions) — thesis intact, stop does the work. No cut, no tighten.
+- **SPMO:** $150.17 (+1.21% unr., +$72). Day +0.07%. Stop $136.125 (HWM $151.25, 10% trail). -7% floor $137.99. FOMC Jul 28 rate-cut catalyst intact (5 days). No cut, no tighten (+15% thresh $170.64).
+- **XLB:** $50.38 (-3.29% unr., -$498). Day -0.87%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45. Reshoring/AI-infra/materials thesis intact. No cut.
+- **XLE:** $59.645 (+5.45% unr., +$1,092). Day +0.75%. Stop **$54.339** (HWM **$60.3768** — auto-advanced from $53.568/$59.52 since Jul 22 EOD; XLE hit intraday high ~$60.38). Oil elevated (WTI ~$86, Brent ~$93; Iran-geopolitics). Energy #1 sector YTD. +15% thresh $65.04. No tighten.
+- **XLI:** $182.035 (-0.63% unr., -$94). Day **+1.78%** (defense/capex recovery; Iran missile-replenishment demand). Stop $164.808 (HWM $183.12, 10% trail). -7% floor $170.36. Thesis intact. No cut.
+- **Portfolio:** ~$101,144 est. equity | Cash $24,214.23 (23.9%) | Deployed ~76.1% ($76,930 long mkt value). Phase P&L +$1,144 (+1.14%). 1 trade this week (SPMO; 7 remaining).
+- **No new buys:** Energy at 20% cap (wrapper-blocked); no clean 6th-slot candidate; risk-off AI-capex scare tape; FOMC/MSFT-earnings binary events in 5-6 sessions. Patience > activity.
+
+---
+
 ### Jul 22 — EOD Snapshot (Day 17, Wednesday)
 **Portfolio:** $101,296.59 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$55.01 (+0.05%) | **Phase P&L:** +$1,296.59 (+1.30%)
 
