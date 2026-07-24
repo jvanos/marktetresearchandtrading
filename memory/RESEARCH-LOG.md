@@ -834,3 +834,45 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 **HOLD all five. No new buys.** Deployment 76.2% (in-target), 5 positions, all stops active, no cut/tighten/stop thresholds crossed. Risk-off AI-capex tape argues for patience, not adds. Energy at cap; no clean 6th-slot candidate. Patience > activity.
 
 ---
+
+## 2026-07-24 — Pre-Market Research (~07:15 ET, Day 19 Fri)
+
+### Account
+- Equity: $101,248.07 | Cash: $24,214.23 (23.9%) | Buying power: $312,551.67 (4x margin)
+- Deployed: MSFT $20,449 + SPMO $6,022 + XLB $14,634 + XLE $20,964 + XLI $14,964 = **$77,034 (~76.1%)** — within 75–85% target.
+- Weekly buys: 1 (SPMO). 7 remaining. 5 open positions, all with active GTC 10% trailing stops (verified in orders).
+- XLE = **20.7% of equity** (via appreciation; energy adds wrapper-blocked at 20% cap).
+
+### Market Context (premarket)
+- **S&P 500 futures ~flat/slightly higher (+0.05%)** — calm tape into the weekend before FOMC week.
+- **VIX conflicting ~16–21** (sources disagree); no clear spike — market not pricing acute stress.
+- **Oil conflicting:** WTI ~$69–80, Brent ~$72–100 across feeds; directionally firm/elevated, geopolitics-driven. Supports XLE thesis but noisy.
+- **10yr Treasury ~4.24–4.48%** — anchored; no bond-market stress signal.
+- **>> FOMC repricing (IMPORTANT):** July 28–29 meeting now priced as **HOLD, cut odds ~0**; debate is hold vs. a 25bp *hike* (Reuters ~30% hike odds; Morningstar ~95% no-change). This **contradicts prior logs' "Jul 28 rate-cut catalyst"** for SPMO/MSFT. Decision lands **Wed Jul 29 (2pm ET), same day as MSFT earnings (after close)** — double-binary Wednesday.
+- **Macro today:** Initial Jobless Claims 8:30am; New Home Sales 10:00am. No CPI/PPI. Light.
+- **Sector momentum YTD:** Energy (leader ~+22–27%) > Materials (~+10–18%) > Industrials (~+10–14%); **Tech laggard (~-3 to -6% YTD)**. Holdings aligned with leadership (XLE/XLB/XLI); MSFT is the lone tech.
+- **Pre-open earnings today:** VZ, AXP, BAH, FCNCA (financials/telecom) — none held; low read-through.
+
+### Position Check (prior-close quotes; mkt pre-open)
+- **MSFT** 53 @ $370.73 | **$385.83** (+4.07%, +$800). Stop $365.391 (~5.3% below), HWM $405.99. -7% floor $344.78. +15% tighten thresh $426.34 (~10.5% off). **Earnings Jul 29 AC + FOMC same day** — binary. No cut/tighten; stop far below.
+- **SPMO** 40 @ $148.38 | **$150.56** (+1.47%, +$87). Stop $136.125, HWM $151.25. -7% floor $138.03. FOMC rate-cut thesis now weaker (hold priced) — hold, no action; stop backstop.
+- **XLB** 291 @ $52.09 | **$50.29** (-3.46%, -$525). Stop $46.872, HWM $52.08. **-7% cut floor $48.45 — only $1.84 (3.7%) above; day's main manual-watch level.** Reshoring/materials thesis intact. No cut yet.
+- **XLE** 354 @ $56.56 | **$59.22** (+4.70%, +$942). Stop $54.339, HWM $60.377. +15% tighten thresh $65.04 (~9.8% off). #1 sector YTD, oil firm. Let runner run; stop trails up.
+- **XLI** 82 @ $183.18 | **$182.49** (-0.38%, -$57). Stop $164.808, HWM $183.12 (near HWM). -7% floor $170.36. Defense/capex + Iran missile-replenishment tailwind. No cut.
+
+### Trade Ideas (catalyst / entry / stop / target)
+1. **XLE add — BLOCKED / PASS.** #1 momentum, oil firm, but 20.7% of equity; wrapper rejects any add. Runner runs, stop trails.
+2. **6th slot — PASS.** No fresh leading sector: Energy at cap, Materials/Industrials held, Tech laggard + FOMC/MSFT binary next week. No clean candidate.
+3. **De-risk into Wed Jul 29 double-binary? — WATCH, no pre-emptive trim.** FOMC (now hold/hike-risk, not cut) + MSFT earnings both land Jul 29. Stops are the backstop; do NOT pre-trim. If MSFT runs to +15% ($426.34) before then, tighten trail to 7%. If XLB breaks $48.45, cut per rule 5.
+
+### Risk Factors
+- **>> FOMC hawkish repricing** — biggest thesis change: rate-cut narrative gone; a hike-leaning statement Jul 29 could unwind SPMO/MSFT and pressure cyclicals. Priced-in hold limits downside surprise, but a *hike* is the tail.
+- **MSFT earnings Jul 29 (AC)** — binary; Azure/capex-ROI narrative. Same day as FOMC → compounded event risk. Stop $365.39 is backstop.
+- **XLB near cut floor** — -3.46%, $1.84 above -7% ($48.45); a growth-scare down-day triggers manual cut.
+- **Oil rally geopolitics-driven** (Iran) — helps XLE, reversible on de-escalation; trailing stop protects gain.
+- **Data noise** — VIX/oil feeds conflict widely; treat levels as directional, not precise.
+
+### Decision
+**HOLD all five. No new buys.** Deployment 76.1% (in-target), 5 positions, all stops active/verified, no cut/tighten thresholds crossed today. FOMC repricing is a thesis update to monitor, not a trade trigger — do not pre-emptively de-risk ahead of the Jul 29 double-binary; let stops work. Energy at cap; no clean 6th slot. **Manual watch: XLB vs $48.45.** Patience > activity.
+
+---
