@@ -420,3 +420,17 @@ No positions yet. Bot launches tomorrow.
 - **No new buys:** Deployment 76.1% (in-target). FOMC Jul 28 + MSFT earnings Jul 29 double-binary — no new risk. Energy at 20% cap (wrapper-blocked). No clean 6th slot. Patience > activity.
 
 ---
+
+### Jul 24 — EOD Snapshot (Day 19, Friday)
+**Portfolio:** $101,249.01 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$258.73 (+0.26%) | **Phase P&L:** +$1,249.01 (+1.25%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $380.75 | -0.22% | +$531.21 (+2.70%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | 40 | $148.38 | $146.51 | -2.22% | -$74.80 (-1.26%) | $136.125 (10% trail, HWM $151.25) |
+| XLB | 291 | $52.09 | $51.25 | +1.91% | -$245.19 (-1.62%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $59.61 | +0.39% | +$1,079.70 (+5.39%) | $54.405 (10% trail, HWM $60.45) |
+| XLI | 82 | $183.18 | $182.67 | +0.40% | -$41.87 (-0.28%) | $165.51 (10% trail, HWM $183.90) |
+
+**Notes:** Quiet Friday close heading into a high-stakes week — FOMC Jul 28 and MSFT earnings Jul 29 are the twin binaries. Portfolio finished +0.26% ($258.73) on the day. Biggest mover was XLB +1.91% to $51.25 as materials recovered, though still -1.62% unrealized; HWM stuck at $52.08, no stop advancement. XLE +0.39% to $59.61 (+5.39% unrealized, best position); stop at $54.405 (HWM $60.45). XLI +0.40% to $182.67, nearly breakeven (-0.28%) — stop auto-advanced to $165.51 (HWM $183.90). MSFT -0.22% to $380.75 (+2.70% unrealized) — pre-earnings dip, earnings Jul 29 AC; stop at $365.391 (HWM $405.99) provides backstop. SPMO biggest concern: -2.22% to $146.51 (-1.26% unrealized) as FOMC rate-cut thesis has shifted to hold/hike-risk — position is deteriorating; stop $136.125 still 7.1% below ($10.36 buffer) and -7% manual floor $138.00 not yet triggered ($8.51 buffer), so stop does the work. No trades today; 1 trade this week (SPMO; 7 remaining). Long mkt value $77,034.78, deployed 76.2%, within 75-85% target. Next session (Mon Jul 27 pre-market): FOMC Jul 28 setup, MSFT earnings prep; hold all 5 unless stops triggered over the weekend gap.
+
