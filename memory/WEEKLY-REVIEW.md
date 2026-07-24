@@ -45,6 +45,69 @@ here for human review; do not edit TRADING-STRATEGY.md directly.)
 
 ---
 
+## Week ending 2026-07-24
+
+*Note: Market open all 4 trading days (Jul 21–24; Mon–Fri, 4 days; Jul 20 was a Sunday). No HALT file. Market closed at 4 PM ET; this review ran after market close. FOMC Jul 28 and MSFT earnings Jul 29 are the twin binaries heading into next week.*
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $100,856.47 |
+| Ending portfolio | $101,259.53 |
+| Week return | +$403.06 (+0.40%) |
+| S&P 500 week | +1.76% |
+| Bot vs S&P | -1.36% |
+| Trades | 1 (W:0 / L:0 / open:5) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLE +5.39% unrealized |
+| Worst trade | SPMO -1.26% unrealized |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| MSFT | $370.73 | $380.75 | +$531.21 (+2.70%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | $148.38 | $146.51 | -$74.80 (-1.26%) | $136.125 (10% trail, HWM $151.25) |
+| XLB | $52.09 | $51.25 | -$245.19 (-1.62%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | $56.56 | $59.61 | +$1,079.70 (+5.39%) | $54.405 (10% trail, HWM $60.45) |
+| XLI | $183.18 | $182.67 | -$41.87 (-0.28%) | $165.51 (10% trail, HWM $183.90) |
+
+### What Worked
+- XLE continued as the portfolio's anchor: HWM advanced to $60.45 (stop $54.405), trailing stop auto-advancing and protecting +5.39% unrealized gain; energy remains #1 momentum sector YTD
+- XLI recovered from -2.44% to near-flat (-0.28%), with HWM finally advancing to $183.90 (stop auto-advanced to $165.51) — defense/electrification thesis beginning to pay
+- XLB bounced from -3.4% (Jul 23 EOD) back to -1.62% by week end; $50 support held for the fourth time; materials/reshoring thesis intact
+- Deployment target met for the first time: 5 positions, 76.1% deployed, within 75–85% mandate
+- Patience on FOMC week: correctly held cash and avoided new buys ahead of Jul 28 FOMC and Jul 29 MSFT earnings binaries
+
+### What Didn't Work
+- Bot underperformed S&P 500 by -1.36% (+0.40% vs +1.76%) — the index had a strong week while portfolio was held back by MSFT and SPMO weakness
+- SPMO thesis invalidated mid-week: entered on rate-cut catalyst (>72% FOMC Jul 28 cut odds); by week end that flipped to HOLD/hike-risk — position now in loss (-1.26%) with thesis broken
+- MSFT continued AI-capex scare pressure (Alphabet $180–190B 2026 capex announcement): pulled from +8.50% unrealized (Jul 20) to +2.70% by week end; trailing stop at $365.391 is only 3.8% below $380.75 current — narrow buffer heading into Jul 29 earnings
+- XLB HWM still frozen at $52.08 (entry price from Jul 7); 17 days post-entry with no price recovery above entry; stop has not advanced once since purchase
+- No +15%/+20% tighten thresholds reached on any position this week
+
+### Key Lessons
+- FOMC rate-cut bets under a hawkish Fed (Warsh, ~77% Dec-hike odds) are high-risk binary plays — SPMO's sole catalyst evaporated; a momentum-factor ETF is a sounder thesis than a rate-cut play
+- Earnings-week pre-positioning risk: MSFT is down >5% from its Jul 16 HWM ($405.99) heading into Jul 29 earnings; holding through an earnings event at reduced unrealized P&L with a narrow stop creates gap-down risk
+- XLB dead-weight pattern is now 3.5 weeks old: 17 days in the position with HWM never advancing above entry, buy→hold downgrade Jul 8, MACD weak — fundamentals vs. technicals debate needs resolution
+- Portfolio's strength (XLE +5.39%, XLI near-flat) is being dragged by MSFT and SPMO; with two earnings/FOMC binaries in 4 days, next week is the critical test
+
+### Adjustments for Next Week
+- FOMC Jul 28 + MSFT earnings Jul 29 = hold all 5 unless stops triggered; no new buys ahead of binaries
+- SPMO watch: if FOMC Jul 28 is hawkish hold or hike, thesis is fully dead — consider voluntary exit at open Jul 29 (don't wait for -7% floor $138.00); if surprise cut, thesis partially restores but -7% floor is the backstop
+- MSFT earnings play: if Jul 29 beat → let stop work, watch $426.34 for 7% trail tighten; if miss/gap-down → reassess vs. stop at $365.391; do NOT remove the stop or add to a loser
+- XLB: if no HWM advance and no positive catalyst in the next 5 trading days (by Jul 31), consider voluntary exit before trailing stop gets hit — 3+ weeks of dead weight with broken technicals
+- XLE: let stop auto-advance; +15% threshold $65.04 still 9% away; no action needed unless tighten triggered
+
+### Overall Grade: C+
+
+---
+
 ## Week ending 2026-07-17
 
 *Note: Market open all 5 days (Jul 13–17). No HALT file. Normal operations throughout. Market closed 4:07 PM ET when this review ran.*
