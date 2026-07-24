@@ -406,3 +406,17 @@ No positions yet. Bot launches tomorrow.
 **Notes:** Near-flat Wednesday close. MSFT extended its pullback -1.93% to $390.06 (still +5.22% unrealized; HWM $405.99, stop $365.391 — price $15+ below HWM, no stop advancement). TSLA reported after Tuesday's close; Big Tech earnings-week caution continues into MSFT earnings Jul 29. XLE +1.18% to $59.19 with oil elevated; trailing stop HWM $59.52 (stop $53.568) — no new advancement today. XLB recovered +1.44% to $50.82 (-2.44% unrealized), further from -7% floor ($48.44). SPMO +0.15% to $149.93 (+1.04% unrealized); FOMC Jul 28 rate-cut thesis intact (>72% cut odds), 6 days out. XLI barely moved +0.11%. All 5 trailing stops active and correct. Day P&L +$55.01 (+0.05%) — effectively flat, MSFT drag offset by XLE/XLB gains. Phase P&L +$1,296.59 (+1.30%) vs $100,000 baseline. No trades today; 1 trade this week (SPMO, 7 remaining). Portfolio 76.1% deployed, 5 positions — within target. Tomorrow: FOMC week caution; watch MSFT vs $426.34 tighten threshold; hold course unless stops triggered.
 
 ---
+
+## 2026-07-24 — Midday Scan (~13:03 ET, Day 19 Fri)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active and auto-advancing.
+- **MSFT:** $384.05 (+3.59% unr., +$706). Day +0.65%. Stop $365.391 (HWM $405.99, 10% trail — price $22 below HWM). +15% tighten thresh $426.34 (~11% off). FOMC Jul 28 + earnings Jul 29 AC double-binary next week; thesis intact, stop backstop. No cut, no tighten.
+- **SPMO:** $147.85 (-0.36% unr., -$21). Day **-1.32%**. Stop $136.125 (HWM $151.25, 10% trail). -7% floor $138.03. FOMC rate-cut thesis now fully invalidated (pre-market flagged: Jul 28 FOMC priced as HOLD/hike-risk, not cut). Position in small loss; stop backstop at $136.125 still 8.0% below current price. Not at -7% floor — hold, stop does the work. If FOMC hike surprises, stop takes it out.
+- **XLB:** $50.855 (-2.38% unr., -$360). Day +1.12% (recovering). Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.45 — $2.41 above (4.7% buffer). Reshoring/materials thesis intact. No cut.
+- **XLE:** $59.60 (+5.37% unr., +$1,076). Day +0.37%. Stop **$54.405** (HWM **$60.45** — auto-advanced from $60.377/$54.339 since Jul 23 EOD; XLE hit intraday high ~$60.45). Oil firm. +15% tighten thresh $65.04 (~9.1% off). No tighten.
+- **XLI:** $182.92 (-0.14% unr., -$21). Day +0.54%. Stop **$165.51** (HWM **$183.90** — auto-advanced from $183.12/$164.808 since Jul 23 EOD; XLI hit intraday high $183.90 today). Defense/capex thesis intact. No cut.
+- **Portfolio:** ~$77,165 long mkt value | Cash $24,214.23 (23.9%) | Deployed ~76.1%. Est. equity ~$101,380. Day P&L est. +$374 (+0.37%). Phase P&L est. +$1,380 (+1.38%). 1 trade this week (SPMO; 7 remaining).
+- **Stop auto-advances noted:** XLI HWM $183.12→$183.90 (stop $164.808→$165.51); XLE HWM $60.377→$60.45 (stop $54.339→$54.405). Both auto-advanced by Alpaca trailing mechanism; no wrapper action needed. All 5 stops verified active.
+- **No new buys:** Deployment 76.1% (in-target). FOMC Jul 28 + MSFT earnings Jul 29 double-binary — no new risk. Energy at 20% cap (wrapper-blocked). No clean 6th slot. Patience > activity.
+
+---
