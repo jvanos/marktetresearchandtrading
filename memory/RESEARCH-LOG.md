@@ -913,4 +913,9 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 ### Decision
 **HOLD all five. No new buys.** Deployment 76.2%, all stops active/verified, no thresholds crossed. Double-binary tomorrow (FOMC + MSFT earnings AC) warrants maximum patience. Stop protection in place for all positions. Patience > activity.
 
+### Midday Addendum (~13:03 ET) — Perplexity check
+- **MSFT earnings:** Confirmed **Wed Jul 29 AC** via official Microsoft IR. Morning scan's "Earnings tomorrow" was an error — earnings are in 2 days. No new catalyst for today's +2.45% move; attributed to earnings anticipation / pre-FOMC rotation into AI/cloud. Analyst consensus remains Strong Buy (30 analysts; avg target ~$561).
+- **SPMO:** -2.48% today to $142.88 (-3.71% unr.). FOMC tomorrow driving momentum-factor weakness. No new information; hawkish hold thesis fully priced. Stop $136.125 backstop.
+- **No Perplexity-identified catalyst change** for XLB, XLE, or XLI.
+
 ---

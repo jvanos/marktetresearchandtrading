@@ -15,6 +15,20 @@ No positions yet. Bot launches tomorrow.
 | 2026-07-14 | XLE | BUY | 354 | $56.56 | $53.469 trailing 10% GTC (HWM $59.41, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
 | 2026-07-21 | SPMO | BUY | 40 | $148.38 | $136.125 trailing 10% GTC (HWM $151.25, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; ⚠️ rate-cut thesis invalidated (FOMC now hawkish hold); stop backstop |
 
+## 2026-07-27 — Midday Scan (~13:03 ET, Day 20 Mon)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **MSFT:** $391.04 (+5.48% unr., +$1,077). Day +2.45%. Stop $365.391 (HWM $405.99, 10% trail). Earnings Wed Jul 29 AC (correction: morning scan said "tomorrow" — confirmed via Perplexity: Jul 29 AC). No cut, no tighten (+15% thresh $426.34 ~9.0% off).
+- **SPMO:** $142.88 (**-3.71% unr., -$220**). Day -2.48%. Stop $136.125 (HWM $151.25, 10% trail). -7% floor $138.00 ($4.88 buffer). ⚠️ Rate-cut thesis long invalidated; FOMC tomorrow (Jul 28) hawkish hold expected. Position deteriorating but above -7% floor; stop backstop holds. No cut.
+- **XLB:** $51.19 (-1.73% unr., -$263). Day -0.14%. Stop $46.872 (HWM $52.08, 10% trail). -7% floor $48.44 ($2.75 buffer). Thesis intact. No cut.
+- **XLE:** $58.73 (+3.84% unr., +$768). Day -1.49% (oil pullback). Stop $54.405 (HWM $60.45, 10% trail). Energy #1 sector. +15% thresh $65.04 (~10.7% off). No tighten.
+- **XLI:** $181.71 (-0.80% unr., -$121). Day -0.52%. Stop **$165.978** (HWM **$184.42** — auto-advanced from $165.87/$184.30 since morning open). -7% floor $170.36. Thesis intact. No cut.
+- **Portfolio:** ~$101,241 est. equity | Cash $24,214 (23.9%) | Deployed ~76.2% ($77,027 long). Phase P&L +$1,241 (+1.24%). 0 trades this week (8 remaining).
+- **All 5 trailing stops verified active:** MSFT $365.391, SPMO $136.125, XLB $46.872, XLE $54.405, XLI $165.978 (auto-advanced). ✓
+- **Key watch:** SPMO at -3.71% with broken thesis; FOMC tomorrow. XLI HWM auto-advanced $184.30→$184.42 since morning. MSFT earnings Wed Jul 29 AC — hold through binary.
+
+---
+
 ## 2026-07-27 — Market-Open Scan (~09:34 ET, Day 20 Mon)
 
 - **No trades.** HOLD all five. FOMC (Jul 28-29, hawkish hold expected) + MSFT earnings Jul 29 AC double-binary → maximum patience. Deployment 76.2% (in-target). No cut/tighten thresholds crossed.
