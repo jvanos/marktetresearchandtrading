@@ -29,6 +29,21 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+### Jul 27 — EOD Snapshot (Day 20, Monday)
+**Portfolio:** $101,272.63 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** -$32.36 (-0.03%) | **Phase P&L:** +$1,272.63 (+1.27%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $388.75 | +1.85% | +$955.21 (+4.86%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | 40 | $148.38 | $144.75 | -1.20% | -$145.20 (-2.45%) | $136.125 (10% trail, HWM $151.25) |
+| XLB | 291 | $52.09 | $51.39 | +0.25% | -$204.45 (-1.35%) | $46.872 (10% trail, HWM $52.08) |
+| XLE | 354 | $56.56 | $58.44 | -1.98% | +$665.52 (+3.32%) | $54.405 (10% trail, HWM $60.45) |
+| XLI | 82 | $183.18 | $183.20 | +0.30% | +$1.59 (+0.01%) | $165.978 (10% trail, HWM $184.42 ↑ auto-advanced) |
+
+**Notes:** Mixed session ahead of tomorrow's FOMC decision (Jul 28) and MSFT earnings Jul 29 AC. Portfolio near-flat: -$32.36 (-0.03%) after gapping up at the open (+$347 intraday peak) before fading. MSFT led the day +1.85% to $388.75 (+4.86% unrealized), pre-earnings buy-side positioning; stop at $365.391 (HWM $405.99, no advancement — price $16.24 below HWM). XLI +0.30% to $183.20 (+0.01% unrealized); trailing stop auto-advanced to $165.978 (HWM $184.42, up from $184.30 at open). XLB +0.25% to $51.39 (-1.35% unrealized); HWM stuck at $52.08 for three weeks. XLE fell -1.98% to $58.44 (+3.32% unrealized) on oil pullback; stop at $54.405 (HWM $60.45, no advancement). SPMO remains the risk position: closed -1.20% at $144.75 (-2.45% unrealized, -$145.20) — intraday low was -3.71% at midday before partial recovery. Rate-cut thesis fully invalidated; FOMC tomorrow (Jul 28) expected hawkish hold. -7% manual floor $137.99 ($6.76 buffer); stop $136.125 (5.96% buffer) does the work. 0 trades today; 0 trades this week (8 remaining). Tomorrow: FOMC decision — if hold/hike, SPMO thesis gone, evaluate vs. stop; if surprise cut, thesis reinstated. MSFT earnings Jul 29 AC — hold, stop backstop.
+
+---
+
 ## 2026-07-27 — Market-Open Scan (~09:34 ET, Day 20 Mon)
 
 - **No trades.** HOLD all five. FOMC (Jul 28-29, hawkish hold expected) + MSFT earnings Jul 29 AC double-binary → maximum patience. Deployment 76.2% (in-target). No cut/tighten thresholds crossed.

@@ -173,3 +173,18 @@ Open positions:
   XLE  +0.39% → $59.61  (+5.39% unr., stop $54.41)
   XLI  +0.40% → $182.67 (-0.28% unr., stop $165.51)
 Next week: FOMC Jul 28 + MSFT earnings Jul 29 — hold all 5, no new buys, stops backstop
+
+---
+## 2026-07-27 20:09 UTC (EOD — ClickUp blocked by proxy)
+EOD Jul 27
+Portfolio: $101,272.63 (-0.03% day, +1.27% phase)
+Cash: $24,214
+Trades today: none (0/8 this week)
+Open positions:
+  MSFT +1.85% → $388.75 (stop $365.39, +4.86% unr.)
+  SPMO -1.20% → $144.75 ⚠️ (stop $136.13, -2.45% unr. | thesis gone)
+  XLB  +0.25% → $51.39  (stop $46.87, -1.35% unr.)
+  XLE  -1.98% → $58.44  (stop $54.41, +3.32% unr.)
+  XLI  +0.30% → $183.20 (stop $165.98 HWM↑, +0.01% unr.)
+Tomorrow: FOMC Jul 28 — hawkish hold expected; if confirmed SPMO thesis dead, evaluate vs stop. MSFT earnings Jul 29 AC — hold, stop backstop.
+NOTE: ClickUp blocked by proxy (connect_rejected). Summary saved locally only.
