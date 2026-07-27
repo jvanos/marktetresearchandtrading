@@ -876,3 +876,41 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 **HOLD all five. No new buys.** Deployment 76.1% (in-target), 5 positions, all stops active/verified, no cut/tighten thresholds crossed today. FOMC repricing is a thesis update to monitor, not a trade trigger — do not pre-emptively de-risk ahead of the Jul 29 double-binary; let stops work. Energy at cap; no clean 6th slot. **Manual watch: XLB vs $48.45.** Patience > activity.
 
 ---
+
+## 2026-07-27 — Pre-Market Research (inline, ~09:34 ET, Day 20 Mon)
+
+### Account
+- Equity: $101,651.91 | Cash: $24,214.23 (23.8%) | Long mkt value: $77,437.68
+- Deployed: 76.2% — within 75–85% target
+- Weekly buys: 0 so far (8 remaining). 5 open positions, all trailing stops active (verified).
+
+### Market Context
+- **FOMC (Jul 28-29):** Expected hawkish HOLD; rate-cut thesis gone; ~30% hike tail risk. Decision Wed Jul 30 (note: original FOMC timeline was Jul 28-29 meeting, decision Wed). Dollar supported. **Rate-cut SPMO catalyst fully invalidated.**
+- **MSFT earnings Jul 29 AC** — same day as FOMC → double-binary Wednesday.
+- **Durable Goods:** Bounced back, goldilocks-like US macro backdrop. Growth-supportive but not rally-sparking.
+- **Oil/energy:** Brent elevated (~+21% YoY, geopolitics-driven). Supports XLE. Reversible on de-escalation.
+- **Sector momentum (Perplexity):** Energy (XLE) strongest. Industrials (XLI) leadership intact. Materials (XLB) positive but commodity-dependent. Tech weakest — MSFT/SPMO under AI-capex-ROI pressure.
+- **S&P 500:** Declined last week on Alphabet + Tesla earnings disappointments; market breadth 65.4% above intermediate trend (constructive but cooling).
+- **No specific overnight catalyst** for any held ticker.
+
+### Position Check (~09:34 ET)
+- **MSFT** 53 @ $370.73 | $388.64 (**+4.83%**, +$949). Stop $365.391 (HWM $405.99). Intraday +1.82%. Earnings tomorrow (Jul 29 AC) + FOMC. Stop backstop. No action.
+- **SPMO** 40 @ $148.38 | $147.165 (**-0.82%**, -$49). Stop $136.125 (HWM $151.25). Intraday +0.45%. ⚠️ Rate-cut thesis fully gone (hawkish FOMC hold). -7% floor $138.00 ($9.17 buffer). Stop does the work. No cut.
+- **XLB** 291 @ $52.09 | $51.54 (**-1.06%**, -$161). Stop $46.872 (HWM $52.08). Intraday +0.55%. -7% floor $48.44 ($3.10 buffer). Recovering intraday. No action.
+- **XLE** 354 @ $56.56 | $58.90 (**+4.14%**, +$828). Stop $54.405 (HWM $60.45). Intraday -1.21% (oil pullback). Energy #1 sector. +15% thresh $65.04. No action.
+- **XLI** 82 @ $183.18 | $184.17 (**+0.54%**, +$81). Stop **$165.87** (HWM **$184.30** — auto-advanced by Alpaca from $165.51/$183.90). Intraday +0.83%. New high-water mark. No action.
+
+### Trade Ideas
+- **No new buys.** Deployment 76.2% (in-target). FOMC + MSFT earnings double-binary tomorrow. Energy at 20% cap (wrapper-blocked). No clean 6th slot.
+- **No cuts/tightens:** No position at -7% floor or +15% tighten threshold.
+
+### Risk Factors
+- **FOMC hawkish hold / hike tail (~30%)** — biggest near-term risk. Hike would hurt SPMO, MSFT.
+- **MSFT earnings Jul 29 AC** — Azure/AI-capex-ROI narrative post-Alphabet; binary.
+- **SPMO thesis decay** — rate-cut catalyst gone; floats -0.82%; stop $136.125 is backstop.
+- **XLE oil reversal** — intraday -1.21%; elevated geopolitics-driven oil can reverse on de-escalation.
+
+### Decision
+**HOLD all five. No new buys.** Deployment 76.2%, all stops active/verified, no thresholds crossed. Double-binary tomorrow (FOMC + MSFT earnings AC) warrants maximum patience. Stop protection in place for all positions. Patience > activity.
+
+---

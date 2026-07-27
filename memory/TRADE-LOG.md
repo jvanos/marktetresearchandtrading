@@ -10,10 +10,23 @@ No positions yet. Bot launches tomorrow.
 | Date | Ticker | Side | Shares | Entry | Stop | Target | R:R | Thesis |
 |---|---|---|---|---|---|---|---|---|
 | 2026-06-30 | MSFT | BUY | 53 | $370.73 | $355.995 trailing 10% GTC (HWM $395.55) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
-| 2026-07-07 | XLI | BUY | 82 | $183.18 | $164.81 trailing 10% GTC (HWM $183.12, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
+| 2026-07-07 | XLI | BUY | 82 | $183.18 | $165.87 trailing 10% GTC (HWM $184.30, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
 | 2026-07-07 | XLB | BUY | 291 | $52.09 | $46.87 trailing 10% GTC (HWM $52.08, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
 | 2026-07-14 | XLE | BUY | 354 | $56.56 | $53.469 trailing 10% GTC (HWM $59.41, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
-| 2026-07-21 | SPMO | BUY | 40 | $148.38 | $133.101 trailing 10% GTC (HWM $147.89, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; rate-cut odds >72% (Jul 28 FOMC) bullish for momentum factor; 5th slot; ⚠️ purchased by prior routine — no research-log entry at time of buy; stop placed retroactively by market-open routine |
+| 2026-07-21 | SPMO | BUY | 40 | $148.38 | $136.125 trailing 10% GTC (HWM $151.25, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; ⚠️ rate-cut thesis invalidated (FOMC now hawkish hold); stop backstop |
+
+## 2026-07-27 — Market-Open Scan (~09:34 ET, Day 20 Mon)
+
+- **No trades.** HOLD all five. FOMC (Jul 28-29, hawkish hold expected) + MSFT earnings Jul 29 AC double-binary → maximum patience. Deployment 76.2% (in-target). No cut/tighten thresholds crossed.
+- **MSFT** 53 @ $370.73 | $388.64 (**+4.83%**, +$949). Stop $365.391 (HWM $405.99, 10% trail). Intraday +1.82%. Earnings tomorrow. No action.
+- **SPMO** 40 @ $148.38 | $147.165 (**-0.82%**, -$49). Stop $136.125 (HWM $151.25, 10% trail). Intraday +0.45%. ⚠️ Rate-cut thesis fully invalidated (FOMC now priced hawkish hold, not cut). -7% floor $138.00 ($9.17 buffer). Hold; stop backstop.
+- **XLB** 291 @ $52.09 | $51.54 (**-1.06%**, -$161). Stop $46.872 (HWM $52.08, 10% trail). Intraday +0.55%. -7% floor $48.44. Recovering. No action.
+- **XLE** 354 @ $56.56 | $58.90 (**+4.14%**, +$828). Stop $54.405 (HWM $60.45, 10% trail). Intraday -1.21% (oil pullback). Energy #1 sector. No action.
+- **XLI** 82 @ $183.18 | $184.17 (**+0.54%**, +$81). Stop **$165.87** (HWM **$184.30** — auto-advanced from $165.51/$183.90 since Jul 24 EOD). Intraday +0.83%. New HWM. No action.
+- **Portfolio:** $101,651.91 equity | Cash $24,214.23 (23.8%) | Deployed 76.2% ($77,438 long). Day P&L +$346.92 (+0.34%) vs Jul 24 close $101,304.99. Phase P&L +$1,652 (+1.65%). 0 trades this week (8 remaining).
+- **All 5 trailing stops verified active:** MSFT stop $365.391, SPMO stop $136.125, XLB stop $46.872, XLE stop $54.405, XLI stop $165.87. ✓
+
+---
 
 ## 2026-07-07 — Market-Open Trades
 
