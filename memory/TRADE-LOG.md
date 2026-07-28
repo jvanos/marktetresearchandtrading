@@ -15,6 +15,21 @@ No positions yet. Bot launches tomorrow.
 | 2026-07-14 | XLE | BUY | 354 | $56.56 | $53.469 trailing 10% GTC (HWM $59.41, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
 | 2026-07-21 | SPMO | BUY | 40 | $148.38 | $136.125 trailing 10% GTC (HWM $151.25, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; ⚠️ rate-cut thesis invalidated (FOMC now hawkish hold); stop backstop |
 
+### Jul 28 — EOD Snapshot (Day 21, Tuesday)
+**Portfolio:** $101,265.65 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$2.79 (+0.00%) | **Phase P&L:** +$1,265.65 (+1.27%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $392.82 | +0.96% | +$1,170.92 (+5.96%) | $365.391 (10% trail, HWM $405.99) |
+| SPMO | 40 | $148.38 | $140.94 | -2.63% | -$297.60 (-5.01%) | $136.125 (10% trail, HWM $151.25) |
+| XLB | 291 | $52.09 | $52.34 | +1.85% | +$72.00 (+0.47%) | $47.4975 (10% trail, HWM $52.775 ↑ auto-advanced) |
+| XLE | 354 | $56.56 | $57.53 | -1.42% | +$343.38 (+1.72%) | $54.405 (10% trail, HWM $60.45) |
+| XLI | 82 | $183.18 | $182.90 | -0.16% | -$23.01 (-0.15%) | $165.978 (10% trail, HWM $184.42) |
+
+**Notes:** Near-flat close on FOMC Day 1 (meeting Jul 28-29; decision tomorrow ~2pm ET) ahead of the twin binary: FOMC result + MSFT earnings tomorrow AC. Portfolio essentially unchanged +$2.79 (+0.003%) as MSFT +0.96% to $392.82 (+$197 intraday) and XLB +1.85% to $52.34 (+$276) were offset by SPMO -2.63% to $140.94 (-$152), XLE -1.42% to $57.53 (-$294 on oil pullback), and XLI -0.16% to $182.90 (-$25). SPMO is the critical watch: -5.01% unrealized, now just $2.94 above the -7% manual cut floor ($138.00); rate-cut thesis fully dead; stop $136.125 is the backstop (3.6% below current). XLB crossed into positive territory for the first time since entry: +0.47% unrealized ($52.34 vs $52.09); stop auto-advanced to $47.4975 (HWM $52.775) — a positive sign. XLE pulled back on oil softness but still +1.72% unrealized; HWM $60.45 and stop $54.405 intact. MSFT holds +5.96% unrealized; stop $365.391 (HWM $405.99) backstops a negative earnings surprise. XLI at -0.15% unrealized, nearly breakeven; stop $165.978 (HWM $184.42). 0 trades today; 0 trades this week (8 remaining). Portfolio 76.1% deployed (5 positions, $77,051 long) — within 75-85% target. Tomorrow: FOMC ~2pm ET (hawkish hold expected → SPMO pressure toward $138 floor) + MSFT earnings AC (stop $365.391 backstop). Hold all 5; if SPMO touches $138.00, cut manually.
+
+---
+
 ## 2026-07-28 — Midday Scan (~13:03 ET, Day 21 Tue)
 
 - **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
