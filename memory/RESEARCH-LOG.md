@@ -919,3 +919,41 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **No Perplexity-identified catalyst change** for XLB, XLE, or XLI.
 
 ---
+
+## 2026-07-28 — Pre-Market Research (~07:16 ET, Day 21 Tue)
+
+### Account
+- Equity: $101,442.25 | Cash: $24,214.23 (23.9%) | Long mkt value: $77,228.02
+- Deployed: 76.1% — within 75–85% target
+- 5 open positions, all trailing stops active (verified live). Ample weekly buy capacity remaining.
+
+### Market Context
+- **S&P futures:** ~flat-to-down (E-minis -0.09% to -0.15%); **Nasdaq-100 -0.5% to -0.7%** on AI-chip worries ahead of Big Tech earnings + Fed.
+- **VIX:** conflicting feeds ~16–18 (one outlier 20.95); low-to-moderate, slightly firming pre-Fed.
+- **Oil:** WTI ~$69–74, Brent ~$72–75 — pulled back modestly; still elevated YoY. Supports XLE but momentum cooling.
+- **Yields:** 2Y ~4.12–4.33%, 10Y ~4.46–4.69%. Normal/steepish curve; no fresh shock.
+- **FOMC (2-day mtg Jul 28–29, decision Wed Jul 29):** Base case **hawkish HOLD** at 3.50–3.75%; hike odds ~25–38%; **no cut**. Dot plot/Powell tone > the decision itself. Rate-cut SPMO catalyst remains dead.
+- **MSFT earnings Wed Jul 29 AC:** consensus EPS ~$4.22–4.24 (+15% YoY), rev ~$87–88B (+14–15%); Azure guide 39–40% cc the key print. AI run-rate $37B (+123% YoY). Binary.
+- **Today's data (10:00 ET):** Conference Board Consumer Confidence + Case-Shiller/FHFA home prices. Pre-open earnings: V, KO, BA, UPS, MDLZ, NXPI, BE.
+- **Sector momentum YTD:** Energy leader (~+18–25%); Industrials & Materials strong cyclicals (~+11–18%); Tech solid on returns but **relative momentum cooling** vs cyclicals.
+
+### Position Check (live ~07:16 ET, pre-open)
+- **MSFT** 53 @ $370.73 | $394.31 (**+6.36%**, +$1,250). Stop $365.391 (HWM $405.99). Earnings Wed AC + FOMC Wed → double-binary tomorrow. +15% tighten thresh $426.34 (~8% off). Stop backstop. No action.
+- **SPMO** 40 @ $148.38 | $141.61 (**-4.56%**, -$271). Stop $136.125 (HWM $151.25). ⚠️ Weakest position; momentum-factor bleed pre-hawkish-Fed. **-7% manual floor $138.00 — only ~2.6% ($3.61) above.** Not yet triggered; stop backstop 3.9% below. Watch closely into midday/FOMC.
+- **XLB** 291 @ $52.09 | $51.38 (**-1.37%**, -$207). Stop $46.872 (HWM $52.08). -7% floor $48.45 ($2.93 buffer). Reshoring/materials thesis intact. No action.
+- **XLE** 354 @ $56.56 | $58.47 (**+3.38%**, +$677). Stop $54.405 (HWM $60.45). Energy #1 sector; oil pulled back but firm. +15% thresh $65.04 (~11% off). No action.
+- **XLI** 82 @ $183.18 | $183.10 (**-0.04%**, -$7). Stop **$165.978** (HWM **$184.42** — auto-advanced by Alpaca from $165.87/$184.30). Defense/capex intact. No action.
+
+### Trade Ideas
+- **No new buys.** Deployment 76.1% (in-target). FOMC + MSFT double-binary Wed → maximum patience the day before. Energy at 20% cap (wrapper-blocked). No clean 6th slot with cooling tech momentum.
+- **Watch (not a trade yet):** SPMO vs -7% floor $138.00 — if it prints $138 or below at midday, manual cut per Rule 5; else let stop $136.125 work. Do NOT pre-empt ahead of Wed FOMC.
+- **No tightens:** No position at +15%/+20% threshold (MSFT nearest, ~8% off).
+
+### Risk Factors
+- **Wed double-binary (FOMC + MSFT AC):** hawkish surprise or hike (~25–38% tail) hits SPMO/MSFT; weak Azure/AI-ROI print gaps MSFT. Overnight gaps can jump trailing stops.
+- **SPMO thesis decay:** rate-cut catalyst gone, -4.56% and nearest to its floor; stop $136.125 is the backstop.
+- **Nasdaq/AI-chip weakness** pre-open — tech-adjacent (MSFT, SPMO) sentiment risk.
+- **Oil reversal:** modest pullback; geopolitics-driven premium is reversible → XLE.
+
+### Decision
+**HOLD all five. No new buys.** Deployment 76.1%, all 5 stops active/verified, no cut/tighten threshold crossed at the open. The FOMC + MSFT double-binary is **Wed Jul 29** — the day before a binary is for patience, not new risk. Stops protect all positions; SPMO is the sole manual-watch (floor $138.00). Patience > activity.
