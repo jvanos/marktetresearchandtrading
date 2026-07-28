@@ -919,3 +919,33 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **No Perplexity-identified catalyst change** for XLB, XLE, or XLI.
 
 ---
+
+## 2026-07-28 — Market-Open Research (inline, ~09:34 ET, Day 21 Tue)
+
+### Account
+- Equity: $101,735.69 | Cash: $24,214.23 (23.8%) | Long mkt value: $77,521.46
+- Deployed: 76.2% — within 75–85% target
+- Weekly buys: 0 so far (8 remaining — new week). 5 open positions, all trailing stops active (verified).
+- Day P&L: +$472.83 (+0.47%) vs last_equity $101,262.86 (Jul 27 close)
+- Phase P&L: +$1,735.69 (+1.74%)
+
+### Market Context
+- **FOMC Day 1 (Jul 28-29 meeting):** Decision tomorrow ~2pm ET. Expected hawkish hold; ~30% tail risk of a hike. Rate-cut narrative fully dead. Dollar supported. Tomorrow is the double-binary: FOMC decision + MSFT earnings AC.
+- **MSFT earnings: Jul 29 AC** — confirmed.
+- No fresh Perplexity run today; context carried from Jul 27: oil elevated (Iran/Hormuz geopolitics), Energy YTD leader, AI-capex ROI uncertainty weighing on tech, sector rotation into cyclicals intact.
+
+### Position Check (~09:34 ET live)
+- **MSFT** 53 @ $370.73 | $395.62 (**+6.71%**, +$1,319). Day +1.68%. Stop $365.391 (HWM $405.99). ⚠️ Quote API showed wide bid/ask ($380/$399) — routing artifact (condition "R"); positions API price $395.62 reliable. No cut, no tighten. Earnings tomorrow AC.
+- **SPMO** 40 @ $148.38 | $140.96 (**-5.00%**, -$297). Day -2.62%. Stop $136.125 (HWM $151.25). **⚠️ -7% cut floor $138.00 — only $2.96 buffer (2.1%).** Rate-cut thesis dead; momentum factor under sustained FOMC pressure. Stop backstop; no cut yet.
+- **XLB** 291 @ $52.09 | $52.38 (**+0.55%**, +$84). Day +1.93%. Stop **$47.25** (HWM **$52.50** — auto-advanced; XLB crossed prior HWM $52.08 today). First positive unrealized since entry.
+- **XLE** 354 @ $56.56 | $58.605 (**+3.62%**, +$724). Day +0.42%. Stop $54.405 (HWM $60.45). Energy #1 YTD. No action.
+- **XLI** 82 @ $183.18 | $182.05 (**-0.62%**, -$93). Day -0.63%. Stop $165.978 (HWM $184.42). -7% floor $170.36. No cut.
+
+### Trade Ideas
+1. **HOLD all five.** FOMC Day 1 + MSFT earnings tomorrow = maximum patience. No new buys (energy at cap, no clean 6th slot). No cuts yet (SPMO not at -7% floor).
+2. **SPMO manual cut trigger: $138.00.** If hit intraday tomorrow or at FOMC decision, cut immediately — rule 5 (cut losers at -7%).
+
+### Decision
+**HOLD all five.** No trades. Double-binary tomorrow (FOMC 2pm ET + MSFT AC). All stops active and verified. XLB first new HWM since entry is encouraging. SPMO is the critical watch — -5% and deteriorating on dead thesis; if $138.00 is breached, cut per rule 5. Patience > activity.
+
+---
