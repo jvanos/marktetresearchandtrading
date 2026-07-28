@@ -948,4 +948,21 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 ### Decision
 **HOLD all five.** No trades. Double-binary tomorrow (FOMC 2pm ET + MSFT AC). All stops active and verified. XLB first new HWM since entry is encouraging. SPMO is the critical watch — -5% and deteriorating on dead thesis; if $138.00 is breached, cut per rule 5. Patience > activity.
 
+### Afternoon Addendum (~13:03 ET midday scan)
+
+**MSFT pre-earnings research (Perplexity):**
+- Q4 FY2026 consensus: EPS ~$4.21-4.24 (+15.3% YoY), revenue ~$87.4-87.7B (+14-15%)
+- Azure cloud growth expectation: 39-40% (management guided 39-40% in Q3; confirmed)
+- Q3 actual beat: EPS $4.27 vs $4.07 est (+4.91%); Azure grew 40%
+- Analyst sentiment: ~95% buy, median PT $550. EPS consensus stable (not aggressively raised — suggests bar is set fairly)
+- No company-specific news today; pre-earnings positioning is the primary driver of MSFT +2.39% today
+- Key risk: if Azure growth misses (<38%) or guidance disappoints, stock likely gaps down; stop $365.391 backstop
+
+**FOMC research (Perplexity):**
+- Market pricing: ~65-80% hold, ~20-35% hike tail risk (rate 3.50-3.75% for 5th consecutive hold)
+- Chair Warsh expected to be hawkish; minimal forward guidance
+- Key focus is on *language*, not decision: hawkish statement → dollar up, SPMO/momentum stocks down
+- September hike probability priced at ~82% — medium-term pressure on growth/momentum factors
+- Impact on portfolio: HOLD expected → MSFT neutral/positive; SPMO likely continues deteriorating regardless; hold statement already priced
+
 ---
