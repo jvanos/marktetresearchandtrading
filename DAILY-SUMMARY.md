@@ -202,3 +202,16 @@ Open positions:
   XLE $57.53 +1.72% (stop $54.41)
   XLI $182.90 -0.15% (stop $165.98)
 Tomorrow: FOMC ~2pm ET + MSFT earnings AC double-binary. Hold all 5; cut SPMO manually if $138 touched.
+
+---
+## 2026-07-29 16:05 ET (fallback — ClickUp 403)
+EOD Jul 29
+Portfolio: $101,338 (+0.06% day, +1.34% phase)
+Cash: $29,736 (29.3%) | Deployed: 70.7%
+Trades today: SPMO closed @ $138.05 (-6.96%, realized -$413)
+Open positions (4):
+  MSFT $402.86 +8.67% unr. (stop $365.39, HWM $405.99) — earnings AC tonight
+  XLE  $58.65  +3.70% unr. (stop $54.41, HWM $60.45)
+  XLB  $51.56  -1.02% unr. (stop $47.50, HWM $52.78)
+  XLI  $176.64 -3.57% unr. (stop $165.98, HWM $184.42) ⚠️ 3.4% above -7% floor
+Tomorrow: MSFT earnings AC result → if beat, HWM advances; research 5th position (70.7% deployed, below target); monitor XLI vs $170.36 cut floor
