@@ -966,3 +966,45 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - Impact on portfolio: HOLD expected → MSFT neutral/positive; SPMO likely continues deteriorating regardless; hold statement already priced
 
 ---
+
+## 2026-07-29 — Pre-Market Research (~07:15 ET, Day 22 Wed)
+
+### Account
+- Equity: $101,659.00 | Cash: $24,214.23 (23.8%) | RegT buying power: $125,873.23
+- Long mkt value: $77,444.77 | Deployed: 76.2% — within 75–85% target
+- Day P&L: +$384.32 (+0.38%) vs last_equity $101,274.68 (Jul 28 close)
+- Phase P&L: +$1,659.00 (+1.66%) vs $100k baseline
+- Weekly buys: 0 (8 remaining). 5 open positions, all trailing stops verified active.
+
+### Market Context
+- **THE double-binary is TODAY:** FOMC decision 2:00pm ET (press conf 2:30) + MSFT earnings after close (~5:30pm ET). META + QCOM also report AC.
+- **FOMC:** Base case HOLD at 3.50–3.75% (5th consecutive), but ~33–38% hike tail risk priced. No dot plot (not an SEP meeting). Market focus is *language/tone*, not the decision. Hawkish statement → dollar up, momentum (SPMO) down; September hike still priced high.
+- **MSFT (Q4 FY26 AC):** Consensus rev ~$87.6–89.4B, EPS ~$4.21–4.33. Key watch = Azure: guided 39–40% CC prior quarter; street expects normalization to ~27–29%. Weak Azure/guidance → gap down; stop $365.391 backstop.
+- **S&P futures:** modestly higher +0.23% pre-market, near record (~7,575 e-mini). Dow -89 pts on chip/big-tech wobble.
+- **VIX:** ~15.8 (latest cited Jul 16; no live Jul 29 print) — low/complacent into a binary day.
+- **Oil:** WTI ~$68.77, Brent ~$71.86 — softening. EIA July update cut Brent to ~$74 Q3 avg, $65 in 2027; IEA sees demand −1 mb/d in 2026; JPM $60. Bearish *medium-term* oil = XLE headwind, though near-term firm (XLE +3.5%).
+- **Sector momentum YTD:** Energy #1 but State Street downgraded to Neutral (gains may cap upside). Tech still Positive. Cyclical (materials/industrials) rotation intact.
+- Pre-market earnings (not held): SOFI, COST, PG, GD, SBUX, HUM, BIIB, GRMN.
+
+### Position Check (pre-market snapshot)
+- **MSFT** 53 @ $370.73 | $394.61 (**+6.44%**, +$1,266). Stop $365.391 (HWM $405.99). ⚠️ Earnings AC tonight — largest binary. +15% tighten thresh $426.34 (~8% off). Stop $29 below price = full backstop room.
+- **SPMO** 40 @ $148.38 | $141.22 (**−4.83%**, −$286). Stop $136.125 (HWM $151.25). **−7% cut floor $138.00 — buffer $3.22 (2.3%).** FOMC hawk risk = direct threat. Critical watch.
+- **XLB** 291 @ $52.09 | $52.34 (**+0.48%**, +$72). Stop **$47.4975** (HWM **$52.775** — auto-advanced). Positive unrealized holding.
+- **XLE** 354 @ $56.56 | $58.55 (**+3.52%**, +$704). Stop $54.405 (HWM $60.45). Energy leader; oil softening is the slow-burn risk, stop does the work.
+- **XLI** 82 @ $183.18 | $182.00 (**−0.64%**, −$97). Stop $165.978 (HWM $184.42). −7% floor $170.36. Thesis intact.
+
+### Trade Ideas / Actions
+1. **HOLD all five.** Two macro binaries stacked on one day (FOMC 2pm + MSFT AC) = maximum patience. No new buys — no clean 6th slot, energy at cap, and adding risk ahead of the double-binary is reckless.
+2. **SPMO manual cut trigger: $138.00.** If breached intraday (likely on a hawkish FOMC), cut immediately per rule 5. Currently only 2.3% above.
+3. **MSFT post-earnings plan:** stop $365.391 is the discipline. If it gaps down through the stop overnight, the GTC order handles it at open (gap risk acknowledged). No pre-emptive trim — +6.4% cushion, thesis intact, let the trade work.
+
+### Risk Factors
+- FOMC hawkish surprise (hike or hawkish hold) → momentum/SPMO down, dollar up, possible broad de-risk.
+- MSFT Azure miss/soft guidance → overnight gap through stop.
+- Complacent VIX into stacked binaries = asymmetric downside if either surprises.
+- Oil's bearish medium-term revisions vs XLE's near-term strength.
+
+### Decision
+**HOLD all five. No trades.** Patience > activity — do not add or trim into the FOMC + MSFT double-binary. All 5 trailing stops verified active and correctly placed. SPMO is the live watch ($138.00 cut floor); MSFT is the overnight binary (stop backstop). Reassess at midday scan and post-FOMC.
+
+---
