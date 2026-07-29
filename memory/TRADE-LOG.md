@@ -547,3 +547,17 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Quiet Friday close heading into a high-stakes week — FOMC Jul 28 and MSFT earnings Jul 29 are the twin binaries. Portfolio finished +0.26% ($258.73) on the day. Biggest mover was XLB +1.91% to $51.25 as materials recovered, though still -1.62% unrealized; HWM stuck at $52.08, no stop advancement. XLE +0.39% to $59.61 (+5.39% unrealized, best position); stop at $54.405 (HWM $60.45). XLI +0.40% to $182.67, nearly breakeven (-0.28%) — stop auto-advanced to $165.51 (HWM $183.90). MSFT -0.22% to $380.75 (+2.70% unrealized) — pre-earnings dip, earnings Jul 29 AC; stop at $365.391 (HWM $405.99) provides backstop. SPMO biggest concern: -2.22% to $146.51 (-1.26% unrealized) as FOMC rate-cut thesis has shifted to hold/hike-risk — position is deteriorating; stop $136.125 still 7.1% below ($10.36 buffer) and -7% manual floor $138.00 not yet triggered ($8.51 buffer), so stop does the work. No trades today; 1 trade this week (SPMO; 7 remaining). Long mkt value $77,034.78, deployed 76.2%, within 75-85% target. Next session (Mon Jul 27 pre-market): FOMC Jul 28 setup, MSFT earnings prep; hold all 5 unless stops triggered over the weekend gap.
 
+---
+
+### Jul 29 — EOD Snapshot (Day 22, Wednesday)
+**Portfolio:** $101,338.37 | **Cash:** $29,736.25 (29.3%) | **Day P&L:** +$63.69 (+0.06%) | **Phase P&L:** +$1,338.37 (+1.34%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $402.86 | +2.42% | +$1,703.05 (+8.67%) | $365.391 (10% trail, HWM $405.99) |
+| XLB | 291 | $52.09 | $51.56 | -1.49% | -$154.98 (-1.02%) | $47.4975 (10% trail, HWM $52.775) |
+| XLE | 354 | $56.56 | $58.65 | +1.88% | +$739.86 (+3.70%) | $54.405 (10% trail, HWM $60.45) |
+| XLI | 82 | $183.18 | $176.64 | -3.21% | -$536.33 (-3.57%) | $165.978 (10% trail, HWM $184.42) |
+
+**Notes:** Binary-resolution day: FOMC held at 3.50-3.75% (1 cut projected 2026, mildly dovish); MSFT earnings AC tonight. Key intraday action: SPMO manually cut at -7% floor ($138.05 fill, realized -$413 / -6.96%) — rate-cut thesis dead, rule 5 applied. MSFT finished strongest at $402.86 (+2.42% today, +8.67% unrealized) ahead of earnings; stop $365.391 (HWM $405.99) backstops gap-down risk. XLE +1.88% to $58.65 (+3.70% unrealized); stop $54.405, HWM $60.45 intact. XLI -3.21% to $176.64 (-3.57% unrealized, -$536) — FOMC + macro selling hit industrials; ⚠️ $6.28 above -7% cut floor $170.36 (3.4% buffer); stop $165.978 (HWM $184.42) backstop. XLB -1.49% to $51.56 (-1.02% unrealized); stop $47.4975 (HWM $52.775) advancing. 1 trade today (SPMO close); 1 trade this week (7 buys remaining). Portfolio 70.7% deployed (4 positions, $71,602 long), cash $29,736 — below 75-85% target; new position possible tomorrow if MSFT earnings positive and tape recovers. Tighten MSFT trail to 7% when price hits $426.34 (+15% from entry).
+
