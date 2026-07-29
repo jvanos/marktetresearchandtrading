@@ -966,3 +966,39 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - Impact on portfolio: HOLD expected → MSFT neutral/positive; SPMO likely continues deteriorating regardless; hold statement already priced
 
 ---
+
+## 2026-07-29 — Market-Open Research (inline, ~09:33 ET, Day 22 Wed)
+*(No pre-market routine fired. Market open confirmed 09:30 ET. Prices live.)*
+
+### Account
+- Equity: $101,485.57 | Cash: $24,214.23 (23.9%) | Buying power: $313,216.68 (4x margin)
+- Deployed: MSFT $20,747 + SPMO $5,664 + XLB $15,100 + XLE $20,967 + XLI $14,808 = **$77,286 (~76.1%)** — within 75–85% target.
+- Weekly buys: **0 so far** (8 remaining). 5 open positions, all trailing stops active.
+- vs last_equity (Jul 28 $101,274.68): **+$210.89 (+0.21%)** — modestly higher at open.
+
+### Market Context
+- **FOMC decision today 2:00 PM ET (press conf. 2:30 PM ET).** Target range 3.50–3.75%. No dot plot at this meeting. Markets split on hold vs. hike: ~40% hike odds (piptheory/Perplexity) vs. ~60% hold. Warsh expected to signal hawkish bias regardless of decision. **This is the primary event risk of the day.**
+- **MSFT earnings after close today (AC)** — Q4 FY2026; consensus EPS ~$4.21–4.24 (+15.3% YoY), revenue ~$87.4–87.7B, Azure growth 39–40%. Double-binary with FOMC on the same day.
+- **No live S&P/VIX/oil prints confirmed by Perplexity** (data not available); using positions API for context. Jul 28 midday (Kiplinger): Dow +0.3% at 52,099, semis weak, mega-caps (MSFT/GOOGL) led.
+- Sector momentum YTD (carried from prior research): Energy >30% (leader), Industrials +14–20%, Materials +10–17%; Tech laggard (-3%). Portfolio aligned with leadership.
+
+### Position Check (live quotes — all spreads tight)
+- **MSFT** 53 @ $370.73 | **$391.45** (**+5.59%**, +$1,098). Day -0.48%. Bid $390.40/ask $391.32 (0.24% spread ✓). Stop $365.391, HWM $405.99, 10% trail (ID 529f2067). +15% tighten thresh $426.34 (~8.9% off). Earnings AC today — binary. No cut, no tighten.
+- **SPMO** 40 @ $148.38 | **$141.61** (**-4.56%**, -$271). Day +0.47%. Bid $141.62/ask $141.80 (0.13% spread ✓). Stop $136.125, HWM $151.25, 10% trail. **⚠️ -7% cut floor $138.00 — $3.61 buffer (2.5%).** Rate-cut thesis dead; FOMC pressure continues. Stop backstop; no cut (not at -7%). Manual trigger: if SPMO hits $138.00, cut immediately.
+- **XLB** 291 @ $52.09 | **$51.89** (**-0.39%**, -$59). Day -0.86%. Bid $51.85/ask $51.87 (0.04% spread ✓). Stop $47.4975, HWM $52.775, 10% trail. XLB has recovered dramatically (was -3.5% unrealized; now nearly breakeven). -7% floor $48.45. Thesis intact. No cut.
+- **XLE** 354 @ $56.56 | **$59.23** (**+4.72%**, +$945). Day +2.88%. Bid $59.25/ask $59.26 (0.02% spread ✓). Stop $54.405, HWM $60.45, 10% trail. Best position; energy leadership intact. +15% thresh $65.04. No tighten.
+- **XLI** 82 @ $183.18 | **$180.58** (**-1.42%**, -$213). Day -1.05%. Bid $180.60/ask $180.70 (0.06% spread ✓). Stop $165.978, HWM $184.42, 10% trail. -7% floor $170.36. Defense/electrification/AI-infra thesis intact. No cut.
+
+### Trade Ideas
+1. **HOLD all five.** No new buys. No cuts (SPMO not at -7% yet). No tightens (MSFT not at +15%).
+2. **SPMO manual cut trigger: $138.00.** If FOMC decision (2pm ET) or afternoon tape pushes SPMO to $138.00, cut immediately per rule 5 (-7% losers cut manually).
+3. **XLB recovery noted.** Unrealized P&L has gone from -3.5% to -0.39% — HWM at $52.775 now within striking distance; stop at $47.4975 (auto-advanced from $46.872 since Jul 28). If it crosses $52.775, HWM and stop both advance automatically.
+
+### Risk Factors
+- **FOMC 2pm ET + MSFT earnings AC = highest-risk session of the run.** Hike (~40% odds) = SPMO hits stop/floor fast; MSFT multiple compression. Hold + hawkish language = SPMO continues slow bleed.
+- **MSFT Azure miss (<38% growth) or weak guidance** = gap-down risk; stop $365.391 backstop (5.4% below current $391.45).
+- **SPMO -4.56% unrealized, $3.61 from -7% cut floor.** The one position most likely to need action today.
+- **XLE oil reversal risk:** Today's +2.88% move is strong; trailing stop auto-advances if HWM crossed. Iran de-escalation would reverse quickly.
+
+### Decision
+**HOLD all five. No new buys.** Today is the peak-binary session (FOMC 2pm + MSFT earnings AC). Deployment 76.1% (in-target). All stops active and verified. No cut/tighten thresholds crossed at open. The only action trigger today is the SPMO $138.00 manual cut floor — monitor closely around FOMC decision. Patience > activity.

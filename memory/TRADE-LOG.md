@@ -86,6 +86,20 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-07-29 — Market-Open Scan (~09:33 ET, Day 22 Wed)
+
+- **No trades.** HOLD all five. FOMC decision 2:00 PM ET + MSFT earnings AC = maximum-binary session. Deployment 76.1% (in-target). No cut/tighten thresholds crossed.
+- **MSFT** 53 @ $370.73 | $391.45 (**+5.59%**, +$1,098). Stop $365.391 (HWM $405.99, 10% trail). Day -0.48%. Spread 0.24% ✓. Earnings AC today; stop backstops gap-down risk. No cut, no tighten (+15% thresh $426.34 ~8.9% off).
+- **SPMO** 40 @ $148.38 | $141.61 (**-4.56%**, -$271). Stop $136.125 (HWM $151.25, 10% trail). Day +0.47%. Spread 0.13% ✓. **⚠️ -7% CUT FLOOR $138.00 — $3.61 buffer (2.5%).** Rate-cut thesis dead; FOMC at 2pm ET = continued pressure. Stop backstop; no manual cut yet. **Trigger: if SPMO hits $138.00, cut immediately.**
+- **XLB** 291 @ $52.09 | $51.89 (**-0.39%**, -$59). Stop **$47.4975** (HWM **$52.775** — auto-advanced from $47.25/$52.50 since Jul 28 EOD). Day -0.86%. Spread 0.04% ✓. Recovering (was -3.5% unr. at worst); nearly breakeven. No cut.
+- **XLE** 354 @ $56.56 | $59.23 (**+4.72%**, +$945). Stop $54.405 (HWM $60.45, 10% trail). Day +2.88%. Spread 0.02% ✓. Best position; energy leadership. +15% thresh $65.04. No tighten.
+- **XLI** 82 @ $183.18 | $180.58 (**-1.42%**, -$213). Stop $165.978 (HWM $184.42, 10% trail). Day -1.05%. Spread 0.06% ✓. -7% floor $170.36. Defense/electrification/AI-infra thesis intact. No cut.
+- **Portfolio:** $101,485.57 equity | Cash $24,214.23 (23.9%) | Deployed 76.1% ($77,271 long). Day P&L +$210.89 (+0.21%) vs Jul 28 close $101,274.68. Phase P&L +$1,485.57 (+1.49%). 0 trades this week (8 remaining).
+- **All 5 trailing stops verified active:** MSFT $365.391, SPMO $136.125, XLB $47.4975 (↑ auto-advanced), XLE $54.405, XLI $165.978. ✓
+- **Key watch:** ⚠️ SPMO at -4.56% ($3.61 above -7% floor $138.00); FOMC decision 2pm ET — hawkish hold or hike = SPMO pressure toward cut floor. MSFT earnings AC — stop $365.391 backstops gap-down. XLB nearly breakeven (HWM $52.775 approaching).
+
+---
+
 ## 2026-07-28 — Market-Open Scan (~09:34 ET, Day 21 Tue)
 
 - **No trades.** HOLD all five. FOMC Day 1 (meeting Jul 28-29; decision tomorrow ~2pm ET) + MSFT earnings tomorrow Jul 29 AC = double-binary Tuesday. Deployment 76.2% (in-target). No cut/tighten/stop thresholds crossed.
