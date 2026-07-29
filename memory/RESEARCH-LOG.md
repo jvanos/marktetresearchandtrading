@@ -1002,3 +1002,19 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **HOLD all five. No new buys.** Today is the peak-binary session (FOMC 2pm + MSFT earnings AC). Deployment 76.1% (in-target). All stops active and verified. No cut/tighten thresholds crossed at open. The only action trigger today is the SPMO $138.00 manual cut floor — monitor closely around FOMC decision. Patience > activity.
+
+### Midday Addendum (~13:03 ET) — SPMO cut, FOMC result
+
+**SPMO CUT at -7%:** Unrealized P&L reached -7.006% ($137.985). Market order executed ~13:03 ET, fill ~$138.05. Wrapper canceled trailing stop a42e1074. Realized P&L ~-$413 (-6.96%). Rule 5 applied.
+
+**FOMC RESULT (2pm ET): HOLD** — 3.50-3.75% unchanged. Dot plot revised to project **1 rate cut in 2026** (was 0 cuts / hike-risk). Mildly dovish pivot. Stocks sold off initially post-announcement (classic buy-the-rumor-sell-the-news). This is modestly positive for the remaining 4 cyclical positions medium-term; the hawkish-hold regime is easing marginally.
+
+**Remaining positions (~13:03 ET):**
+- MSFT: $395.57 (+6.70% unr.) — earnings AC tonight; no action
+- XLB: $51.58 (-0.98% unr.) — thesis intact, no cut
+- XLE: $58.795 (+3.95% unr.) — energy leadership, no tighten
+- XLI: $177.55 (-3.07% unr.) — -7% floor $170.36, $7.19 buffer; watch
+
+**Portfolio post-SPMO-exit:** Equity $101,093.51 | Cash $29,736.25 (29.4%) | Deployed 70.6% (4 positions). Day P&L -$181.17 (-0.18%). Phase P&L +$1,093.51 (+1.09%).
+
+**MSFT earnings AC:** Not yet announced as of this scan. Azure consensus 39-40% growth; EPS ~$4.21-4.24. Stop $365.391 backstops gap-down risk. Market-open routine tomorrow will assess post-earnings positioning and potential new buy to close deployment gap (70.6% vs 75-85% target).

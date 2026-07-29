@@ -13,7 +13,7 @@ No positions yet. Bot launches tomorrow.
 | 2026-07-07 | XLI | BUY | 82 | $183.18 | $165.87 trailing 10% GTC (HWM $184.30, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
 | 2026-07-07 | XLB | BUY | 291 | $52.09 | $47.25 trailing 10% GTC (HWM $52.50 ↑ auto-advanced, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
 | 2026-07-14 | XLE | BUY | 354 | $56.56 | $53.469 trailing 10% GTC (HWM $59.41, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
-| 2026-07-21 | SPMO | BUY | 40 | $148.38 | $136.125 trailing 10% GTC (HWM $151.25, order a42e1074) | $178.06 (+20%) | 2:1 | Momentum-factor ETF; closes deployment gap 70%→76%; ⚠️ rate-cut thesis invalidated (FOMC now hawkish hold); stop backstop |
+| ~~2026-07-21~~ | ~~SPMO~~ | ~~BUY~~ | ~~40~~ | ~~$148.38~~ | ~~CLOSED 2026-07-29 @ $138.05~~ | ~~$178.06~~ | ~~2:1~~ | ~~Momentum-factor ETF; rate-cut thesis dead; cut at -7% ($138.05 exit, realized -$413 / -6.96%)~~ |
 
 ### Jul 28 — EOD Snapshot (Day 21, Tuesday)
 **Portfolio:** $101,265.65 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$2.79 (+0.00%) | **Phase P&L:** +$1,265.65 (+1.27%)
@@ -97,6 +97,20 @@ No positions yet. Bot launches tomorrow.
 - **Portfolio:** $101,485.57 equity | Cash $24,214.23 (23.9%) | Deployed 76.1% ($77,271 long). Day P&L +$210.89 (+0.21%) vs Jul 28 close $101,274.68. Phase P&L +$1,485.57 (+1.49%). 0 trades this week (8 remaining).
 - **All 5 trailing stops verified active:** MSFT $365.391, SPMO $136.125, XLB $47.4975 (↑ auto-advanced), XLE $54.405, XLI $165.978. ✓
 - **Key watch:** ⚠️ SPMO at -4.56% ($3.61 above -7% floor $138.00); FOMC decision 2pm ET — hawkish hold or hike = SPMO pressure toward cut floor. MSFT earnings AC — stop $365.391 backstops gap-down. XLB nearly breakeven (HWM $52.775 approaching).
+
+---
+
+## 2026-07-29 — Midday Scan (~13:03 ET, Day 22 Wed)
+
+- **ACTION: CUT SPMO** — unrealized P&L hit -7.006% ($137.985 live; fill ~$138.05). Market order placed ~13:03 ET. Wrapper canceled trailing stop a42e1074 before closing. **Realized P&L: ~-$413 (-6.96%)** (40 sh @ $138.05 vs $148.38 entry; proceeds $5,522 - cost $5,935). Rule 5 applied. Thesis dead (rate-cut catalyst gone; FOMC hold confirmed today at 3.50-3.75% with 1 cut projected in 2026 — mildly dovish vs. prior hike-tail, but insufficient for SPMO momentum-factor; stop $136.125 was backstop, manual cut pre-empts). Exit price, realized P&L, and cut reason documented per rule.
+- **FOMC RESULT (2pm ET): HOLD** at 3.50-3.75%. Dot plot projects **1 rate cut in 2026** — mildly dovish pivot from hawkish expectations. Stocks saw initial sell-off post-announcement. Positive for remaining cyclical positions medium-term.
+- **MSFT:** $395.57 (**+6.70% unr., +$1,317**). Day +0.56%. Stop $365.391 (HWM $405.99, 10% trail). Earnings AC tonight. No cut, no tighten (+15% thresh $426.34 ~7.8% off).
+- **XLB:** $51.58 (**-0.98% unr., -$149**). Day -1.45%. Stop $47.4975 (HWM $52.775, 10% trail). Thesis intact. No cut.
+- **XLE:** $58.795 (**+3.95% unr., +$791**). Day +2.13%. Stop $54.405 (HWM $60.45, 10% trail). Energy leadership intact. No tighten.
+- **XLI:** $177.55 (**-3.07% unr., -$462**). Day -2.71%. Stop $165.978 (HWM $184.42, 10% trail). -7% floor $170.36 ($7.19 buffer, 4.1%). FOMC + macro selling on industrials; defense/electrification/AI-infra thesis intact. No cut.
+- **Portfolio:** $101,093.51 equity | Cash $29,736.25 (29.4%) | Deployed ~70.6% ($71,357 long). Day P&L -$181.17 (-0.18%) vs Jul 28 close $101,274.68. Phase P&L +$1,093.51 (+1.09%). 1 trade this week (SPMO close; 7 buys remaining). 4 open positions.
+- **All 4 trailing stops verified active:** MSFT $365.391 ✓, XLB $47.4975 ✓, XLE $54.405 ✓, XLI $165.978 ✓. SPMO stop a42e1074 canceled by wrapper at close.
+- **Key watch:** MSFT earnings AC tonight — binary; stop $365.391 backstops gap-down. XLI -3.07% unrealized, $7.19 above -7% floor ($170.36). Deployment now 70.6% (below 75-85%); new buy possible tomorrow on a clean setup if tape recovers. No forced add today — post-FOMC + earnings AC = max-binary evening.
 
 ---
 
