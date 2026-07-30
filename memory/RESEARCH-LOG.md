@@ -1018,3 +1018,44 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 **Portfolio post-SPMO-exit:** Equity $101,093.51 | Cash $29,736.25 (29.4%) | Deployed 70.6% (4 positions). Day P&L -$181.17 (-0.18%). Phase P&L +$1,093.51 (+1.09%).
 
 **MSFT earnings AC:** Not yet announced as of this scan. Azure consensus 39-40% growth; EPS ~$4.21-4.24. Stop $365.391 backstops gap-down risk. Market-open routine tomorrow will assess post-earnings positioning and potential new buy to close deployment gap (70.6% vs 75-85% target).
+
+---
+
+## 2026-07-30 — Pre-Market Research (~07:13 ET, Day 23 Thu)
+
+### Account (pre-market; MSFT gap included)
+- Equity: **$102,574.40** | Cash: **$29,736.23** (29.0%) | Buying power: $322,891.79 (4x)
+- vs last_equity (Jul 29 $101,158.68): **+$1,415.72 (+1.40%)** — driven by MSFT earnings gap.
+- Long mkt value $72,838.17 → **deployed 71.0%** (4 positions) — **below 75-85% target**.
+- Weekly buys: **0** (8 remaining). SPMO closed Jul 29 (rule-5 -7% cut). All 4 trailing stops active.
+- Phase P&L: **+$2,574.40 (+2.57%)** vs $100k baseline.
+
+### Market Context
+- **MSFT earnings (Jul 29 AC) = BEAT.** Rev $90.0B vs ~$87.7B cons; GAAP EPS $4.81; Microsoft Cloud +27% YoY. Stock gapping **+~9% to $425.68** pre-market — Azure/AI capex thesis validated. Our biggest position.
+- **Q2 GDP advance estimate today 8:30 AM ET** + PCE/personal income/jobless claims — the day's main macro catalyst. Bank of England rate decision also today.
+- **S&P futures ~7,477** (+~12, modestly higher); implied open roughly flat. Index prior close ~7,428.
+- **VIX ~18.2** (prior close), delayed ~18.9 — mildly elevated, not stressed.
+- **Oil elevated: WTI ~$84.90, Brent ~$88.26** (jumped ~3-6% over 2 sessions) — bullish for XLE. Valero earnings today (energy read-through).
+- **Sector momentum YTD:** Energy #1 (>+18-31%), Industrials & Materials strong cyclicals, Tech behind leaders. Portfolio aligned (XLE/XLI/XLB cyclical + MSFT tech).
+- Post-FOMC regime (Jul 29): held 3.50-3.75%, dot plot now projects 1 cut in 2026 (mildly dovish pivot) — marginally supportive for cyclicals.
+
+### Position Check (pre-market marks)
+- **MSFT** 53 @ $370.73 | **$425.68** (**+14.82%**, +$2,912). Stop $365.391, HWM $405.99, 10% trail. **⚠️ +15% tighten thresh $426.34 — only $0.66 away.** Earnings beat; strongest position.
+- **XLB** 291 @ $52.09 | **$51.75** (**-0.66%**, -$100). Stop $47.4975, HWM $52.775. Near breakeven; reshoring/materials thesis intact.
+- **XLE** 354 @ $56.56 | **$58.34** (**+3.15%**, +$630). Stop $54.405, HWM $60.45. Oil firm; energy leadership intact. +15% thresh $65.04.
+- **XLI** 82 @ $183.18 | **$177.63** (**-3.03%**, -$455). Stop $165.978, HWM $184.42. **-7% cut floor $170.36 — $7.27 above (4.1% buffer).** Defense/capex thesis intact; watch. Trane earnings today (industrials read).
+
+### Trade Ideas
+1. **HOLD all four** into GDP (8:30 ET). No pre-market action.
+2. **MSFT +15% tighten trigger $426.34** (7% trail). At market-open, if MSFT ≥ $426.34, tighten trailing stop 10%→7% per rule 6. Pre-market $425.68 — essentially at threshold; expect trigger at open.
+3. **Deployment gap (71.0% vs 75-85%).** Room for a 5th/6th position (8 weekly buys free). If GDP is benign and tape holds, consider adding to a leadership sector — Energy (XLE at 20% cap, blocked) or a fresh Industrials/Materials name / Financials (KKR/MA earnings strength). Default HOLD unless a clean catalyst-backed setup with 2:1 R:R appears at open.
+4. **XLI watch $170.36** manual -7% cut floor. If GDP miss drags industrials, honor rule 5.
+
+### Risk Factors
+- **Q2 GDP 8:30 ET** — a soft/hot print moves rate expectations and multiples; primary event risk.
+- **MSFT gap-up may fade** — buy-the-rumor risk; +9% pre-market can round-trip intraday. Stop $365.391 backstop (~14% below); tighten to 7% at open protects gains.
+- **Oil reversal** would pressure XLE (Iran de-escalation / inventory build).
+- **XLI -3.03% unrealized**, weakest holding; $7.27 from cut floor.
+
+### Decision
+**HOLD all four pre-market. No new buys before GDP.** Primary open-routine action: **tighten MSFT trail to 7% once price confirms ≥$426.34.** Re-assess deployment gap after 8:30 GDP — a 5th position is permissible if a clean setup appears, else patience. Deployment 71.0%; all stops active. Patience > activity.
