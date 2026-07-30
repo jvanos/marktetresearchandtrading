@@ -1056,3 +1056,9 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **EXECUTED: BUY XLP 160sh @ $85.85 market (order filled; trailing stop 10% GTC order e5e90c54 placed immediately).**
 - **BLOCKED: MSFT 5% trail tighten (cancel 529f2067 + new 5% GTC) — HTTP 422, order locked during HWM update. Human must act.**
 - Deployment 84.6% (in target ✓). All 5 stops verified active. No further trades today. 1 buy this week (7 remaining).
+
+### Afternoon Addendum (~13:05 ET)
+- **MSFT tighten completed:** Canceled order 529f2067 (10% trail). Placed new order 49c45e72 (5% trail, stop $433.124, HWM $455.92). HTTP 422 resolved by midday. +$22.28/sh additional protection secured.
+- **XLP -2.32% today:** Perplexity research confirms sector rotation, not company-specific. Post-MSFT-earnings risk-on environment rotating out of defensives (Consumer Staples, Utilities) into growth/tech. XLP behaving as expected defensive ballast — selling off during strong tech day. No thesis break. Stop $77.292 backstops downside. Thesis (Leading quadrant, defensive ballast) intact.
+- **XLI -3.21% unrealized ($177.305):** Ongoing FOMC-macro pressure on industrials. -7% floor $170.36 ($6.94 buffer, 3.9% above cut level). No new intraday catalyst. Stop $165.978 (HWM $184.42) handles exit. Thesis intact; monitoring closely.
+- **No new buys:** 5 positions, 84.6% deployed. No 6th slot. All stops verified.
