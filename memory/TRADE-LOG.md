@@ -9,11 +9,12 @@ No positions yet. Bot launches tomorrow.
 
 | Date | Ticker | Side | Shares | Entry | Stop | Target | R:R | Thesis |
 |---|---|---|---|---|---|---|---|---|
-| 2026-06-30 | MSFT | BUY | 53 | $370.73 | $355.995 trailing 10% GTC (HWM $395.55) | $444.87 (+20%) | 2:1 | Azure/O365 AI monetization; resilient in chip-sector correction (AVGO guidance miss); momentum factor intact (SPMO +21-33% YTD); VIX 17.7 (low fear) |
-| 2026-07-07 | XLI | BUY | 82 | $183.18 | $165.87 trailing 10% GTC (HWM $184.30, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
-| 2026-07-07 | XLB | BUY | 291 | $52.09 | $47.25 trailing 10% GTC (HWM $52.50 ↑ auto-advanced, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
-| 2026-07-14 | XLE | BUY | 354 | $56.56 | $53.469 trailing 10% GTC (HWM $59.41, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
+| 2026-06-30 | MSFT | BUY | 53 | $370.73 | ⚠️ $406.28 trailing 10% GTC (HWM $451.42, order 529f2067) — 5% trail warranted at +20% but cancel blocked (422); HUMAN: cancel 529f2067 and replace with 5% trail | $444.87 (+20%) ✅ EXCEEDED | 2:1 | Azure/O365 AI monetization; Q4 FY2026 blowout: Azure +43% ($100B annual ARR), EPS $4.74 vs $4.24 est, rev $90B vs $87.6B est — thesis fully confirmed |
+| 2026-07-07 | XLI | BUY | 82 | $183.18 | $165.978 trailing 10% GTC (HWM $184.42, order 7b7bcac5) | $219.92 (+20%) | 2:1 | Industrials +14.1% YTD; AI-electricity/data-center capex boom + defense spending; Dow at record (cyclical rotation out of chips); deploy vs 75-85% mandate |
+| 2026-07-07 | XLB | BUY | 291 | $52.09 | $47.4975 trailing 10% GTC (HWM $52.775 ↑ auto-advanced, order df3e04a9) | $62.53 (+20%) | 2:1 | Materials +17.4% YTD; data-center electrification + copper demand; inflation exposure; cyclical rotation thesis; deploy vs 75-85% mandate |
+| 2026-07-14 | XLE | BUY | 354 | $56.56 | $54.405 trailing 10% GTC (HWM $60.45 ↑ auto-advanced, order 31e547ca) | $67.87 (+20%) | 2:1 | Energy #1 momentum YTD; orderly oil de-escalation off Iran spike; June CPI 3.5% (beat 3.9% est.) clears binary risk; closes deployment gap 50%→70%; cyclical rotation intact |
 | ~~2026-07-21~~ | ~~SPMO~~ | ~~BUY~~ | ~~40~~ | ~~$148.38~~ | ~~CLOSED 2026-07-29 @ $138.05~~ | ~~$178.06~~ | ~~2:1~~ | ~~Momentum-factor ETF; rate-cut thesis dead; cut at -7% ($138.05 exit, realized -$413 / -6.96%)~~ |
+| 2026-07-30 | XLP | BUY | 160 | $85.85 | $77.26 trailing 10% GTC (HWM $85.84, order e5e90c54) | $103.02 (+20%) | 2:1 | Consumer Staples in Leading quadrant (sector rotation); only leading sector not already held; defensive ballast post-MSFT-earnings positive tape; closes deployment gap to 84.5% target |
 
 ### Jul 28 — EOD Snapshot (Day 21, Tuesday)
 **Portfolio:** $101,265.65 | **Cash:** $24,214.23 (23.9%) | **Day P&L:** +$2.79 (+0.00%) | **Phase P&L:** +$1,265.65 (+1.27%)
@@ -560,4 +561,19 @@ No positions yet. Bot launches tomorrow.
 | XLI | 82 | $183.18 | $176.64 | -3.21% | -$536.33 (-3.57%) | $165.978 (10% trail, HWM $184.42) |
 
 **Notes:** Binary-resolution day: FOMC held at 3.50-3.75% (1 cut projected 2026, mildly dovish); MSFT earnings AC tonight. Key intraday action: SPMO manually cut at -7% floor ($138.05 fill, realized -$413 / -6.96%) — rate-cut thesis dead, rule 5 applied. MSFT finished strongest at $402.86 (+2.42% today, +8.67% unrealized) ahead of earnings; stop $365.391 (HWM $405.99) backstops gap-down risk. XLE +1.88% to $58.65 (+3.70% unrealized); stop $54.405, HWM $60.45 intact. XLI -3.21% to $176.64 (-3.57% unrealized, -$536) — FOMC + macro selling hit industrials; ⚠️ $6.28 above -7% cut floor $170.36 (3.4% buffer); stop $165.978 (HWM $184.42) backstop. XLB -1.49% to $51.56 (-1.02% unrealized); stop $47.4975 (HWM $52.775) advancing. 1 trade today (SPMO close); 1 trade this week (7 buys remaining). Portfolio 70.7% deployed (4 positions, $71,602 long), cash $29,736 — below 75-85% target; new position possible tomorrow if MSFT earnings positive and tape recovers. Tighten MSFT trail to 7% when price hits $426.34 (+15% from entry).
+
+---
+
+## 2026-07-30 — Market-Open Scan (Day 23, Thursday)
+
+- **Action: BUY XLP 160sh @ $85.85 market.** Consumer Staples in Leading quadrant — only leading sector not already held. Closes deployment gap from 70.7% → 84.6% (in target). 10% trailing stop GTC placed immediately (order e5e90c54, HWM $85.88, stop $77.292).
+- **⚠️ MSFT TIGHTEN BLOCKED — HUMAN ACTION REQUIRED:** MSFT at $447.69 (+20.76% unr.) exceeds both +15% (7% trail) and +20% (5% trail) tighten thresholds. Current 10% trail (stop $406.278, HWM $451.42, order 529f2067) is still auto-advancing. Cancel order 529f2067 in Alpaca and place new sell trailing_stop trail_percent="5" qty="53" gtc for MSFT. Each dollar of delay costs ~$22.57/sh of protection vs the rule.
+- **MSFT** 53 @ $370.73 | **$447.69** (**+20.76%**, +$4,079). Day +$3,028.95 (+14.63%) — MSFT earnings blowout AC Jul 29 (Azure +43%, EPS $4.74 vs $4.24, rev $90B vs $87.6B). Stop $406.278 (HWM $451.42, 10% trail, order 529f2067). ⚠️ 5% trail warranted but cancel blocked (HTTP 422 during HWM update cycle).
+- **XLB** 291 @ $52.09 | **$51.76** (-0.64%, -$97). Day +$5.82 (+0.04%). Stop $47.4975 (HWM $52.775, 10% trail, order df3e04a9). Thesis intact.
+- **XLE** 354 @ $56.56 | **$58.395** (+3.24%, +$650). Day -$90.27 (-0.44%). Stop $54.405 (HWM $60.45, 10% trail, order 31e547ca). Energy leadership intact.
+- **XLI** 82 @ $183.18 | **$177.74** (-2.97%, -$446). Day +$88.56 (+0.61%). Stop $165.978 (HWM $184.42, 10% trail, order 7b7bcac5). -7% floor $170.36 ($7.38 buffer, 4.2% above floor). No cut.
+- **XLP** 160 @ $85.85 | **$85.685** (-0.19%, -$26) [NEW TODAY]. Day -$26.40. Stop $77.292 (HWM $85.88, 10% trail, order e5e90c54).
+- **Portfolio:** Long mktval $87,745.84 | Cash $16,000.23 (15.4%) | Deployed **84.6%** ✓ | Equity **$103,722.16** | Day P&L **+$2,563.48 (+2.53%)** (MSFT earnings surge) | Phase P&L **+$3,722.16 (+3.72%)** | 1 buy this week (XLP; 7 remaining).
+- **Stops verified:** All 5 trailing stops active (MSFT 529f2067, XLB df3e04a9, XLE 31e547ca, XLI 7b7bcac5, XLP e5e90c54).
+- **Next:** ⚠️ Human must cancel MSFT order 529f2067 and replace with 5% trailing stop. Monitor XLI (floor $170.36, $7.38 buffer). No new buys — 5 positions at 84.6%.
 
