@@ -606,3 +606,18 @@ No positions yet. Bot launches tomorrow.
 - **Stops verified:** All 5 active — MSFT 49c45e72 (5% ✓, HWM advancing), XLB df3e04a9, XLE 31e547ca, XLI 7b7bcac5, XLP e5e90c54.
 - **~52 min to close.** No new buys (5 positions, 84.7% deployed, at cap). Hold all into EOD.
 
+
+---
+
+### Jul 30 — EOD Snapshot (Day 23, Thursday)
+**Portfolio:** $104,339.32 | **Cash:** $16,000.23 (15.3%) | **Day P&L:** +$3,000.95 (+2.96%) | **Phase P&L:** +$4,339.32 (+4.34%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| MSFT | 53 | $370.73 | $456.65 | +16.93% | +$4,553.91 (+23.18%) | $435.756 (5% trail, HWM $458.69) |
+| XLB | 291 | $52.09 | $51.615 | -0.24% | -$138.97 (-0.92%) | $47.4975 (10% trail, HWM $52.775) |
+| XLE | 354 | $56.56 | $58.89 | +0.41% | +$824.82 (+4.12%) | $54.405 (10% trail, HWM $60.45) |
+| XLI | 82 | $183.18 | $178.14 | +0.84% | -$413.33 (-2.75%) | $165.978 (10% trail, HWM $184.42) |
+| XLP | 160 | $85.85 | $85.385 | -2.26% | -$74.40 (-0.54%) | $77.292 (10% trail, HWM $85.88) |
+
+**Notes:** Biggest day of the phase — MSFT earnings blowout (Azure +43%, EPS $4.74 vs $4.24 est.) drove MSFT +16.93% to $456.65 (+23.18% unrealized, +$4,553.91). At midday, MSFT trailing stop successfully tightened 10%→5% (stop $435.756, HWM $458.69, order 49c45e72) per rule: tighten to 5% at +20%. Market-open added XLP 160sh @$85.85, filling the deployment gap from SPMO exit (70.7%→84.7%); XLP -2.26% today on risk-on rotation into tech/growth — thesis intact, stop $77.292 (HWM $85.88). XLI recovering +0.84% to $178.14 (-2.75% unrealized); -7% floor $170.36, $7.78 buffer adequate. XLE +0.41% to $58.89 (+4.12%); HWM/stop unchanged. XLB -0.24% to $51.615 (-0.92%); stop $47.4975 (HWM $52.775). Portfolio 84.7% deployed (5 positions) — in target. 1 buy this week (XLP), 7 remaining. Phase P&L +$4,339.32 (+4.34%). Tomorrow Fri Jul 31: weekly review; hold all 5 unless stops triggered; watch XLI floor $170.36 ($7.78 buffer). MSFT 5% trail auto-advancing.

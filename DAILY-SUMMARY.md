@@ -215,3 +215,18 @@ Open positions (4):
   XLB  $51.56  -1.02% unr. (stop $47.50, HWM $52.78)
   XLI  $176.64 -3.57% unr. (stop $165.98, HWM $184.42) ⚠️ 3.4% above -7% floor
 Tomorrow: MSFT earnings AC result → if beat, HWM advances; research 5th position (70.7% deployed, below target); monitor XLI vs $170.36 cut floor
+
+---
+## 2026-07-30 19:30 UTC (ClickUp 403 fallback)
+EOD Jul 30
+Portfolio: $104,339 (+2.96% day, +4.34% phase)
+Cash: $16,000 (15.3%)
+Trades today: BUY XLP 160sh @$85.85 | MSFT stop 10%→5% tightened
+Open positions:
+  MSFT +23.2% (stop $435.76, 5% trail, HWM $458.69)
+  XLE +4.1% (stop $54.41, HWM $60.45)
+  XLI -2.8% (stop $165.98, floor $170.36 — $7.78 buf)
+  XLP -0.5% (stop $77.29, HWM $85.88)
+  XLB -0.9% (stop $47.50, HWM $52.78)
+All 5 trailing stops active ✓
+Tomorrow: Fri weekly review; hold all 5; watch XLI floor
