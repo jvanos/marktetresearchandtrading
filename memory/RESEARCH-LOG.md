@@ -1062,3 +1062,34 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 - **XLP -2.32% today:** Perplexity research confirms sector rotation, not company-specific. Post-MSFT-earnings risk-on environment rotating out of defensives (Consumer Staples, Utilities) into growth/tech. XLP behaving as expected defensive ballast — selling off during strong tech day. No thesis break. Stop $77.292 backstops downside. Thesis (Leading quadrant, defensive ballast) intact.
 - **XLI -3.21% unrealized ($177.305):** Ongoing FOMC-macro pressure on industrials. -7% floor $170.36 ($6.94 buffer, 3.9% above cut level). No new intraday catalyst. Stop $165.978 (HWM $184.42) handles exit. Thesis intact; monitoring closely.
 - **No new buys:** 5 positions, 84.6% deployed. No 6th slot. All stops verified.
+
+---
+
+## 2026-09-01 — Midday Scan (~13:04 ET)
+
+### Account
+- Equity: $107,646.81 | Cash: $20,301.11 (18.9%) | Buying power: $20,301.11
+- Deployed: XLB $15,186 + XLE $22,849 + XLI $14,128 + XLK $21,514 + XLP $13,670 = **$87,346 (81.1%)** — in 75-85% target
+- Day P&L: -$406.89 (-0.38%) vs last close $108,053.70
+- Phase P&L: +$7,646.81 (+7.65% vs $100k baseline)
+
+### Market Context
+- Perplexity API unavailable (401 auth error) — no live macro data pulled this scan
+- Known positions context from Alpaca live data only
+- Carry-forward macro: Energy sector continuing leadership (XLE +14.12% unrealized); Industrials under pressure (XLI -5.95%, approaching -7% manual cut); Technology (XLK) recently added, ~flat
+
+### Position Check (live, ~13:04 ET)
+- **XLB** 291 @ $52.09 | $52.185 (+0.18%, +$27). Day -0.96%. Stop $48.771 (HWM $54.19). Thesis intact.
+- **XLE** 354 @ $56.56 | $64.545 (+14.12%, +$2,827). Day +0.92%. Stop $58.446 (HWM $64.94). ⚠️ +15% tighten at $65.044 — only $0.499 away.
+- **XLI** 82 @ $183.18 | $172.29 (-5.95%, -$893). Day -1.62%. Stop $169.37 (HWM $188.185). ⚠️ -7% cut floor $170.36 — buffer $1.93 only.
+- **XLK** 117 @ $184.005 | $183.88 (-0.07%, -$15). Day -1.41%. Stop $169.86 (HWM $188.735). New position (Aug 20), thesis intact.
+- **XLP** 160 @ $85.85 | $85.435 (-0.48%, -$66). Day +0.54%. Stop $78.72 (HWM $87.465). Thesis intact.
+
+### Risk Factors
+- XLI within $1.93 of -7% manual cut floor; if it continues declining at today's rate (-1.62%), could trigger today
+- XLE nearing +15% tighten threshold — if hit, must cancel 31e547ca and place new 7% trail (verify not within 3% of current price first)
+- Perplexity unavailable limits thesis research quality
+- Documentation gap: MSFT exit and XLK entry between Jul 30–Aug 20 not in trade log
+
+### Decision
+**NO TRADES.** Hold all 5. No loser at -7%, no winner at +15%. Stops active. Deployment 81.1% in target. Manual cut trigger for XLI at $170.36 — if triggered, close immediately.
