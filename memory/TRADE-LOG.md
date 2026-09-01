@@ -621,3 +621,22 @@ No positions yet. Bot launches tomorrow.
 | XLP | 160 | $85.85 | $85.385 | -2.26% | -$74.40 (-0.54%) | $77.292 (10% trail, HWM $85.88) |
 
 **Notes:** Biggest day of the phase — MSFT earnings blowout (Azure +43%, EPS $4.74 vs $4.24 est.) drove MSFT +16.93% to $456.65 (+23.18% unrealized, +$4,553.91). At midday, MSFT trailing stop successfully tightened 10%→5% (stop $435.756, HWM $458.69, order 49c45e72) per rule: tighten to 5% at +20%. Market-open added XLP 160sh @$85.85, filling the deployment gap from SPMO exit (70.7%→84.7%); XLP -2.26% today on risk-on rotation into tech/growth — thesis intact, stop $77.292 (HWM $85.88). XLI recovering +0.84% to $178.14 (-2.75% unrealized); -7% floor $170.36, $7.78 buffer adequate. XLE +0.41% to $58.89 (+4.12%); HWM/stop unchanged. XLB -0.24% to $51.615 (-0.92%); stop $47.4975 (HWM $52.775). Portfolio 84.7% deployed (5 positions) — in target. 1 buy this week (XLP), 7 remaining. Phase P&L +$4,339.32 (+4.34%). Tomorrow Fri Jul 31: weekly review; hold all 5 unless stops triggered; watch XLI floor $170.36 ($7.78 buffer). MSFT 5% trail auto-advancing.
+
+---
+
+## 2026-09-01 — Midday Scan (~13:04 ET)
+
+**⚠️ DOCUMENTATION GAP NOTED:** MSFT 5% trailing stop (order 49c45e72, set Jul 30 at $435.756) was triggered between Jul 30 and Aug 20 — exact date, fill price, and realized P&L undocumented. XLK (117sh @ $184.005, order e68e69b7) was entered Aug 20 (order created 2026-08-20T13:38 UTC) — no prior log entry. These positions reflect live Alpaca state as of today.
+
+**No action taken.** No losers at -7%; no winners at +15%/+20% yet. All theses evaluated. All 5 stops verified active.
+
+- **XLB:** $52.185 (**+0.18% unr., +$27**). Day -0.96%. Stop $48.771 (HWM $54.19, 10%, df3e04a9). -7% floor $48.45. Materials/reshoring/AI-infra thesis intact. No cut.
+- **XLE:** $64.545 (**+14.12% unr., +$2,827**). Day +0.92%. Stop $58.446 (HWM $64.94, 10%, 31e547ca). ⚠️ **+15% tighten threshold $65.044 only $0.499 (0.77%) away.** If XLE crosses $65.04, tighten trail to 7%. Energy leadership intact. No tighten yet.
+- **XLI:** $172.29 (**-5.95% unr., -$893**). Day -1.62%. Stop $169.37 (HWM $188.185, 10%, 7b7bcac5). ⚠️ **-7% cut floor $170.36 — buffer only $1.93 (1.12%).** Defense/electrification/AI-infra thesis — Perplexity unavailable (401 error); thesis assumed intact absent contradicting data. No cut (not at -7%); stop backstop at $169.37. **If XLI hits $170.36, cut immediately.**
+- **XLK:** $183.88 (**-0.07% unr., -$15**). Day -1.41%. Stop $169.86 (HWM $188.735, 10%, e68e69b7). -7% floor $170.88. Technology/AI momentum thesis intact. No cut.
+- **XLP:** $85.435 (**-0.48% unr., -$66**). Day +0.54%. Stop $78.72 (HWM $87.465, 10%, e5e90c54). -7% floor $79.84. Consumer Staples defensive ballast thesis intact. No cut.
+
+- **Portfolio:** Long mktval $87,346 | Cash $20,301.11 (18.9%) | Deployed **81.1%** (in-target) | Equity **$107,646.81** | Day P&L **-$406.89 (-0.38%)** vs last close $108,053.70 | Phase P&L **+$7,646.81 (+7.65%)** | 0 new buys this session.
+- **All 5 trailing stops verified active:** XLB df3e04a9 ✓, XLE 31e547ca ✓, XLI 7b7bcac5 ✓, XLK e68e69b7 ✓, XLP e5e90c54 ✓.
+- **Key watches:** ⚠️ XLI $170.36 manual cut floor (buffer $1.93, today -1.62% — approaching rapidly). ⚠️ XLE $65.044 tighten trigger (buffer $0.499, today +0.92% — could cross today). **Perplexity API unavailable (401) — no thesis research possible this scan.**
+- **Deployment:** 81.1% — within 75-85% target. No new buy needed.
