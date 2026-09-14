@@ -624,6 +624,25 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-09-14 — Midday Scan (~13:02 ET)
+
+**⚠️ DOCUMENTATION GAP (Sep 1 → Sep 14):**
+- **XLI stopped out:** 82 @ $183.18 — stop 7b7bcac5 triggered (was at $169.37 on Sep 1 with $1.93 buffer to -7% floor). Exact fill and date undocumented. Est. realized loss ~-$1,132 (~-7.5% on position). XLI no longer held.
+- **XLE trail tightened 10% → 7%:** Order 31e547ca replaced by 9611e8c4 (created Sep 2). XLE must have crossed +15% threshold ($65.044) on or around Sep 2. Current HWM $66.17, stop $61.5381.
+
+**No action taken today.** No loser at -7%. No new tighten threshold reached. All 4 stops verified active.
+
+- **XLB** 291 @ $52.09 | **$50.585** (**-2.89%**, -$438.70). Day -0.72%. Stop $48.771 (10% trail, HWM $54.19, df3e04a9). -7% floor $48.44 ($2.14 buffer). Materials/reshoring thesis intact.
+- **XLE** 354 @ $56.56 | **$64.65** (**+14.30%**, +$2,863.86). Day -0.75%. Stop $61.5381 (7% trail ✓ already tightened, HWM $66.17, 9611e8c4). +20% thresh $67.87 ($3.22 away). Energy leadership intact.
+- **XLK** 117 @ $184.005 | **$185.32** (**+0.72%**, +$153.84). Day -1.25%. Stop $170.1675 (10% trail, HWM $189.075, e68e69b7). -7% floor $171.12 ($14.20 buffer). Tech/AI thesis intact.
+- **XLP** 160 @ $85.85 | **$84.535** (**-1.53%**, -$210.40). Day +1.39%. Stop $78.7185 (10% trail, HWM $87.465, e5e90c54). -7% floor $79.84 ($4.70 buffer). Defensive ballast thesis intact.
+
+- **Portfolio:** Long mktval $72,814 | Cash $34,116.47 (31.9%) | Deployed **68.1%** ⚠️ BELOW 75-85% target (XLI exit created gap; 1 slot available) | Equity **$106,904.84** | Phase P&L **+$6,904.84 (+6.90%)** | 0 buys this week.
+- **All 4 trailing stops verified active:** XLB df3e04a9 ✓, XLE 9611e8c4 (7% ✓), XLK e68e69b7 ✓, XLP e5e90c54 ✓.
+- **Next action:** Market-open tomorrow (Tue Sep 15) — research 1 new Leading-quadrant sector position to close deployment gap (68.1% → 75-85%). Candidates: check RRG/sector momentum at open.
+
+---
+
 ## 2026-09-01 — Midday Scan (~13:04 ET)
 
 **⚠️ DOCUMENTATION GAP NOTED:** MSFT 5% trailing stop (order 49c45e72, set Jul 30 at $435.756) was triggered between Jul 30 and Aug 20 — exact date, fill price, and realized P&L undocumented. XLK (117sh @ $184.005, order e68e69b7) was entered Aug 20 (order created 2026-08-20T13:38 UTC) — no prior log entry. These positions reflect live Alpaca state as of today.
