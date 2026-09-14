@@ -1093,3 +1093,9 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 
 ### Decision
 **NO TRADES.** Hold all 5. No loser at -7%, no winner at +15%. Stops active. Deployment 81.1% in target. Manual cut trigger for XLI at $170.36 — if triggered, close immediately.
+
+---
+
+## 2026-09-14 — Midday Scan Note (~13:02 ET)
+
+No Perplexity research triggered — no position moving sharply with unknown cause. Largest intraday move: XLK -1.25% (broad tech sector softness, no single-stock catalyst). All theses assumed intact. Key alert for tomorrow market-open: portfolio 68.1% deployed (4 positions, XLI slot open). Research 1 Leading-quadrant sector for entry.
