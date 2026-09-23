@@ -1099,3 +1099,13 @@ HOLD — no new positions today. MSFT profitable and protected. Do NOT add ahead
 ## 2026-09-14 — Midday Scan Note (~13:02 ET)
 
 No Perplexity research triggered — no position moving sharply with unknown cause. Largest intraday move: XLK -1.25% (broad tech sector softness, no single-stock catalyst). All theses assumed intact. Key alert for tomorrow market-open: portfolio 68.1% deployed (4 positions, XLI slot open). Research 1 Leading-quadrant sector for entry.
+
+---
+
+## 2026-09-23 — Midday Addendum (~13:12 ET)
+
+- **Perplexity API unavailable (401)** — no external research possible. Third consecutive scan with this error (Sep 1, Sep 14, Sep 23). Thesis assessments based on live Alpaca data only.
+- **XLB -3.20% unrealized ($50.425):** No new catalyst identified. Trailing stop at $48.771 (HWM $54.19, 10% trail) — buffer $1.65 (3.3%). -7% manual floor $48.44. Stop will trigger before manual floor; no action today.
+- **XLK +5.63% unrealized ($194.36):** Tech/AI sector. No sharp intraday move (day -0.97% — broad sector softness, no specific catalyst identified). +15% tighten thresh $211.61 (~8.9% away). No action.
+- **XLP -4.01% unrealized ($82.41):** Consumer Staples defensive ballast. Day -0.39% — benign. -7% floor $79.84 ($2.57 buffer). No action.
+- **Portfolio 47.5% deployed** — significantly below 75-85% target. XLE stopped out since Sep 14 (undocumented). Market-open tomorrow: research 2 new Leading-quadrant sector positions.
