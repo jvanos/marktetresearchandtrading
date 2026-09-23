@@ -624,6 +624,25 @@ No positions yet. Bot launches tomorrow.
 
 ---
 
+## 2026-09-23 — Midday Scan (~13:12 ET)
+
+**⚠️ DOCUMENTATION GAP (Sep 14 → Sep 23):**
+- **XLE stopped out:** 354 @ $56.56 — stop 9611e8c4 (7% trail, HWM $66.17, stop $61.5381 at Sep 14) triggered between Sep 14–23. Exact fill and date undocumented. Est. realized gain ≈ $61.54 fill → ~+$1,762 (+8.8% on position). XLE no longer held.
+- Portfolio reduced 4 → 3 positions; deployment fell 68.1% → 47.5%.
+
+**No action taken.** No loser at -7%. No winner at +15%/+20%. All theses intact.
+
+- **XLB** 291 @ $52.09 | **$50.425** (**-3.20%**, -$485). Day -0.21%. Stop $48.771 (10% trail, HWM $54.19, df3e04a9). -7% floor $48.44 ($1.98 buffer, 3.9%). ⚠️ Within 3.3% of trailing stop $48.771. Materials/reshoring thesis intact. No cut.
+- **XLK** 117 @ $184.005 | **$194.36** (**+5.63%**, +$1,212). Day -0.97%. Stop $177.012 (10% trail, HWM $196.68, e68e69b7). -7% floor $171.12. +15% tighten thresh $211.61 (~8.9% away). Tech/AI thesis intact. No cut, no tighten.
+- **XLP** 160 @ $85.85 | **$82.41** (**-4.01%**, -$550). Day -0.39%. Stop $78.7185 (10% trail, HWM $87.465, e5e90c54). -7% floor $79.84 ($2.57 buffer, 3.1%). Defensive ballast thesis intact. No cut.
+
+- **Portfolio:** Long mktval $50,608 | Cash $55,895 | Deployed **47.5%** ⚠️ WELL BELOW 75-85% target | Equity **$106,502.84** | Day P&L **-$296.92 (-0.28%)** vs last close $106,799.76 | Phase P&L **+$6,502.84 (+6.50%)** | 0 buys this week.
+- **All 3 trailing stops verified active:** XLB df3e04a9 ✓, XLK e68e69b7 ✓, XLP e5e90c54 ✓.
+- **Perplexity API unavailable (401)** — no external research possible this scan. Same error as Sep 1 and Sep 14.
+- **⚠️ KEY ALERT:** Deployment 47.5% — 2 new positions needed to reach 75-85% target ($10,650–$13,300 per position at 10-13% each, or up to $20k at 20%). Market-open tomorrow: research 2 Leading-quadrant sector entries. Candidates: sector RRG momentum check at open; XLB close to stop/floor — monitor; XLP and XLK theses intact but needing companion positions.
+
+---
+
 ## 2026-09-14 — Midday Scan (~13:02 ET)
 
 **⚠️ DOCUMENTATION GAP (Sep 1 → Sep 14):**
