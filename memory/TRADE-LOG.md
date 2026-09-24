@@ -622,6 +622,16 @@ No positions yet. Bot launches tomorrow.
 
 **Notes:** Biggest day of the phase — MSFT earnings blowout (Azure +43%, EPS $4.74 vs $4.24 est.) drove MSFT +16.93% to $456.65 (+23.18% unrealized, +$4,553.91). At midday, MSFT trailing stop successfully tightened 10%→5% (stop $435.756, HWM $458.69, order 49c45e72) per rule: tighten to 5% at +20%. Market-open added XLP 160sh @$85.85, filling the deployment gap from SPMO exit (70.7%→84.7%); XLP -2.26% today on risk-on rotation into tech/growth — thesis intact, stop $77.292 (HWM $85.88). XLI recovering +0.84% to $178.14 (-2.75% unrealized); -7% floor $170.36, $7.78 buffer adequate. XLE +0.41% to $58.89 (+4.12%); HWM/stop unchanged. XLB -0.24% to $51.615 (-0.92%); stop $47.4975 (HWM $52.775). Portfolio 84.7% deployed (5 positions) — in target. 1 buy this week (XLP), 7 remaining. Phase P&L +$4,339.32 (+4.34%). Tomorrow Fri Jul 31: weekly review; hold all 5 unless stops triggered; watch XLI floor $170.36 ($7.78 buffer). MSFT 5% trail auto-advancing.
 
+## 2026-09-24 — Market-Open Scan (~09:33 ET)
+
+- **No trades.** HOLD all 3. Perplexity API unavailable (401) — 4th consecutive scan (Sep 1, Sep 14, Sep 23, Sep 24). Cannot verify sector momentum or document catalyst thesis. Entry checklist cannot be satisfied; no new buys.
+- **XLB** 291 @ $52.09 | **$50.12** (**-3.79%**, -$574). Day -0.32%. Spread $0.01 ✓. Stop $48.771 (10% trail, HWM $54.19, df3e04a9). Buffer to stop: $1.35 (2.7%) ⚠️. -7% floor $48.45. No cut.
+- **XLK** 117 @ $184.005 | **$192.76** (**+4.76%**, +$1,024). Day -1.32%. Spread $0.06 ✓. Stop $177.012 (10% trail, HWM $196.68, e68e69b7). +15% tighten thresh $211.61 (~9.8% off). No tighten.
+- **XLP** 160 @ $85.85 | **$82.90** (**-3.44%**, -$472). Day +0.57%. Spread $0.01 ✓. Stop $78.7185 (10% trail, HWM $87.465, e5e90c54). -7% floor $79.84 ($3.06 buffer). No cut.
+- **Portfolio:** Equity $106,296.98 | Cash $55,895.14 | Deployed **47.4%** ⚠️ | Day P&L **-$273.22 (-0.26%)** vs Sep 23 close $106,570.20 | Phase P&L **+$6,296.98 (+6.30%)** | 0 buys this week.
+- **All 3 trailing stops verified active:** XLB df3e04a9 ✓, XLK e68e69b7 ✓, XLP e5e90c54 ✓.
+- **⚠️ CRITICAL:** Perplexity API down 4+ weeks. No thesis/catalyst research possible. Deployment 47.4% — 2 positions needed. HUMAN ACTION REQUIRED: restore Perplexity API key or manually authorize sector entries.
+
 ---
 
 ## 2026-09-23 — Midday Scan (~13:12 ET)
