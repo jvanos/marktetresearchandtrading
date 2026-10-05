@@ -1157,3 +1157,12 @@ No Perplexity research triggered — no position moving sharply with unknown cau
 - **Deployment 73.7%** — marginally below target; acceptable, no forced buy without a clean catalyst.
 - **Market-open priority:** monitor **XLP** for -7% manual cut at $79.84. If XLP opens/trades ≤ $79.84, cut immediately (Rule 5).
 - Perplexity restored — thesis research quality back to normal.
+
+### Re-verification (~07:05 ET, pre-open — 2nd pre-market firing)
+- Live state confirms earlier entry; no change since 03:35 UTC write (markets closed Fri Oct 2 → Mon pre-open, no new data).
+- Equity **$106,734.23** | Cash/BP **$28,117.05** | Long mktval $78,617.18 | Deployed **73.7%**. Last equity $106,843.28 (flat).
+- **XLE** $62.57 (+1.81%, +$377). Stop $56.646 (b7bc6677) ✓.
+- **XLK** $199.83 (+8.60%, +$1,852). Stop $181.251 (e68e69b7) ✓. +15% tighten $211.61 (~6% away).
+- **XLP** $80.50 (**-6.23%**, -$856). Stop $78.7185 (e5e90c54) ✓. ⚠️ **-7% cut floor $79.84 — buffer $0.66 (0.82%).** Still the day's priority watch; cut at open if ≤ $79.84.
+- **XLV** $166.01 (+0.05%, +$10). Stop $149.85 (a926a245) ✓.
+- All 4 stops active. **Decision unchanged: HOLD; monitor XLP at open.** No duplicate research run (pre-open data unchanged).
