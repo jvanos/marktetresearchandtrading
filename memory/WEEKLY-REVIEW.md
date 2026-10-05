@@ -45,6 +45,73 @@ here for human review; do not edit TRADING-STRATEGY.md directly.)
 
 ---
 
+## Week ending 2026-10-02
+
+*Note: Review runs Mon Oct 5 (market closed). Last trading day was Fri Oct 2. Documentation gaps exist: XLB stop-out and new XLE/XLV entries occurred between Sep 24–Oct 2 without trade-log commits — positions inferred from live Alpaca state. Perplexity API restored this session (had been returning 401 for 4+ prior weeks). ⚠️ CRITICAL: XLP at -6.20% unrealized, only $0.69 above -7% cut floor ($79.84) — monitor for forced cut at next open.*
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | ~$106,297 (Sep 24 EOD — exact Sep 28 open unknown; documentation gap) |
+| Ending portfolio | $106,815.76 |
+| Week return | ~+$519 (~+0.49%) — estimated; starting equity uncertain |
+| S&P 500 week | -0.30% (week ending Oct 2) |
+| Bot vs S&P | ~+0.79% (estimated) |
+| Trades | 3 est. (W:0 / L:1 / open:4) — XLB close + XLE+XLV opens; exact dates undocumented |
+| Win rate | 0% (1 closed trade this week, a loss) |
+| Best trade | XLK +9.05% unrealized |
+| Worst trade | XLP -6.20% unrealized ⚠️ near -7% floor |
+| Profit factor | N/A (no winners closed) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| XLB | $52.09 (291sh) | ~$48.77 (trailing stop) | ~-$966 (~-6.4%) | Stop df3e04a9 triggered Sep 24–Oct 2; exact date/fill undocumented. HWM $54.19, stop $48.771 at Sep 24 |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| XLE | $61.46 (340sh) | $62.45 | +$336.60 (+1.61%) | $56.646 (10% trail, HWM $62.94, order b7bc6677) |
+| XLK | $184.005 (117sh) | $200.65 | +$1,947.45 (+9.05%) | $181.251 (10% trail, HWM $201.39, order e68e69b7) |
+| XLP | $85.85 (160sh) | $80.53 | -$851.20 (-6.20%) ⚠️ | $78.7185 (10% trail, HWM $87.465, order e5e90c54) |
+| XLV | $165.93 (127sh) | $166.18 | +$31.75 (+0.15%) | $149.85 (10% trail, HWM $166.50, order a926a245) |
+
+**Deployment:** $78,698.71 long / $106,815.76 equity = **73.7%** (below 75–85% target; cash $28,117)
+**Phase P&L:** +$6,815.76 (+6.82%) vs $100,000 baseline | S&P 500 YTD: +12.81% — bot trailing YTD benchmark significantly
+
+### What Worked
+- XLK (Technology ETF) at +9.05% unrealized — Nasdaq hit record high this week (+0.5%); tech/AI momentum carrying the position well toward +15% tighten threshold ($211.61)
+- XLE re-entry at $61.46 generating a small gain (+1.61%) on its first week; trailing stop already auto-advancing (HWM $62.94)
+- Portfolio held positive for the week (~+0.49%) while S&P fell -0.30%; outperformed by ~+0.79%
+- All 4 trailing stops verified active and correctly placed
+- Perplexity API restored this session — research capability back online after 4+ weeks of 401 errors
+
+### What Didn't Work
+- XLP at -6.20% unrealized (⚠️ CRITICAL: only $0.69 above -7% cut floor $79.84); consumer staples pulled back on the week as rate-sensitive sectors underperformed; HWM $87.465 from Jul 30, no advancement in 9+ weeks
+- XLB stopped out ~-6.4% realized; XLB's slow bleed from July (fundamentally downgraded Jul 8, sub-$50 from Sep 24) finally triggered the trailing stop — should have been cut manually weeks earlier when below -7%
+- Documentation breakdown: 3 trades (XLB close, XLE re-entry, XLV new entry) occurred without trade-log commits — critical traceability gap
+- Perplexity API was down 401 for Sep 1, Sep 14, Sep 23, Sep 24 scans; 4+ weeks of blind thesis research prevented informed sector rotation
+- Deployment at 73.7% (below 75–85% target); $28k cash idle
+- Portfolio YTD significantly trailing S&P 500 (+6.82% vs +12.81% YTD S&P)
+
+### Key Lessons
+- XLP held 9+ weeks with HWM frozen at entry; this is the XLB pattern repeating — if HWM doesn't advance for 3+ weeks and sector headwinds persist, take the exit before the -7% floor is inevitable
+- Trailing stop (stop $78.72) fell below -7% cut floor ($79.84) — this means the stop might not protect to the -7% rule; the manual cut rule exists for exactly this scenario; must check position-stop vs -7% floor alignment after each trailing stop auto-advance
+- API dependencies are single points of failure; four straight weeks without Perplexity caused thesis research blackout that impaired sector rotation decisions; need contingency (web search alternative)
+- Commit every trade immediately — the XLB/XLE/XLV undocumented trades create portfolio reconstruction headaches and make it impossible to compute accurate weekly attribution
+
+### Adjustments for Next Week
+- **XLP IMMEDIATE WATCH:** If XLP opens at or below $79.84 (-7% floor), cut immediately via market order (do NOT wait for stop at $78.72); thesis has clearly broken (HWM $87.465 frozen since Jul 30; -6.20% unrealized with 0.86% buffer to cut floor)
+- XLK approaching +15% tighten threshold ($211.61 = HWM $201.39 would need to reach ~$211.61); pre-plan 7% trail replacement if hit intraday
+- XLV near-flat (+0.15%); verify health care thesis — sector pulled back this week; if thesis broke, exit candidate
+- Deploy remaining $28k cash (73.7% → ~80%) IF XLP exits (opens a slot) and a clean Leading-quadrant sector entry presents; do NOT force into a bad tape
+- Restart daily EOD snapshots and trade commits — log all positions nightly even in low-activity sessions
+- Research XLK's sector momentum status; Nasdaq at record suggests tech leading; is there a concentrated name better than the broad ETF?
+
+### Overall Grade: C
+
+---
+
 ## Week ending 2026-07-24
 
 *Note: Market open all 4 trading days (Jul 21–24; Mon–Fri, 4 days; Jul 20 was a Sunday). No HALT file. Market closed at 4 PM ET; this review ran after market close. FOMC Jul 28 and MSFT earnings Jul 29 are the twin binaries heading into next week.*
