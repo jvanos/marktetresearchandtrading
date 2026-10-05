@@ -1109,3 +1109,51 @@ No Perplexity research triggered — no position moving sharply with unknown cau
 - **XLK +5.63% unrealized ($194.36):** Tech/AI sector. No sharp intraday move (day -0.97% — broad sector softness, no specific catalyst identified). +15% tighten thresh $211.61 (~8.9% away). No action.
 - **XLP -4.01% unrealized ($82.41):** Consumer Staples defensive ballast. Day -0.39% — benign. -7% floor $79.84 ($2.57 buffer). No action.
 - **Portfolio 47.5% deployed** — significantly below 75-85% target. XLE stopped out since Sep 14 (undocumented). Market-open tomorrow: research 2 new Leading-quadrant sector positions.
+
+---
+
+## 2026-10-05 — Pre-market Research
+
+### Account
+- Equity: $106,836.16 | Cash: $28,117.05 | Buying power: $28,117.05
+- Long mktval: $78,719.11 | Deployed **73.7%** ⚠️ (just below 75-85% target)
+- Day P&L: -$7.12 (-0.01%) vs last equity $106,843.28
+- Phase P&L: **+$6,836.16 (+6.84%** vs $100k baseline)
+- Positions: 4 (XLE, XLK, XLP, XLV). XLB stopped out since Sep 23 (undocumented).
+
+### Market Context
+- **TIPS Breakeven (10y):** ~2.35-2.36% (Oct 2) — inflation expectations anchored, slightly elevated.
+- **Yield curve:** 2Y 4.83% / 10Y 5.28% / 30Y 5.63% (Oct 2). Upward-sloping; 30Y near highest since 2004. Long-end yields a persistent equity headwind.
+- **WTI / Brent:** ~$90.3 / ~$91.1 — **elevated**; oil spike on Middle East tensions. Tailwind for XLE, margin/inflation pressure elsewhere.
+- **S&P 500 futures:** ~7,777, **+0.69%** (last print Oct 2 close; premarket constructive).
+- **VIX:** ~15.3 — low/calm.
+- **Today's catalysts:** ISM Services PMI (~55.3 exp vs 55.4 prior) — main scheduled print. Treasury yields + oil remain primary drivers. AI/semis leadership intact.
+- **Earnings before open:** None material; Q3 season starts in earnest mid-to-late October.
+- **Week ahead:** FOMC minutes Tue Oct 7 (2pm ET); CPI Oct 14; PPI Oct 15; FOMC meeting Oct 27-28. Sep jobs (released Oct 2) = only **29k** added — weak, dovish for rates.
+- **Sector momentum YTD:** Energy leader (~+40%); Healthcare uptrend; Staples defensive leader (near ATH); Tech mixed but strong recently (XLK +3.8% last week on NVDA/AMD/AVGO).
+- **NOTE: Perplexity API restored** — was down (401) 4+ weeks (Sep 1/14/23 scans). Full research available again this run.
+
+### Position Check (pre-open; XLP/XLV prices = last close)
+- **XLE** 340 @ $61.46 | **$62.51** (**+1.71%**, +$357). Stop $56.646 (10% trail, HWM $62.94, b7bc6677). Energy leadership + oil spike = thesis intact. No action.
+- **XLK** 117 @ $184.005 | **$200.65** (**+9.05%**, +$1,947). Stop $181.251 (10% trail, HWM $201.39, e68e69b7). +15% tighten thresh $211.61 (~5.5% away — not yet). AI/semis strength intact. No action.
+- **XLP** 160 @ $85.85 | **$80.53** (**-6.20%**, -$851). Stop $78.7185 (10% trail, HWM $87.465, e5e90c54). ⚠️ **-7% manual cut floor $79.84 — buffer only $0.69 (0.86%).** Weakest position; defensive staples lagging in risk-on tape. **Stop order expires Oct 28.**
+- **XLV** 127 @ $165.93 | **$166.18** (**+0.15%**, +$32). Stop $149.85 (10% trail, HWM $166.5, a926a245). New position (~Oct 2). Healthcare uptrend thesis intact. No action.
+- **All 4 trailing stops verified active.**
+
+### Trade Ideas
+1. **XLP — cut trigger watch (not a buy).** At $79.84 or below, cut per Rule 5 (-7%). Buffer only 0.86%. Staples defensive thesis is intact per sector read but this is the laggard in a risk-on, yield-driven tape. Entry/stop/target N/A — this is an exit rule, enforced at market-open/midday.
+2. **Optional 5th position to close deployment gap (73.7% → 75-85%).** Room for ~$8-16k. Leading-quadrant sectors already mostly held (XLE/XLK/XLV + staples). Energy strongest momentum (XLE) but already held and oil may be peaking. No new independent leading sector with a clean fresh catalyst today → do NOT force a buy.
+3. **XLK +15% tighten (not today).** If XLK closes above $211.61, tighten trail 10%→7%. Currently 5.5% away. Monitor.
+
+### Risk Factors
+- **XLP within 0.86% of -7% cut floor** — most likely action item of the day; could trigger at open.
+- **Elevated long-end yields (30Y 5.63%, highest since '04)** — pressure on rate-sensitive/defensive sectors (XLP, XLV).
+- **Oil at ~$90** — supports XLE but adds inflation/margin risk broadly; a reversal would hit XLE directly.
+- **Weak Sep jobs (29k)** — dovish for rates but signals slowing economy; watch for growth-scare rotation.
+- **Light macro calendar today** — yields/oil dominate; no earnings cushion until mid-October.
+
+### Decision
+- **HOLD all 4 positions.** No loser at -7% yet; no winner at +15%/+20% tighten. All theses intact. Patience > activity.
+- **Deployment 73.7%** — marginally below target; acceptable, no forced buy without a clean catalyst.
+- **Market-open priority:** monitor **XLP** for -7% manual cut at $79.84. If XLP opens/trades ≤ $79.84, cut immediately (Rule 5).
+- Perplexity restored — thesis research quality back to normal.
