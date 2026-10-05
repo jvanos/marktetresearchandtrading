@@ -701,3 +701,17 @@ No positions yet. Bot launches tomorrow.
 - **Portfolio:** Long mktval ~$78,777 | Cash $28,117.05 | Deployed **73.7%** (marginally below 75-85% target) | Equity **$106,894.50** | Phase P&L **+$6,894.50 (+6.89%)** | 0 buys this week.
 - **All 4 trailing stops verified active:** XLE b7bc6677 ✓, XLK e68e69b7 ✓, XLP e5e90c54 ✓, XLV a926a245 ✓.
 - **No deployment gap fill:** Research log determined no clean catalyst for 5th position. Patience.
+
+---
+
+### Oct 05 — EOD Snapshot (Day 69, Monday)
+**Portfolio:** $107,392.09 | **Cash:** $28,117.05 (26.2%) | **Day P&L:** +$548.81 (+0.51%) | **Phase P&L:** +$7,392.09 (+7.39%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| XLE | 340 | $61.46 | $63.48 | +1.05% | +$686.80 (+3.29%) | $57.375 (10% trail, HWM $63.75, b7bc6677) |
+| XLK | 117 | $184.005 | $200.97 | +0.58% | +$1,984.89 (+9.22%) | $181.251 (10% trail, HWM $201.39, e68e69b7) |
+| XLP | 160 | $85.85 | $80.86 | +0.41% | -$798.40 (-5.81%) | $78.7185 (10% trail, HWM $87.465, e5e90c54) ⚠️ expires 2026-10-28 — renew before then |
+| XLV | 127 | $165.93 | $167.25 | +0.64% | +$167.64 (+0.80%) | $151.002 (10% trail, HWM $167.78, a926a245) |
+
+**Notes:** Quiet green Monday — no trades (0 this week; new weekly cap window starts today). All 4 positions higher on the day: XLK led (+0.58% day, +9.22% unrealized, $201.39 HWM, ~5.3% below the +15% tighten threshold $211.61 — the position to watch for a trail tighten). XLE +1.05% day (+3.29% unrealized). XLV +0.64% day, now in the green (+0.80% unrealized) after entering near breakeven. XLP remains the critical watch: still underwater -5.81% unrealized, but ticked up from this morning's -6.38% as the close recovered to $80.86 — now $1.02 (1.3%) above the -7% manual cut floor ($79.84), not triggered. XLP's trailing-stop order (e5e90c54) expires 2026-10-28; flag for renewal before then. Deployment 73.8% ($79,275 long / $107,392 equity) — marginally below the 75-85% target band; no 5th-slot candidate found this morning, patience held. **Documentation gap flagged:** no EOD snapshot has been logged since Jul 30 (Day 23); the book has fully turned over since then (SPMO/MSFT/XLB/XLI replaced by XLE/XLK/XLP/XLV via undocumented trades across Aug-Sep, per the Sep 1/14/23/24 scan notes) and the weekly Friday reviews covering this period are presumably also missing. Day P&L above uses Alpaca's own `last_equity` ($106,843.28, Oct 2 close) rather than a stale log entry, since the last logged EOD (Jul 30, $104,339.32) is 9 weeks old and not a meaningful comparator. Phase P&L vs. $100,000 Day 0 baseline is unaffected and remains the trustworthy cumulative number. Recommend a full weekly-review backfill or at minimum confirming no other open orders/positions are undocumented. Tomorrow: watch XLP vs. $79.84 floor and the 10/28 stop-order expiry; watch XLK vs. $211.61 tighten threshold; no forced add, hold all 4.
