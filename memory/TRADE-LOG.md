@@ -728,3 +728,17 @@ No positions yet. Bot launches tomorrow.
 - **Portfolio:** Long mktval $79,542 | Cash $28,117 | Deployed **73.9%** (marginally below 75-85% target) | Equity **$107,659** | Day P&L est. +$238 (+0.22%) vs Oct 5 close $107,421.25 | Phase P&L **+$7,659 (+7.66%)** | 0 buys this week (8 remaining).
 - **All 4 trailing stops verified active:** XLE b7bc6677 ✓ (HWM $63.75), XLK e68e69b7 ✓ (HWM $202.85 ↑ auto-advanced), XLP e5e90c54 ✓ (HWM $87.465, ⚠️ expires Oct 28), XLV a926a245 ✓ (HWM $168.82 ↑ auto-advanced).
 - **Key watch:** ⚠️ XLP floor $79.84 ($1.56 buffer, 1.9%) — still the most exposed position. XLK tighten thresh $211.61 (~4.7% away). XLP stop renewal due before Oct 28.
+
+---
+
+### Oct 06 — EOD Snapshot (Day 70, Tuesday)
+**Portfolio:** $107,734.48 | **Cash:** $28,117.05 (26.1%) | **Day P&L:** +$313.23 (+0.29%) | **Phase P&L:** +$7,734.48 (+7.73%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| XLE | 340 | $61.46 | $63.75 | +0.47% | +$778.60 (+3.73%) | $57.654 (10% trail, HWM $64.06, b7bc6677) |
+| XLK | 117 | $184.005 | $202.00 | +0.53% | +$2,105.40 (+9.78%) | $182.925 (10% trail, HWM $203.25, e68e69b7) |
+| XLP | 160 | $85.85 | $81.80 | +0.94% | -$648.00 (-4.72%) | $78.71 (fixed stop, ac2134a7) ⚠️ no longer trailing |
+| XLV | 127 | $165.93 | $167.09 | -0.17% | +$147.32 (+0.70%) | $152.127 (10% trail, HWM $169.03, a926a245) |
+
+**Notes:** Quiet green Tuesday — Day P&L +$313.23 (+0.29%) vs Oct 5 close $107,421.25. No trades today; 0 trades this week (8 remaining). Deployment 73.9% ($79,617/$107,734) — marginally below the 75-85% target band, consistent with recent sessions; no 5th-slot candidate forced. XLK leads unrealized (+9.78%), still ~4.7% below the +15% tighten threshold ($211.61). XLP remains the laggard (-4.72% unrealized) but above its -7% manual cut floor ($79.84), buffer ~$3.09 (3.8%). **Anomaly flagged:** XLP's trailing-stop order (e5e90c54, trail 10%, HWM $87.465, stop $78.7185, due to expire 2026-10-28) was canceled today at 19:16 UTC (3:16pm ET) and replaced one minute later by a new order (ac2134a7) at essentially the same stop price ($78.71) but as a **fixed stop, not a trailing stop** (trail_percent null). This is a deviation from the strategy's hard rule of "10% trailing stop on every position as a real GTC order" — no midday or other routine entry in this log documents the change or the reasoning behind dropping the trailing mechanism. XLP will no longer tighten its stop if the position recovers; flagging for human review and likely needs to be replaced with a proper trailing-stop order. XLE and XLV HWMs auto-advanced intraday (to $64.06 and $169.03 respectively) with stops intact. Tomorrow: watch XLP (stop type issue + -7% floor), XLK tighten threshold, resolve XLP stop-order anomaly.
