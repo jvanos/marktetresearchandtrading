@@ -1166,3 +1166,50 @@ No Perplexity research triggered — no position moving sharply with unknown cau
 - **XLP** $80.50 (**-6.23%**, -$856). Stop $78.7185 (e5e90c54) ✓. ⚠️ **-7% cut floor $79.84 — buffer $0.66 (0.82%).** Still the day's priority watch; cut at open if ≤ $79.84.
 - **XLV** $166.01 (+0.05%, +$10). Stop $149.85 (a926a245) ✓.
 - All 4 stops active. **Decision unchanged: HOLD; monitor XLP at open.** No duplicate research run (pre-open data unchanged).
+
+---
+
+## 2026-10-06 — Pre-market Research (~07:05 ET, Tuesday)
+
+### Account
+- Equity: **$107,507.59** | Cash: $28,117.05 | Buying power: $28,117.05
+- Long mktval: $79,390.54 | Deployed **73.8%** ⚠️ (marginally below 75-85% target)
+- Day P&L: +$86.34 (+0.08%) vs last equity $107,421.25
+- Phase P&L: **+$7,507.59 (+7.51%** vs $100k baseline)
+- Positions: 4 (XLE, XLK, XLP, XLV).
+
+### Market Context
+- **TIPS breakeven (10y):** ~2.36% (Oct 5) — inflation expectations anchored.
+- **Yield curve:** 2Y 4.05% / 10Y 5.06% / 30Y 5.66% (Oct 5). **Short/mid-end eased notably** vs prior read (was 2Y 4.83% / 10Y 5.28% Oct 2) — dovish drift post weak Sep jobs; supportive for risk. 30Y still elevated (headwind for rate-sensitive defensives XLP/XLV).
+- **WTI / Brent:** WTI ~$87.80 — **softer** vs ~$90 prior read. (Brent quote $98.54 looks stale/outlier vs WTI; treat WTI as the reliable print.) Mild cooling = slight XLE headwind, broad inflation relief.
+- **S&P 500 futures:** ~7,842, **+0.20%** premarket — constructive.
+- **VIX:** ~15.5 — calm.
+- **Today's catalysts:** ISM Services PMI, Aug trade balance (8:30 ET), Fed speakers. Rate expectations the main driver.
+- **Earnings before open:** Constellation Brands, Lamb Weston, RPM, Neogen, Apogee — **none held**; Q3 season ramps mid-to-late Oct.
+- **Week ahead:** No CPI/PPI/FOMC-minutes this week per calendar. CPI Oct 14 / PPI Oct 15 (next week); FOMC meeting Oct 27-28.
+- **Sector momentum YTD:** Energy leader (~+40%); Tech strong; Healthcare uptrend; Staples the laggard of the four.
+- **Perplexity:** healthy — full research this run (no WebSearch fallback).
+
+### Position Check (pre-open; prices = latest/last close)
+- **XLE** 340 @ $61.46 | **$63.09** (**+2.65%**, +$553). Stop $57.375 (10% trail, HWM $63.75, b7bc6677). -7% floor $57.16. Energy YTD leader; oil softer but thesis intact. No action.
+- **XLK** 117 @ $184.005 | **$201.97** (**+9.76%**, +$2,102). Stop $181.251 (10% trail, HWM $201.39, e68e69b7). +15% tighten thresh $211.61 (~4.8% away — not yet). AI/semis strength intact. No action.
+- **XLP** 160 @ $85.85 | **$81.14** (**-5.49%**, -$754). Stop $78.7185 (10% trail, HWM $87.465, e5e90c54). ⚠️ **-7% manual cut floor $79.84 — buffer $1.30 (1.6%).** Weakest position; improved vs yesterday's 0.8% buffer. **Stop order expires Oct 28 — renew before then.**
+- **XLV** 127 @ $165.93 | **$167.94** (**+1.21%**, +$255). Stop $151.002 (10% trail, HWM $167.78, a926a245). Healthcare uptrend intact. No action.
+- **All 4 trailing stops verified active.**
+
+### Trade Ideas
+1. **XLP — cut-watch (not a buy).** At $79.84 or below, cut per Rule 5 (-7%). Buffer 1.6% ($1.30). Staples is the sector laggard in a risk-on, yield-driven tape. Also: renew the stop order (e5e90c54) before its Oct 28 expiry. Exit rule — enforced at market-open/midday.
+2. **Optional 5th position (deployment gap 73.8% → 75-85%).** Room ~$1-12k. Leading sectors already held (XLE/XLK/XLV). No new independent leading sector with a clean fresh catalyst today → do NOT force a buy.
+3. **XLK +15% tighten (not today).** If XLK closes above $211.61, tighten trail 10%→7%. ~4.8% away. Monitor.
+
+### Risk Factors
+- **XLP 1.6% above -7% cut floor** — still the day's watch, plus stop expires Oct 28.
+- **30Y yield elevated (5.66%)** — pressure on defensives (XLP/XLV).
+- **ISM Services + Fed speakers today** — could move rate expectations/yields.
+- **Oil softening (~$88)** — mild XLE headwind if it continues.
+- **October seasonal volatility** — historically choppy.
+
+### Decision
+- **HOLD all 4 positions.** No loser at -7%; no winner at +15%/+20% tighten. All theses intact. Patience > activity.
+- **Deployment 73.8%** — marginally below target; acceptable, no forced buy without a clean catalyst.
+- **Market-open priorities:** (1) monitor **XLP** vs. $79.84 cut floor; (2) flag XLP stop (e5e90c54) for renewal before Oct 28; (3) watch XLK vs. $211.61 tighten trigger.
