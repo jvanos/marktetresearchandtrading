@@ -756,3 +756,17 @@ No positions yet. Bot launches tomorrow.
 - **Stop auto-advances noted:** XLE HWM $64.06→$64.508 (stop $57.654→$58.0572 ✓); XLV HWM $169.03→$170.38 (stop $152.127→$153.342 ✓). Both auto-advanced by Alpaca trailing mechanism.
 - **All 4 trailing/fixed stops verified active:** XLE b7bc6677 (10% trail ✓), XLK e68e69b7 (10% trail ✓), XLP ac2134a7 (FIXED $78.71 ⚠️), XLV a926a245 (10% trail ✓).
 - **Key watch:** ⚠️ XLP fixed-stop anomaly persists; floor $79.84 at $2.14 buffer (2.6%) — critical. XLK +15% tighten thresh $211.61 (~5.3% off). FOMC September minutes 2:00pm ET today — could move yields/rate expectations (XLP/XLV rate-sensitive). Deployment 73.9% — no 5th-slot candidate; patience.
+
+---
+
+### Oct 07 — EOD Snapshot (Day 71, Wednesday)
+**Portfolio:** $107,738.54 | **Cash:** $28,117.05 (26.1%) | **Day P&L:** +$4.06 (+0.00%) | **Phase P&L:** +$7,738.54 (+7.74%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| XLE | 340 | $61.46 | $63.40 | -0.55% | +$659.60 (+3.16%) | $58.0572 (10% trail, HWM $64.508, b7bc6677) |
+| XLK | 117 | $184.005 | $201.3215 | -0.34% | +$2,026.02 (+9.41%) | $182.925 (10% trail, HWM $203.25, e68e69b7) |
+| XLP | 160 | $85.85 | $81.70 | -0.12% | -$664.00 (-4.83%) | $78.71 (FIXED stop, not trailing, ac2134a7) ⚠️ |
+| XLV | 127 | $165.93 | $168.81 | +1.03% | +$365.76 (+1.74%) | $153.342 (10% trail, HWM $170.38, a926a245) |
+
+**Notes:** Dead-flat close: +$4.06 (+0.00%) vs Oct 6's $107,734.48, the smallest Day P&L move in weeks. XLV was the one mover, +1.03% on the day to a new HWM ($170.38, stop auto-advanced to $153.342) on what the midday scan flagged as a rate-sensitive session (September FOMC minutes released 2pm ET). XLE and XLK both gave back a bit intraday (-0.55%/-0.34%) but remain the book's biggest winners (+3.16%/+9.41% unrealized); XLK's +15% tighten threshold ($211.61) is still ~5% away. XLP stayed the laggard at -4.83% unrealized ($81.70 vs $85.85 entry); buffer to the -7% manual cut floor ($79.84) narrowed slightly to $1.86 (2.3%) but did not trigger. The XLP fixed-stop anomaly (ac2134a7, flagged Oct 6) persists — can't be replaced with a proper trailing stop until price recovers to ≥$87.465 without violating the never-move-a-stop-down rule; existing fixed stop at $78.71 still provides equivalent protection at current levels. Deployment 73.9% ($79,621/$107,738), marginally below the 75-85% target; no 5th-slot candidate identified today, patience held per research log. 0 trades today; 0 trades this week (8 remaining). Tomorrow: watch XLP vs. $79.84 floor and fixed-stop resolution; watch XLK vs. $211.61 tighten threshold; hold all 4.
