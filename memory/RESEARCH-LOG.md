@@ -1260,3 +1260,51 @@ No Perplexity research triggered — no position moving sharply with unknown cau
 - **HOLD all 4 positions.** No loser at -7%; no winner at +15%/+20% tighten. Theses intact. Patience > activity.
 - **Deployment 73.9%** — marginally below target; acceptable, no forced buy without a clean catalyst.
 - **Market-open priorities:** (1) **replace XLP fixed stop (ac2134a7) with a 10% trailing stop** ≥ $78.71; (2) monitor **XLP** vs. $79.84 cut floor; (3) watch **XLK** vs. $211.61 tighten trigger.
+
+## 2026-10-08 — Pre-market Research (~07:05 ET, Day 72, Thursday)
+
+### Account
+- Equity: **$107,887.50** | Cash: $28,117.05 | Buying power: $28,117.05
+- Long mktval: $79,770.45 | Deployed **73.9%** ⚠️ (marginally below 75-85% target)
+- Day P&L: +$154.55 (+0.14%) vs last equity $107,732.95 (Oct 7 close)
+- Phase P&L: **+$7,887.50 (+7.89%** vs $100k baseline)
+- Positions: 4 (XLE, XLK, XLP, XLV).
+
+### Market Context
+- **TIPS breakeven:** 10y **~2.36%** / 5y ~2.37% — inflation expectations anchored.
+- **Yield curve:** 2Y **4.78%** / 10Y **~5.24-5.30%** / 30Y **~5.61-5.70%**. Roughly flat-to-slightly-lower vs Oct 7; "bond selloff" narrative persists, long end still elevated. Continued headwind for rate-sensitive defensives XLP/XLV.
+- **WTI / Brent:** WTI ~**$90-92** / Brent ~**$102-104** — **firming further** on Middle East shipping attacks (Gulf supply concerns). Supportive XLE; broad inflation risk if sustained. (G7 100M-bbl release could cap upside.)
+- **S&P 500 futures:** ~7,832, **-0.26%** premarket (one feed flat) — mild risk-off into the open.
+- **VIX:** ~**15.57** (+3.25%) — calm but ticking up.
+- **Today's catalysts:** **Weekly jobless claims 8:30am ET** (consensus init 200k vs prior 197k; cont. 1.710M) — main macro driver; $22B **30Y auction 1:00pm**; Fed's **Musalem** speaks. (Sept FOMC minutes already released Oct 7.)
+- **Earnings before open:** **PepsiCo (PEP)** — top-10 XLP holding, entered near 52-wk low after downgrades (weak Frito-Lay/N.A. snack volumes); consensus ~$2.30-2.32 EPS, ~$25B rev; options implied ~3.5-3.75% PEP move. **Direct event risk for XLP** (diluted by PG/WMT/COST/MO/CL).
+- **Week ahead:** No CPI/PPI today of note (CPI Oct 14 / PPI Oct 15). FOMC decision Oct 28.
+- **Sector momentum YTD:** Energy **+41.6%** leader (3mo +19.7%); Tech **+31.1%** (3mo +13.5%); Healthcare **+8.1%** (1mo -2.2%, weakening); Staples **+4.7%** (3mo -3.9%, weakest).
+- **Held-ticker news:** No adverse single-name catalyst on XLE/XLK/XLV. XLP faces PEP-earnings event risk today (see above).
+- **Perplexity:** healthy — full research this run (no WebSearch fallback).
+
+### Position Check (pre-open; prices = latest/last)
+- **XLE** 340 @ $61.46 | **$64.41** (**+4.80%**, +$1,003). Stop $58.0572 (10% trail, HWM $64.508, b7bc6677) ✓. -7% floor $57.16. Oil firming, YTD leader; thesis intact. No action.
+- **XLK** 117 @ $184.005 | **$199.42** (**+8.38%**, +$1,803.54). Stop $182.925 (10% trail, HWM $203.25, e68e69b7) ✓. +15% tighten thresh $211.61 (~6.1% away). AI/semis strength intact. No action.
+- **XLP** 160 @ $85.85 | **$81.88** (**-4.62%**, -$634.69). Stop **$78.71 — FIXED stop (ac2134a7), trail_percent null** ⚠️. -7% cut floor $79.84 — **buffer $2.04 (2.5%)**. Not triggered. **DEVIATION: not a trailing stop**; won't tighten on recovery. Flagged Oct 6; still unresolved. PEP earnings today = elevated event risk.
+- **XLV** 127 @ $165.93 | **$168.80** (**+1.73%**, +$364.49). Stop $153.342 (10% trail, HWM $170.38, a926a245) ✓. Healthcare weakest-momentum of winners but uptrend intact. No action.
+- **Stops:** XLE/XLK/XLV trailing ✓; **XLP fixed (non-trailing) — needs replacement.**
+
+### Trade Ideas
+1. **XLP stop-type fix (operational, not a buy).** Replace fixed stop ac2134a7 with a proper **10% trailing stop GTC** per Rule 4 — but **still BLOCKED**: current $81.88 × 90% = $73.69 would move stop DOWN from $78.71 (violates never-move-a-stop-down). Fix must wait for recovery to ≥$87.465 (original HWM). Existing fixed $78.71 gives equivalent protection now. Re-verify at market-open.
+2. **XLP — cut/event-watch.** PEP reports pre-open; a negative surprise could pressure XLP. Floor $79.84 (buffer 2.5%). At $79.84 or below, cut per Rule 5 (-7%). Stop/floor does the work.
+3. **No forced 5th position.** Deployment 73.9% (room ~$1-12k) but leading sectors (Energy/Tech/Healthcare) already held; no new independent leading sector with a clean fresh catalyst → do NOT force a buy. Patience.
+4. **XLK +15% tighten (not today).** If XLK closes above $211.61, tighten trail 10%→7%. ~6% away. Monitor.
+
+### Risk Factors
+- **PEP earnings today** — direct event risk for XLP (top-10 holding, near 52-wk low); negative guidance could reinforce staples weakness.
+- **Yields elevated** (30Y ~5.6-5.7%, bond-selloff narrative) — continued pressure on defensives XLP/XLV.
+- **Jobless claims 8:30am ET** — hot labor data could lift yields further.
+- **Oil firming (~$90-92, Mideast shipping attacks)** — supportive XLE but broad inflation risk.
+- **XLP fixed-stop anomaly unresolved** + only 2.5% above -7% cut floor.
+- **Mild risk-off premarket (futures -0.26%, VIX +3%)** + stretched AI valuations / October seasonal chop → rotation/profit-taking risk.
+
+### Decision
+- **HOLD all 4 positions.** No loser at -7%; no winner at +15%/+20% tighten. Theses intact. Patience > activity.
+- **Deployment 73.9%** — marginally below target; acceptable, no forced buy without a clean catalyst.
+- **Market-open priorities:** (1) watch **XLP** into/after PEP earnings vs. $79.84 cut floor; (2) re-check **XLP** fixed-stop (ac2134a7) — replace with 10% trailing only if price recovers ≥$87.465; (3) watch **XLK** vs. $211.61 tighten trigger.
