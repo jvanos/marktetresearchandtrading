@@ -796,3 +796,17 @@ No positions yet. Bot launches tomorrow.
 - **Portfolio:** Long mktval $79,766 | Cash $28,117.05 (26.1%) | Deployed **73.9%** | Equity est. **~$107,883** | Day P&L est. **+$144 (+0.13%)** vs Oct 7 close $107,738.54 | Phase P&L **+$7,883 (+7.88%)** | 0 trades this week (8 remaining).
 - **All 4 stops verified active:** XLE b7bc6677 (10% trail, HWM **$65.30** ↑ auto-advanced ✓), XLK e68e69b7 (10% trail ✓), XLP ac2134a7 (**FIXED $78.71** ⚠️), XLV a926a245 (10% trail ✓).
 - **Key watch:** ⚠️ XLP fixed-stop anomaly persists; floor $79.84 at $3.64 buffer (4.3%) — improved vs morning. XLK tighten thresh $211.61 (~7.2% off, faded from this morning's $200.21 to $197.38 on tech/yield pressure). 30Y auction 1:00pm ET remains a yield catalyst. No 5th-slot candidate; deployment 73.9% acceptable; patience.
+
+---
+
+### Oct 08 — EOD Snapshot (Day 72, Thursday)
+**Portfolio:** $108,123.27 | **Cash:** $28,117.05 (26.0%) | **Day P&L:** +$384.73 (+0.36%) | **Phase P&L:** +$8,123.27 (+8.12%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| XLE | 340 | $61.46 | $65.11 | +2.76% | +$1,241.00 (+5.94%) | $58.9206 (10% trail, HWM $65.4673, b7bc6677) |
+| XLK | 117 | $184.005 | $198.10 | -1.63% | +$1,649.12 (+7.66%) | $182.925 (10% trail, HWM $203.25, e68e69b7) |
+| XLP | 160 | $85.85 | $83.39 | +2.07% | -$393.60 (-2.87%) | $78.71 (FIXED stop, not trailing, ac2134a7) ⚠️ |
+| XLV | 127 | $165.93 | $168.10 | -0.42% | +$275.59 (+1.31%) | $153.342 (10% trail, HWM $170.38, a926a245) |
+
+**Notes:** Green Thursday close, +$384.73 (+0.36%) vs Oct 7's $107,738.54. XLE was the day's leader (+2.76%, +5.94% unrealized) on continued oil strength from Mideast shipping tension; HWM auto-advanced to $65.4673 (stop $58.9206). XLP also had a strong day (+2.07%) on continued post-PEP-earnings recovery, narrowing its deficit to -2.87% unrealized — buffer to the -7% manual cut floor ($79.84) widened to $3.55 (4.45%). The XLP fixed-stop anomaly (ac2134a7, flagged Oct 6) persists: still can't be replaced with a proper trailing stop without violating the never-move-stop-down rule (current price × 90% < $78.71); needs XLP to recover to ≥$87.465 first. XLK pulled back (-1.63%) on yield pressure but remains the book's biggest winner (+7.66% unrealized), still ~6.8% below the +15% tighten threshold ($211.61). XLV essentially flat (-0.42%), +1.31% unrealized, stop steady at $153.342 (HWM $170.38). No trades today; 0 trades this week (8 remaining). Deployment 74.0% ($80,006/$108,123) — marginally below the 75-85% target band; no 5th-slot candidate identified, patience held. Tomorrow: watch XLP fixed-stop resolution and -7% floor; watch XLK vs. $211.61 tighten threshold; hold all 4.
