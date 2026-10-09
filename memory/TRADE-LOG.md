@@ -837,3 +837,17 @@ No positions yet. Bot launches tomorrow.
 - **Stop auto-advances noted:** XLE HWM $65.4673→$65.855 (stop $58.9206→$59.2695 ✓); XLV HWM $170.38→$170.73 (stop $153.342→$153.657 ✓). Both auto-advanced by Alpaca trailing mechanism. XLK HWM $203.25 and XLP fixed-stop $78.71 unchanged.
 - **All 4 stops verified active:** XLE b7bc6677 (10% trail ✓), XLK e68e69b7 (10% trail ✓), XLP ac2134a7 (**FIXED $78.71** ⚠️, expires 2027-01-04), XLV a926a245 (10% trail ✓).
 - **Key watch:** ⚠️ XLP fixed-stop anomaly persists (non-trailing); floor $79.84 at $3.53 buffer (4.2%). XLK tighten thresh $211.61 (~6.6% off). XLK stop (e68e69b7) expires 2026-11-18 — renew before then. **Perplexity API restored** (was 401 for 4+ weeks, now healthy). No 5th-slot candidate; patience.
+
+---
+
+### Oct 09 — EOD Snapshot (Day 73, Friday)
+**Portfolio:** $108,575.05 | **Cash:** $28,117.05 (25.9%) | **Day P&L:** +$432.62 (+0.40%) | **Phase P&L:** +$8,575.05 (+8.58%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|---|---|---|---|---|---|---|
+| XLE | 340 | $61.46 | $65.17 | -0.11% | +$1,261.40 (+6.04%) | $59.2695 (10% trail, HWM $65.855, b7bc6677) |
+| XLK | 117 | $184.005 | $198.78 | +0.51% | +$1,728.66 (+8.03%) | $182.925 (10% trail, HWM $203.25, e68e69b7) |
+| XLP | 160 | $85.85 | $83.43 | +0.01% | -$387.20 (-2.82%) | $78.71 (FIXED stop, not trailing, ac2134a7) ⚠️ |
+| XLV | 127 | $165.93 | $170.82 | +1.58% | +$621.03 (+2.95%) | $153.927 (10% trail, HWM $171.03, a926a245) |
+
+**Notes:** Quiet green Friday close, +$432.62 (+0.40%) vs Oct 8's $108,142.43. XLV led the day (+1.58%), extending its Perplexity-confirmed macro rebound (oil/yield relief, Medicare/healthcare catalysts); HWM auto-advanced to $171.03, stop to $153.927. XLK added +0.51%, still the book's biggest winner (+8.03% unrealized), ~6.9% below the +15% tighten threshold ($211.61); stop unchanged at $182.925 (HWM $203.25). XLE ticked down -0.11% but holds +6.04% unrealized on persistent Mideast-driven oil strength; stop $59.2695 (HWM $65.855). XLP essentially flat (+0.01%), still -2.82% unrealized with a 4.3% buffer ($3.59) above the -7% manual cut floor ($79.84); the fixed-stop anomaly (ac2134a7, $78.71, expires 2027-01-04) remains unresolved — needs XLP ≥$87.465 to safely replace with a trailing stop. No trades today; 0 trades this week (8 remaining). Deployment 74.1% ($80,458/$108,575) — marginally below the 75-85% target band; no 5th-slot candidate identified this week, patience held. All 4 stops verified active. Tomorrow: weekend — market reopens Monday Oct 12; watch XLP vs. $79.84 floor and fixed-stop resolution; watch XLK vs. $211.61 tighten threshold; watch XLK stop (e68e69b7) expiry 2026-11-18; hold all 4.
