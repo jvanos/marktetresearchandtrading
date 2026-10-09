@@ -1308,3 +1308,50 @@ No Perplexity research triggered — no position moving sharply with unknown cau
 - **HOLD all 4 positions.** No loser at -7%; no winner at +15%/+20% tighten. Theses intact. Patience > activity.
 - **Deployment 73.9%** — marginally below target; acceptable, no forced buy without a clean catalyst.
 - **Market-open priorities:** (1) watch **XLP** into/after PEP earnings vs. $79.84 cut floor; (2) re-check **XLP** fixed-stop (ac2134a7) — replace with 10% trailing only if price recovers ≥$87.465; (3) watch **XLK** vs. $211.61 tighten trigger.
+
+## 2026-10-09 — Pre-market Research (~07:05 ET, Day 73, Friday)
+
+### Account
+- Equity: **$108,166.24** | Cash: $28,117.05 | Buying power: $28,117.05
+- Long mktval: $80,049.19 | Deployed **74.0%** ⚠️ (marginally below 75-85% target)
+- Day P&L: +$23.81 (+0.02%) vs last equity $108,142.43
+- Phase P&L: **+$8,166.24 (+8.17%** vs $100k baseline)
+- Positions: 4 (XLE, XLK, XLP, XLV).
+
+### Market Context
+- **TIPS breakeven:** 10y **~2.36%** — inflation expectations anchored.
+- **Yield curve:** 2Y **4.766%** / 10Y **5.233%** / 30Y **5.605%** — eased slightly at Oct 8 close (10Y -6bp, 30Y -7bp) but long end still elevated. Ongoing headwind for rate-sensitive defensives XLP/XLV.
+- **WTI / Brent:** WTI **~$90.68** (-0.9%) / Brent **~$103.29** (-0.95%) — **pulling back** from Thu's spike ($91.49/$104.28 close) on some easing of Mideast tension; Brent still >$100. Mild XLE headwind today; thesis event-driven.
+- **S&P 500 futures:** ~7,848, **+0.41%** premarket — mild risk-on into the open.
+- **VIX:** ~**15.28** — calm.
+- **Today's catalysts:** **U-Mich prelim consumer sentiment 10am ET** (cons ~47.0 vs prior 47.6; expectations ~46.1) — main macro print; NY Fed Nowcast 12:45pm. **AI-valuation scare**: FT report OpenAI annualized rev ~$50B (vs ~$70B proj) drove Thu semis selloff (SOX -3.4%, NVDA -2.9%, AVGO -4.4%, MU -4.8%, AMD -3.9%) — **direct XLK risk**. Hawkish Fed's **Musalem** (another hike possible).
+- **Earnings before open:** **Delta Air Lines (DAL)** — EPS ~$1.77-1.99, rev ~$17.6-17.8B; early read on travel/consumer. No direct held-ticker overlap.
+- **Week ahead:** No CPI/PPI today (CPI Oct 14 / PPI Oct 15). Jobless claims came Oct 8 (init 197k). FOMC decision Oct 28.
+- **Sector momentum YTD:** Energy **~+40%** leader; Tech **~+28.8%** (semis volatile); Healthcare **~+7.3%** (weaker); Staples **~+3.8%** (laggard). Book aligned with leaders + defensives.
+- **Held-ticker news:** **XLK** rebounding premarket (~+1.05% to ~$199.86) after Thu -1.79%; pullback within a still-strong AI rally (YTD ~+40%), not a confirmed reversal. **XLE** oil-driven/event-sensitive; oil easing today = mild headwind. No fresh adverse single-name catalyst on XLP/XLV.
+- **Perplexity:** healthy — full research this run (no WebSearch fallback).
+
+### Position Check (pre-open; prices = latest/last)
+- **XLE** 340 @ $61.46 | **$64.8708** (**+5.55%**, +$1,159.67). Day -0.57%. Stop **$58.92057** (10% trail, HWM $65.4673, b7bc6677) ✓. -7% floor $57.16. Oil easing today but YTD leader; thesis intact. No action.
+- **XLK** 117 @ $184.005 | **$199.56** (**+8.45%**, +$1,819.92). Day +0.9%. Stop $182.925 (10% trail, HWM $203.25, e68e69b7) ✓. +15% tighten thresh **$211.61 (~6.0% away)**. AI-valuation pullback is a known risk; stop protects. No action.
+- **XLP** 160 @ $85.85 | **$83.02** (**-3.30%**, -$452.80). Day -0.48%. Stop **$78.71 — FIXED stop (ac2134a7), trail_percent null** ⚠️. -7% cut floor $79.84 — **buffer $3.18 (3.98%)**. Not triggered. **DEVIATION: not trailing.** Flagged Oct 6; unresolved. No cut.
+- **XLV** 127 @ $165.93 | **$168.20** (**+1.37%**, +$288.29). Day +0.02%. Stop $153.342 (10% trail, HWM $170.38, a926a245) ✓. Healthcare weakest-momentum winner but uptrend intact. No action.
+- **Stops:** XLE/XLK/XLV trailing ✓; **XLP fixed (non-trailing) — needs replacement.**
+
+### Trade Ideas
+1. **XLP stop-type fix (operational, not a buy).** Replace fixed stop ac2134a7 with a 10% trailing GTC per Rule 4 — **still BLOCKED**: current $83.02 × 90% = $74.72 would move stop DOWN from $78.71 (violates never-move-a-stop-down). Needs recovery to ≥$87.46 first. Existing fixed $78.71 gives equivalent protection. Re-verify market-open.
+2. **No forced 5th position.** Deployment 74.0% (room ~$1-12k) but Energy/Tech/Healthcare leaders already held; no fresh independent leading sector with a clean catalyst → do NOT force a buy. Patience.
+3. **XLK +15% tighten (not today).** If XLK closes above $211.61, tighten trail 10%→7%. ~6% away. Monitor, esp. given AI-valuation volatility.
+
+### Risk Factors
+- **AI-valuation scare** (OpenAI rev ~$50B vs ~$70B proj) + hawkish Musalem → further semis/XLK pullback risk (biggest book winner).
+- **Yields elevated** (30Y ~5.6%, 10Y ~5.23%) — continued pressure on defensives XLP/XLV.
+- **Oil easing today** (WTI ~$90.68, -0.9%) — mild XLE headwind; event-driven on Mideast headlines.
+- **U-Mich sentiment 10am ET** — a weak read could dent risk appetite.
+- **XLP fixed-stop anomaly unresolved** + 3.98% above -7% cut floor.
+- **October seasonal chop / stretched AI valuations** → rotation/profit-taking risk.
+
+### Decision
+- **HOLD all 4 positions.** No loser at -7%; no winner at +15%/+20% tighten. Theses intact. Patience > activity.
+- **Deployment 74.0%** — marginally below target; acceptable, no forced buy without a clean catalyst.
+- **Market-open priorities:** (1) re-check **XLP** fixed-stop (ac2134a7) — replace with 10% trailing only if price recovers ≥$87.46; (2) watch **XLK** into AI-valuation volatility vs. $211.61 tighten trigger; (3) watch **XLP** vs. $79.84 cut floor.
