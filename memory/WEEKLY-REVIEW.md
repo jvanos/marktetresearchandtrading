@@ -38,7 +38,7 @@ Template for each entry:
 - ...
 
 ### Proposed Strategy Changes
-(Optional — see TRADING-STRATEGY.md "Enforcement note". Propose changes
+(Optional — see TRADING-STRATEGY.md “Enforcement note”. Propose changes
 here for human review; do not edit TRADING-STRATEGY.md directly.)
 
 ### Overall Grade: X
@@ -94,7 +94,7 @@ here for human review; do not edit TRADING-STRATEGY.md directly.)
 - Pure hold week: 0 new positions = 0 compounding opportunities on the strongest ETFs (XLE up 4% on the week)
 
 ### Key Lessons
-- XLP's recovery from a -6.20% near-cut to -2.82% in one week confirms that patience at the stop vs. manual cut is correct when the -7% floor hasn't been breached; forced exits at "near the floor" destroy recovery value
+- XLP's recovery from a -6.20% near-cut to -2.82% in one week confirms that patience at the stop vs. manual cut is correct when the -7% floor hasn't been breached; forced exits at “near the floor” destroy recovery value
 - Mideast-driven energy spikes (XLE +4.43% on the week's unrealized improvement) are durable multi-day moves when tied to shipping disruption, not just 1-day pops — holding through them is right
 - XLP fixed-stop anomaly is a persistent hard-rule violation (every position must have a 10% trailing GTC stop); document the exact price trigger ($87.465) so any routine that sees XLP above it can auto-fix
 - Two stop-expiry clocks are now running: XLK e68e69b7 Nov 18 and XLP ac2134a7 Jan 4 — add renew-stop checks to weekly review process
@@ -342,11 +342,11 @@ here for human review; do not edit TRADING-STRATEGY.md directly.)
 - Account deployed only 20.5% vs. 75-85% target — $80K+ in cash all week; largest single failure
 - Planned 2-3 new positions after MSFT entry (every routine noted this) never materialized
 - Zero sector diversification — missed the real YTD momentum leaders (Energy, Materials, Industrials)
-- Every midday/pre-market routine deferred new entries to "next session"; that loop never closed
+- Every midday/pre-market routine deferred new entries to “next session”; that loop never closed
 
 ### Key Lessons
 - Holiday-shortened weeks compress the window; must queue 2-3 candidates before Monday open, not after
-- "Patience > activity" means waiting for the right setup, not waiting indefinitely — 20% deployed is not patience, it's inaction
+- “Patience > activity” means waiting for the right setup, not waiting indefinitely — 20% deployed is not patience, it's inaction
 - Tech (XLK) is a YTD lagging sector; MSFT is a single-name recovery/fundamentals play, not sector momentum — sizing should reflect that distinction
 - NFP + 3-day weekend is a valid reason to skip entries on that day; it does not justify skipping entries for the whole week
 
