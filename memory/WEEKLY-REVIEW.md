@@ -45,6 +45,72 @@ here for human review; do not edit TRADING-STRATEGY.md directly.)
 
 ---
 
+## Week ending 2026-10-09
+
+*Market open all 5 trading days (Oct 5–9). No HALT file. Market closed 4 PM ET; review ran after close. 0 trades taken this week — pure hold week.*
+
+### Stats
+| Metric | Value |
+|--------|-------|
+| Starting portfolio | $106,815.76 (Oct 2 EOD) |
+| Ending portfolio | $108,569.73 |
+| Week return | +$1,753.97 (+1.64%) |
+| S&P 500 week | +1.09% (closed 7,807.12) |
+| Bot vs S&P | +0.55% |
+| Trades | 0 (W:0 / L:0 / open:4) |
+| Win rate | N/A (no closed trades) |
+| Best trade | XLK +8.03% unrealized |
+| Worst trade | XLP -2.82% unrealized |
+| Profit factor | N/A (no closed trades) |
+
+### Closed Trades
+| Ticker | Entry | Exit | P&L | Notes |
+|--------|-------|------|-----|-------|
+| — | — | — | — | No closed trades this week |
+
+### Open Positions at Week End
+| Ticker | Entry | Close | Unrealized | Stop |
+|--------|-------|-------|------------|------|
+| XLE | $61.46 (340sh) | $65.17 | +$1,261.40 (+6.04%) | $59.2695 (10% trail, HWM $65.855, b7bc6677) |
+| XLK | $184.005 (117sh) | $198.78 | +$1,728.66 (+8.03%) | $182.925 (10% trail, HWM $203.25, e68e69b7) ⚠️ expires 2026-11-18 |
+| XLP | $85.85 (160sh) | $83.43 | -$387.20 (-2.82%) | $78.71 (FIXED stop ac2134a7, not trailing ⚠️, expires 2027-01-04) |
+| XLV | $165.93 (127sh) | $170.82 | +$621.03 (+2.95%) | $153.927 (10% trail, HWM $171.03, a926a245) |
+
+**Deployment:** $80,452.68 long / $108,569.73 equity = **74.1%** (marginally below 75-85% target; cash $28,117)
+**Phase P&L:** +$8,569.73 (+8.57%) vs $100,000 baseline | S&P 500 since Jun 30 start: ~+4.1% (7,500 → 7,807) — bot outperforming on phase basis by ~+4.5%
+
+### What Worked
+- XLP recovered sharply from -6.20% (Oct 2) to -2.82% at week end — Trump/no-Iran-attack comment triggered oil/yield relief, lifting consumer staples; critical -7% cut risk eased
+- XLE surged from +1.61% to +6.04% unrealized on persistent Mideast shipping tensions keeping oil elevated (~$90+ WTI); energy YTD leadership thesis fully confirmed
+- XLV moved from near-flat +0.15% to +2.95% unrealized on healthcare catalysts (Humana Medicare star ratings, UNH/JNJ pre-earnings positioning, Cantor LLY/ABBV upgrades)
+- Portfolio outperformed S&P 500 by +0.55% (+1.64% vs +1.09%) — four consecutive weeks of relative outperformance now
+- XLP stop-expiry risk (e5e90c54 due Oct 28) was resolved — replaced with ac2134a7 that expires 2027-01-04; near-term stop-lapse risk eliminated
+
+### What Didn't Work
+- XLK retreated from +9.05% (Oct 2) to +8.03% — AI revenue scare (OpenAI ~$50B run-rate vs ~$70B projection) and Thursday 30Y auction yield spike; +15% tighten threshold ($211.61) still ~6.9% away
+- Deployment anchored at ~74% all week; $28k cash idle with no 5th-slot candidate entered — marginally below 75-85% mandate for the fourth straight week
+- XLP fixed-stop anomaly (ac2134a7, non-trailing) unresolved — lost trailing upside capture mechanism; needs XLP ≥$87.465 before safe replacement with 10% trail
+- XLK stop expiry (e68e69b7, 2026-11-18) flagged but not renewed this week — one month buffer remains but requires action
+- Pure hold week: 0 new positions = 0 compounding opportunities on the strongest ETFs (XLE up 4% on the week)
+
+### Key Lessons
+- XLP's recovery from a -6.20% near-cut to -2.82% in one week confirms that patience at the stop vs. manual cut is correct when the -7% floor hasn't been breached; forced exits at "near the floor" destroy recovery value
+- Mideast-driven energy spikes (XLE +4.43% on the week's unrealized improvement) are durable multi-day moves when tied to shipping disruption, not just 1-day pops — holding through them is right
+- XLP fixed-stop anomaly is a persistent hard-rule violation (every position must have a 10% trailing GTC stop); document the exact price trigger ($87.465) so any routine that sees XLP above it can auto-fix
+- Two stop-expiry clocks are now running: XLK e68e69b7 Nov 18 and XLP ac2134a7 Jan 4 — add renew-stop checks to weekly review process
+
+### Adjustments for Next Week
+- **XLP fixed-stop fix:** if XLP ever reaches ≥$87.465 intraday, immediately cancel ac2134a7 and place 10% trailing stop GTC; log the action immediately
+- **XLK stop renewal:** renew e68e69b7 (expires 2026-11-18) before the end of October — current stop $182.925 (HWM $203.25, 10% trail); replace with same trail% and updated HWM if it advanced
+- **XLK tighten watch:** +15% trigger is at $211.61; XLK at $198.78; ~6.9% off — brief rally could reach it; pre-plan 7% trail order for fast execution
+- **XLV earnings catalyst:** UNH/JNJ earnings Oct 13 (Monday pre-market) — healthcare sector read-through for XLV; if they miss/guide down, re-evaluate XLV thesis
+- **5th-slot evaluation:** deployment 74.1%; no urgency but continue reviewing RRG sector momentum weekly for a Leading-quadrant entry; avoid forcing into crowded sectors
+- **Perplexity API confirmed healthy** (was 401 4+ weeks) — restore to full use for sector thesis confirmation on every scan
+
+### Overall Grade: B
+
+---
+
 ## Week ending 2026-10-02
 
 *Note: Review runs Mon Oct 5 (market closed). Last trading day was Fri Oct 2. Documentation gaps exist: XLB stop-out and new XLE/XLV entries occurred between Sep 24–Oct 2 without trade-log commits — positions inferred from live Alpaca state. Perplexity API restored this session (had been returning 401 for 4+ prior weeks). ⚠️ CRITICAL: XLP at -6.20% unrealized, only $0.69 above -7% cut floor ($79.84) — monitor for forced cut at next open.*
