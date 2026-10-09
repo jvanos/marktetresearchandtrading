@@ -823,3 +823,17 @@ No positions yet. Bot launches tomorrow.
 - **Portfolio:** Long mktval ~$80,234 | Cash $28,117.05 (26.0%) | Deployed **74.1%** (marginally below 75-85% target) | Equity **$108,351.47** | Day P&L +$209.04 (+0.19%) vs Oct 8 close $108,142.43 | Phase P&L **+$8,351.47 (+8.35%)** | 0 trades this week (8 remaining).
 - **All 4 stops verified active:** XLE b7bc6677 (10% trail ✓), XLK e68e69b7 (10% trail ✓), XLP ac2134a7 (**FIXED $78.71** ⚠️), XLV a926a245 (10% trail ✓).
 - **Key watch:** ⚠️ XLP fixed-stop anomaly persists; floor $79.84 at $3.35 buffer (4.0%). XLK tighten thresh $211.61 (~6.3% off). U-Mich sentiment 10am ET — watch for risk-off if weak. No 5th-slot candidate; deployment 74.1% acceptable; patience.
+
+---
+
+## 2026-10-09 — Midday Scan (~13:02 ET, Day 73, Friday)
+
+- **No action taken.** No losers at -7%; no winners at +15%/+20%. All theses intact. All stops active.
+- **XLE** 340 @ $61.46 | **$65.43** (**+6.46% unr., +$1,350**). Day +0.29%. Stop **$59.2695** (10% trail, HWM **$65.855** — auto-advanced from $65.4673/$58.9206 since market-open; b7bc6677 ✓). Oil holding (~$90.68 WTI); Mideast shipping tensions persist. Energy YTD leader; thesis intact. No cut, no tighten (+15% thresh $70.68).
+- **XLK** 117 @ $184.005 | **$198.43** (**+7.84% unr., +$1,688**). Day +0.33%. Stop $182.925 (10% trail, HWM $203.25, e68e69b7 ✓). +15% tighten thresh **$211.61 (~6.6% away)**. AI-valuation scare (OpenAI rev ~$50B vs $70B proj) unwinding; semis rebounding from Thu SOX -3.4%. Thesis intact. No cut, no tighten.
+- **XLP** 160 @ $85.85 | **$83.37** (**-2.89% unr., -$397**). Day -0.06%. Stop **$78.71 (FIXED stop ac2134a7, not trailing)** ⚠️. -7% cut floor $79.84 — **buffer $3.53 (4.2%)**. Not triggered. Fixed-stop replacement BLOCKED: $83.37 × 90% = $75.03 < $78.71 (would move stop down); needs price ≥$87.465. Fixed stop expires 2027-01-04 (prior Oct-28 expiry warning was for superseded order e5e90c54 — **resolved**). Stop does the work. No cut.
+- **XLV** 127 @ $165.93 | **$170.715** (**+2.88% unr., +$608**). Day **+1.52%**. Stop **$153.657** (10% trail, HWM **$170.73** — auto-advanced from $170.38/$153.342 since Oct 8 EOD; a926a245 ✓). **Perplexity confirmed catalyst:** Oil/yield relief (Trump: no Iran attack before midterms), Humana rally on Medicare star ratings, UNH/JNJ advancing ahead of Oct 13 earnings; Cantor raised LLY/ABBV targets — macro-driven rebound after Thu's sector weakness (-1.2%). Thesis intact. No cut, no tighten (+15% thresh $190.82).
+- **Portfolio:** Long mktval $80,483 | Cash $28,117.05 (26.0%) | Deployed **74.0%** (marginally below 75-85% target) | Equity est. **~$108,600** | Day P&L est. **+$477 (+0.44%)** vs Oct 8 close $108,123.27 | Phase P&L est. **+$8,600 (+8.60%)** | 0 trades this week (8 remaining).
+- **Stop auto-advances noted:** XLE HWM $65.4673→$65.855 (stop $58.9206→$59.2695 ✓); XLV HWM $170.38→$170.73 (stop $153.342→$153.657 ✓). Both auto-advanced by Alpaca trailing mechanism. XLK HWM $203.25 and XLP fixed-stop $78.71 unchanged.
+- **All 4 stops verified active:** XLE b7bc6677 (10% trail ✓), XLK e68e69b7 (10% trail ✓), XLP ac2134a7 (**FIXED $78.71** ⚠️, expires 2027-01-04), XLV a926a245 (10% trail ✓).
+- **Key watch:** ⚠️ XLP fixed-stop anomaly persists (non-trailing); floor $79.84 at $3.53 buffer (4.2%). XLK tighten thresh $211.61 (~6.6% off). XLK stop (e68e69b7) expires 2026-11-18 — renew before then. **Perplexity API restored** (was 401 for 4+ weeks, now healthy). No 5th-slot candidate; patience.
